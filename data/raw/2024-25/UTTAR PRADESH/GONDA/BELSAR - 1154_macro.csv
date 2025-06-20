@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Bakiyapur,0,0,100,5,74,21,0,72,28,48,52,0,13,87,0,0,100,83,17,77,23,94,6,17,83,100,0
+Deverda,0,0,100,3,82,15,0,66,34,49,51,0,7,93,0,0,100,88,12,82,18,89,11,27,73,99,1
+Belsar,0,0,100,6,72,22,0,63,37,48,52,0,8,92,0,0,100,88,12,80,20,86,14,26,74,100,0
+Barouli,0,0,100,4,82,14,0,66,34,46,54,0,10,90,0,0,100,96,4,79,21,86,14,22,78,98,2
+Badlepur,0,0,100,3,84,13,0,64,36,49,51,0,11,89,0,0,100,93,7,83,17,88,12,22,78,91,9
+Ismailpur,0,0,100,6,75,19,0,68,32,46,54,0,3,97,0,0,100,96,4,79,21,86,14,22,78,93,7
+Semari Kalan,0,0,100,5,81,14,0,69,31,46,54,0,3,97,0,0,100,94,6,84,16,85,15,16,84,98,2
+Sisai,0,0,100,7,72,21,0,61,39,52,48,0,4,96,0,0,100,88,12,78,22,84,16,14,86,100,0
+Jabbar Nager,0,0,100,6,73,21,0,70,30,44,56,0,4,96,0,0,100,96,4,81,19,84,16,19,81,92,8
+Mahadeo,0,0,100,3,87,10,0,70,30,48,52,0,11,89,0,0,100,85,15,75,25,85,15,26,74,96,4

@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Chitisapur,0,0,100,35,65,0,0,100,0,96,4,0,0,100,0,0,100,81,19,72,28,80,20,100,0,94,6
+Aodhera,0,0,100,34,66,0,0,100,0,100,0,0,0,100,0,0,100,76,24,77,23,79,21,100,0,94,6
+Parmi Kutubpur,0,0,100,40,60,0,1,99,0,100,0,0,0,100,0,0,100,79,21,79,21,80,20,100,0,95,5
+Mahodaypur,0,0,100,44,56,0,0,100,0,98,2,0,0,100,0,0,100,78,22,79,21,79,21,100,0,95,5
+Asni,0,0,100,43,57,0,0,100,0,100,0,0,0,100,0,0,100,90,10,77,23,84,16,100,0,96,4
+Ojhapur,0,0,100,36,64,0,0,100,0,100,0,0,0,100,0,0,100,76,24,82,18,75,25,99,1,91,9
+Tanda,0,0,100,39,61,0,0,100,0,100,0,0,0,100,0,0,100,78,22,78,22,92,8,100,0,93,7
+Padri,0,0,100,39,61,0,0,100,0,99,1,0,0,100,0,0,100,78,22,78,22,100,0,100,0,92,8
+Saray Dadira,0,0,100,37,63,0,0,100,0,100,0,0,0,100,0,0,100,73,27,81,19,100,0,97,3,93,7
+Umri,0,0,100,37,63,0,0,100,0,100,0,0,0,100,5,0,95,73,27,79,21,97,3,100,0,96,4

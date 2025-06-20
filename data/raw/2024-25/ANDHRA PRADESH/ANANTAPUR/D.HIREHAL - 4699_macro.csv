@@ -1,0 +1,16 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Kudulur,0,1,40,30,10,1,37,4,0,36,5,1,2,38,0,0,41,41,0,36,5,41,0,33,8,40,1
+Hulikal,0,5,37,25,15,2,29,13,0,39,3,0,8,34,0,0,42,42,0,29,13,42,0,35,7,42,0
+Pulakurthi,0,0,43,36,7,0,34,9,0,40,3,1,7,35,0,0,43,34,9,1,42,43,0,33,10,43,0
+Hirdehal,0,1,25,19,6,1,18,8,0,25,1,0,0,26,0,0,26,24,2,1,25,26,0,18,8,26,0
+Obulapuram,0,0,42,31,10,1,32,10,0,37,5,2,7,33,0,0,42,39,3,0,42,42,0,37,5,42,0
+Dodagatta,0,3,38,30,11,0,31,10,0,37,4,0,9,32,0,0,41,41,0,39,2,41,0,36,5,41,0
+Jajarakal,0,0,15,11,4,0,9,6,0,15,0,0,0,15,0,0,15,12,3,1,14,15,0,9,6,15,0
+Nagalapuram,0,3,38,32,9,0,36,5,0,38,3,2,9,30,0,0,41,35,6,3,38,41,0,33,8,41,0
+Kadalur,0,6,34,33,7,0,31,9,0,36,4,0,3,37,0,0,40,17,23,19,21,40,0,32,8,40,0
+Muradi,2,3,74,63,16,0,61,18,0,70,9,0,10,69,0,0,79,72,7,61,18,79,0,62,17,78,1
+Malapanagudi,0,0,29,22,4,3,17,12,0,28,1,0,3,26,0,0,29,25,4,0,29,29,0,23,6,29,0
+H.Hossahalli,0,2,4,6,0,0,5,1,0,6,0,1,2,3,0,0,6,6,0,0,6,6,0,6,0,6,0
+D.Hirehal,0,7,29,31,4,1,26,10,0,35,1,1,4,31,0,0,36,31,5,0,36,36,0,25,11,36,0
+Somalapuram,0,0,37,21,14,2,27,10,0,34,3,0,5,32,0,0,37,37,0,36,1,37,0,31,6,37,0
+H.Siddapuram,0,2,14,12,4,0,8,8,0,15,1,0,3,13,0,0,16,14,2,0,16,16,0,11,5,16,0

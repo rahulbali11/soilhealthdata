@@ -1,0 +1,15 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Vallampatla,0,6,34,28,10,2,1,20,19,37,3,16,9,15,9,0,31,39,1,28,12,40,0,36,4,39,1
+Kummarakuntla,0,0,40,36,2,2,18,22,0,38,2,5,6,29,40,0,0,34,6,40,0,40,0,38,2,40,0
+Cheemalapadu,0,3,68,37,16,18,31,25,15,65,6,5,18,48,67,0,4,34,37,48,23,71,0,68,3,69,2
+A.Konduru,0,1,81,29,22,31,46,36,0,74,8,21,10,51,63,0,19,45,37,57,25,82,0,76,6,82,0
+Koduru,0,0,31,30,0,1,7,24,0,29,2,1,5,25,31,0,0,13,18,22,9,31,0,29,2,28,3
+Atlapragada,0,0,40,25,15,0,1,37,2,36,4,13,6,21,40,0,0,24,16,31,9,40,0,36,4,40,0
+Krishnaraopalem,0,1,39,38,0,2,40,0,0,36,4,10,12,18,1,0,39,40,0,39,1,40,0,40,0,40,0
+Kambampadu,0,2,39,34,5,2,18,20,3,36,5,5,14,22,40,0,1,19,22,36,5,41,0,38,3,40,1
+Marepalle,0,0,9,9,0,0,5,4,0,9,0,3,4,2,9,0,0,1,8,6,3,9,0,8,1,9,0
+Madhavaram (East),0,0,15,10,2,3,9,6,0,13,2,5,3,7,15,0,0,14,1,15,0,15,0,15,0,15,0
+Madhavaram (West),0,0,25,20,3,2,3,9,13,23,2,4,7,14,25,0,0,12,13,20,5,25,0,25,0,25,0
+Polisettipadu,0,4,33,27,5,5,9,22,6,34,3,5,6,26,31,0,6,26,11,25,12,37,0,36,1,37,0
+Repudi,0,4,36,14,16,10,2,15,23,37,3,10,12,18,32,0,8,37,3,7,33,40,0,39,1,39,1
+Gollamandala,0,2,38,24,10,6,2,23,15,33,7,3,4,33,36,0,4,30,10,1,39,40,0,35,5,23,17

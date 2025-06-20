@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Pokhari,0,10,50,7,51,13,36,32,3,68,3,56,13,2,0,0,71,70,1,70,1,71,0,70,1,71,0
+Bayalisera,0,13,48,23,37,5,54,11,0,65,0,54,11,0,0,1,64,64,1,65,0,65,0,65,0,65,0
+Ana,0,14,140,29,103,48,139,27,14,170,10,168,11,1,0,6,172,179,1,178,2,176,2,156,24,177,3
+Munyura Mafi,0,38,200,36,122,84,50,138,54,218,24,174,51,17,0,0,242,237,5,229,13,237,3,191,51,234,8
+Amsyari,0,0,128,38,12,78,18,54,56,103,25,51,37,40,0,0,128,117,11,127,1,109,18,78,50,119,9
+Maigari State,0,26,124,30,98,24,52,98,2,144,8,75,69,7,0,0,152,149,3,140,12,148,2,144,8,151,1
+Garser,0,15,108,35,79,16,23,88,19,123,7,80,50,0,0,0,130,122,8,122,8,121,9,123,7,127,3
+Riuni Lakhamar,0,6,80,36,50,11,49,41,7,91,6,70,23,4,0,0,97,93,4,91,6,97,0,89,8,96,1
+Agar,0,13,62,17,41,17,41,32,2,71,4,59,8,8,0,0,75,72,3,70,5,74,1,73,2,75,0
+Kajyuli,0,8,52,14,32,14,35,24,1,57,3,49,4,7,0,0,60,58,2,56,4,59,1,58,2,59,1

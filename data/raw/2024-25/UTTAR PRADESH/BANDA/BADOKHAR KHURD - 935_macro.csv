@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Ganchha,0,0,100,28,62,10,0,92,8,39,61,0,45,55,0,0,100,99,1,84,16,100,0,26,74,87,13
+Karbai,0,0,100,27,63,10,1,99,0,37,63,0,17,83,0,0,100,99,1,82,18,99,1,21,79,97,3
+Chhanehara Lalpur,0,0,100,32,63,5,0,100,0,59,41,0,29,71,0,0,100,98,2,86,14,100,0,33,67,100,0
+Bisanda Khurd,0,0,100,32,64,4,0,99,1,53,47,0,28,72,0,0,100,93,7,89,11,99,0,43,57,100,0
+Luktara,0,0,100,30,56,14,0,100,0,54,46,0,47,53,0,0,100,100,0,93,7,100,0,18,82,100,0
+Chheharao,0,0,100,34,57,9,0,98,2,44,56,0,32,68,0,0,100,99,1,100,0,96,0,23,77,99,1
+Pathri Bangar,0,0,100,33,56,11,2,98,0,44,56,0,21,79,0,0,100,99,1,100,0,99,0,28,72,99,1
+Etawan,0,0,100,34,54,12,0,99,1,37,63,0,20,80,0,0,100,99,1,98,2,99,0,27,73,100,0
+Chamraha,0,0,100,32,55,13,0,99,1,33,67,0,44,56,0,0,100,100,0,98,2,100,0,25,75,100,0
+Basahari,1,0,99,38,54,8,0,100,0,31,69,0,35,65,0,0,100,100,0,99,1,99,0,20,80,97,3

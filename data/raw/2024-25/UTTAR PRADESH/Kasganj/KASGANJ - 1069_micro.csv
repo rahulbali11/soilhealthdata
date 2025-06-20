@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Sewar,0,2,98,0,82,18,0,100,0,71,29,0,2,98,1,0,99,0,,24,76,45,55,81,19,46,53,58,42
+Salempur Lala,0,3,97,0,90,10,2,98,0,80,20,0,3,97,2,0,98,0,,37,63,42,58,83,16,82,18,61,39
+Chhichhaura,1,2,97,0,91,9,0,99,1,82,18,0,2,98,0,0,100,0,,39,61,38,62,87,12,66,34,69,31
+Kunwarpur,0,5,95,0,83,17,0,100,0,87,13,1,5,94,15,0,85,1,,62,38,76,24,100,0,74,26,100,0
+Kutubpur,0,1,99,1,90,9,0,98,2,80,20,0,2,98,0,0,100,0,,94,6,34,66,97,0,86,14,100,0
+Dilawali,0,0,100,0,100,0,1,99,0,72,28,0,1,99,0,0,100,0,,99,1,46,54,100,0,78,22,100,0
+Barhari Vais,0,0,100,2,94,3,0,98,2,77,22,0,0,100,0,1,99,0,,97,2,53,46,91,0,82,17,97,2
+Bakner,0,0,99,3,93,4,0,96,4,80,20,0,1,99,0,0,100,1,,83,17,58,42,93,7,79,21,84,16
+Dhantoriya,0,0,100,1,85,14,0,97,3,68,32,0,1,99,0,0,96,0,,70,30,53,47,97,0,69,31,100,0
+Tawal Pur,0,2,98,0,85,15,0,100,0,74,26,0,2,98,1,0,98,2,,31,69,56,44,81,16,75,25,78,22

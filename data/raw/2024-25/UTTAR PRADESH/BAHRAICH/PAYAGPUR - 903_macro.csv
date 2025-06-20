@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Thawai,0,0,100,0,95,5,0,95,5,19,81,0,0,100,0,0,100,90,10,89,11,77,23,0,100,83,17
+Shivdaha,0,0,100,0,99,1,0,95,5,28,72,0,0,100,0,0,100,94,6,96,4,80,20,0,100,74,26
+Pakri Kala,0,0,100,0,93,7,0,93,7,22,78,0,0,100,0,0,100,96,4,96,4,75,25,0,100,76,24
+Belwa Padum,0,0,100,0,82,18,0,92,8,32,68,0,0,100,0,0,100,87,13,69,31,79,21,0,100,80,20
+Madh Nagar,0,0,100,0,84,16,0,95,5,24,76,0,0,100,0,0,100,92,8,76,24,77,23,0,100,68,32
+Rajwapur,0,0,100,0,81,19,0,96,4,28,72,0,0,100,0,0,100,93,7,52,48,73,27,0,100,81,19
+Lalpur,0,0,100,0,86,14,0,96,4,29,71,0,0,100,0,0,100,89,11,93,7,80,20,0,99,69,31
+Trikolia,0,0,100,0,87,13,0,89,11,25,75,0,0,100,0,0,100,93,7,69,31,76,24,0,100,78,22
+Satrhi,0,0,100,0,85,15,0,97,3,32,68,0,0,100,0,0,100,90,10,87,13,80,20,1,99,79,21
+Malawa,0,0,100,0,85,15,0,98,2,25,75,0,0,100,0,0,100,92,8,86,14,72,28,0,100,73,27

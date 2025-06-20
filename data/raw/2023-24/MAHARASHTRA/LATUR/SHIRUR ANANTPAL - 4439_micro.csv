@@ -1,0 +1,16 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Aari,1,1,180,0,89,93,182,0,0,0,182,0,6,176,0,0,182,2,,97,85,58,124,182,0,2,180,182,0
+Ajani Bk.,0,0,10,0,6,4,10,0,0,0,10,0,0,10,0,0,10,0,,10,0,6,4,10,0,0,10,10,0
+Talegaon (de),0,0,60,0,11,49,60,0,0,0,60,0,1,59,0,0,60,0,,56,4,50,10,60,0,0,60,60,0
+Shirur Anantpal,0,0,60,0,26,34,60,0,0,0,60,0,2,58,0,0,60,2,,34,26,21,39,60,0,0,60,60,0
+Shivpur,0,1,58,0,28,31,59,0,0,0,59,0,5,54,0,0,59,0,,3,56,23,35,59,0,0,59,55,4
+Bakali,0,0,60,0,30,30,60,0,0,0,60,0,1,59,0,0,60,0,,51,9,2,58,60,0,0,60,60,0
+Dhamangaon,0,0,60,0,33,27,60,0,0,2,58,0,4,56,0,0,60,0,,8,52,52,8,60,0,0,60,60,0
+Ankulga (Syed),0,0,55,0,26,29,55,0,0,0,55,0,1,54,0,0,55,0,,53,2,50,5,55,0,0,55,55,0
+Ankulga (Rani),0,0,1,0,0,1,1,0,0,0,1,0,0,1,0,0,1,0,,1,0,1,0,1,0,0,1,1,0
+Sumthana,0,0,60,0,48,12,60,0,0,0,60,0,3,57,0,0,60,0,,59,1,52,8,60,0,0,60,60,0
+Hippalgaon,0,0,2,0,0,2,2,0,0,0,2,0,0,2,0,0,2,0,,2,0,1,1,2,0,0,2,2,0
+Chabharga,0,0,60,0,24,36,60,0,0,0,60,0,4,56,0,0,60,0,,60,0,50,10,60,0,0,60,60,0
+Dongargaon (Bori),0,5,55,0,31,29,60,0,0,0,60,0,7,53,0,0,60,0,,52,8,33,27,60,0,1,59,60,0
+Yerol,0,0,48,0,13,35,48,0,0,0,48,0,8,40,0,0,48,1,,45,3,25,23,48,0,0,48,48,0
+Bevanal,0,3,57,0,58,2,58,1,1,0,60,1,3,56,0,0,60,0,,47,13,19,41,60,0,0,60,60,0

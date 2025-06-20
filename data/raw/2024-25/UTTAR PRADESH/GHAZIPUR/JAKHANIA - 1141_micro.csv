@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Orasan,0,0,100,0,36,64,0,0,100,37,63,0,0,100,0,0,100,0,,94,6,9,91,100,0,21,79,99,1
+Rampur Patari,1,0,99,0,29,71,0,0,100,41,59,0,2,98,0,0,100,0,,100,0,14,86,100,0,16,84,100,0
+Ghamrao,0,0,100,0,34,66,0,25,75,32,68,25,1,74,0,0,100,0,,22,78,17,83,100,0,12,88,100,0
+Mahar Buzurg,0,0,100,0,41,59,0,39,61,39,61,0,0,100,0,0,100,0,,99,1,10,90,98,1,6,94,100,0
+Mustfabad,0,0,100,2,35,63,0,36,64,42,58,0,0,100,0,0,100,0,,94,6,15,85,100,0,13,87,99,1
+Rampur,0,0,100,0,48,52,1,0,99,14,86,0,0,100,0,0,100,0,,100,0,48,52,100,0,87,13,100,0
+Kanuwan,0,0,100,0,28,72,0,49,51,13,87,0,0,100,3,0,97,0,,95,5,38,62,100,0,85,15,99,1
+Bahrampur,0,0,100,0,40,60,0,0,100,12,88,4,0,96,0,0,100,1,,98,2,49,51,100,0,82,18,99,0
+Hardashpur Kala,0,0,100,7,37,56,8,38,54,14,86,0,1,99,0,0,99,0,,89,11,49,51,100,0,85,15,100,0
+Dilla,0,0,100,0,33,67,0,33,67,13,87,0,0,100,0,0,100,0,,97,3,45,55,100,0,85,15,100,0

@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Taprana,0,0,100,29,50,21,0,82,18,75,25,8,34,58,0,0,99,96,4,85,15,98,2,82,18,97,3
+Malaindi,0,0,100,30,50,20,0,60,40,74,26,7,34,59,0,0,100,98,2,83,17,97,3,78,22,95,5
+Naunagali,0,0,100,21,59,20,0,69,31,74,26,15,32,53,0,0,100,94,6,89,11,95,5,80,20,96,4
+Ambehta Rindan,0,0,100,30,53,17,0,51,49,73,27,14,42,44,0,0,100,91,9,83,17,96,4,75,25,97,3
+Sinkanderpur,0,0,100,27,57,16,0,83,17,73,27,7,34,59,0,0,100,96,4,83,17,99,0,72,28,98,2
+Purmafi,0,0,100,30,52,18,0,74,26,76,24,13,28,59,0,0,100,90,10,74,26,98,2,78,22,93,7
+Rajak Nagar,0,0,100,22,58,20,0,75,25,84,16,5,45,50,0,0,100,100,0,69,31,100,0,80,20,100,0
+Peer Khera,0,0,100,27,55,18,0,74,26,76,24,10,36,54,0,0,100,91,9,76,24,95,5,79,21,93,7
+Jamalpur,0,0,100,20,60,20,1,74,25,82,18,11,33,56,0,0,100,99,1,85,15,95,5,85,15,97,3
+Dargahpur,0,0,100,29,48,23,0,79,21,80,20,3,45,52,0,0,100,99,1,86,14,96,4,83,17,97,3

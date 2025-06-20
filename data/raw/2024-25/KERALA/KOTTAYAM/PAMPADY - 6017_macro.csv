@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Pampady,0,0,1,64,19,1,15,52,17,72,12,48,23,13,0,46,37,84,0,84,0,84,0,4,80,84,0
+Anikkad,0,0,0,74,10,0,30,22,32,83,1,59,21,4,0,39,45,78,6,84,0,84,0,39,45,83,1
+Kottayam,0,0,0,6,0,0,1,5,0,6,0,4,1,1,0,1,5,6,0,6,0,6,0,0,6,6,0
+Kooroppada,0,0,0,59,12,4,9,51,15,73,2,63,9,3,0,19,56,74,1,71,4,75,0,26,49,71,4
+Akalakunnam,0,0,0,55,18,7,10,51,19,64,16,61,17,2,0,51,29,79,1,77,3,80,0,12,68,80,0
+Kidangoor,0,0,0,44,12,1,17,25,15,56,1,51,6,0,0,10,47,57,0,57,0,57,0,3,54,57,0
+Manarcad,0,0,0,70,8,0,6,39,33,78,0,52,20,6,0,64,14,78,0,78,0,78,0,45,33,78,0
+Elikkulam,0,0,0,11,12,23,2,12,32,46,0,43,3,0,0,38,8,42,4,46,0,46,0,46,0,41,5
+Elamgulam,0,0,0,11,8,13,2,7,23,32,0,15,15,2,0,27,5,28,4,32,0,32,0,28,4,29,3
+Meenadam,0,0,0,22,0,0,13,3,7,23,0,21,2,0,0,2,21,22,1,23,0,22,1,12,11,23,0

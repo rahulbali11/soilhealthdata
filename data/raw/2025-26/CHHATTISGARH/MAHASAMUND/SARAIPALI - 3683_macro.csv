@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Parewapali,0,6,26,1,30,1,13,19,0,28,4,0,11,21,0,0,32,31,1,21,11,32,0,32,0,32,0
+Rajadih,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0,1,1,0,1,0,1,0,1,0,1,0
+Akashkhara,0,0,5,0,4,1,2,3,0,5,0,0,4,1,0,0,5,5,0,5,0,5,0,5,0,5,0
+Raipani,0,11,69,4,70,6,35,45,0,73,7,0,40,40,0,0,80,80,0,66,14,80,0,80,0,79,1
+Jalpur,0,6,24,0,24,6,13,17,0,25,5,0,12,18,0,0,30,29,1,20,10,30,0,30,0,30,0
+Saraipatra,0,0,10,0,9,1,4,6,0,9,1,0,2,8,0,0,10,10,0,1,9,10,0,10,0,10,0
+Ghespali,0,2,8,0,10,0,3,7,0,10,0,0,0,10,0,0,10,10,0,5,5,10,0,10,0,10,0
+Padkipali,0,0,20,0,20,0,8,12,0,18,2,0,1,19,0,0,20,20,0,14,6,20,0,20,0,20,0
+Lakhanpali,0,2,8,0,10,0,6,4,0,10,0,0,2,8,0,0,9,10,0,3,7,10,0,10,0,10,0
+Chhirrapali,0,1,5,0,6,0,3,3,0,6,0,0,1,5,0,0,6,6,0,4,2,6,0,6,0,6,0

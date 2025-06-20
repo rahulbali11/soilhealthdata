@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Baharaicha,0,0,100,0,76,24,0,98,2,25,75,0,32,68,0,0,100,84,16,66,34,100,0,10,90,95,5
+Tekari,0,0,100,1,67,32,0,99,1,20,80,0,30,70,0,0,100,85,15,69,31,100,0,18,82,92,8
+Ugapur,0,0,100,1,58,41,0,98,2,22,78,0,32,68,0,0,100,81,19,65,35,100,0,11,89,76,24
+Malikanpur,0,0,100,0,66,34,0,99,1,22,78,0,33,67,0,0,100,40,60,52,48,99,0,12,88,76,24
+Rampur,0,0,100,0,71,29,2,97,1,18,82,0,36,64,0,0,97,84,16,62,38,100,0,18,82,89,11
+Bibipur,0,0,100,0,80,20,0,99,1,23,77,0,33,67,0,0,100,20,80,23,77,100,0,12,88,63,37
+Ranipur,0,0,100,0,69,31,0,100,0,23,77,0,33,67,0,0,100,30,70,34,66,99,0,8,92,58,42
+Pipara,1,0,99,2,66,32,0,100,0,20,80,0,31,69,1,0,99,51,49,46,54,100,0,7,93,56,44
+Surtasapur,0,0,100,1,80,19,1,98,1,20,80,0,30,70,0,0,100,15,85,30,70,100,0,10,90,57,43
+Rani Patti,0,0,100,1,73,26,0,100,0,1,99,0,33,67,0,0,100,78,22,62,38,100,0,13,87,97,3

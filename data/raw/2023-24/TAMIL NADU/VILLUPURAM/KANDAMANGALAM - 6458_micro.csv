@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Kondur,0,0,100,85,13,2,2,92,6,77,23,4,12,84,1,0,99,1,,47,53,73,27,99,1,10,90,88,12
+Puvarasamkuppam,1,0,99,91,8,1,4,93,3,64,36,27,17,56,0,0,100,0,,77,23,60,40,100,0,5,95,91,9
+Sornavur (Kilpadi),0,0,100,92,8,0,20,80,0,78,22,4,28,68,0,0,100,1,,50,50,50,50,100,0,12,87,97,3
+Kandamangalam,0,0,87,50,37,0,2,80,5,82,5,48,1,38,0,0,87,0,,58,29,47,40,87,0,45,41,76,11
+Pallineriyanur,0,0,101,0,101,0,0,101,0,76,25,0,0,101,0,0,101,0,,98,3,36,65,101,0,78,23,69,32
+Kongambattu,0,0,100,0,100,0,0,100,0,100,0,0,0,100,0,0,100,0,,100,0,42,58,100,0,82,18,64,36
+Rampakkam,0,0,100,49,39,11,0,95,5,78,22,1,8,91,0,0,100,0,,59,41,65,35,99,1,13,87,87,13
+Periyababusamudram,0,0,103,100,2,1,25,29,49,81,22,52,6,45,0,0,103,1,,55,48,80,22,102,1,13,89,97,6
+Kalittirambattu,0,0,101,2,99,0,1,98,2,99,2,2,0,99,0,0,101,0,,98,3,51,50,101,0,76,25,61,40
+Pakkiripalayam,0,0,100,0,100,0,0,99,1,100,0,0,0,100,0,0,100,0,,98,2,34,66,100,0,86,14,70,30

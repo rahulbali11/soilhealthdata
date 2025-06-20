@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Majhauli,0,0,100,23,71,6,5,90,5,12,88,0,0,100,0,0,99,0,,85,15,72,28,100,0,11,89,75,25
+Sherawan,0,0,100,25,68,7,6,91,3,20,80,0,0,100,0,0,98,1,,82,18,72,28,100,0,21,78,75,25
+Sikarara,0,0,100,32,61,7,6,91,3,26,74,0,0,100,1,0,98,0,,82,18,68,32,99,0,25,75,90,10
+Lakhuwa,0,0,100,29,61,10,3,91,6,5,95,0,1,99,2,0,97,1,,81,19,64,36,100,0,17,83,72,28
+Dudauli,0,0,100,28,65,7,6,91,3,24,76,0,0,100,0,0,100,0,,84,16,63,37,100,0,5,94,82,18
+Bhuwa Khurd,0,0,100,21,73,6,7,93,0,31,69,0,0,100,0,0,100,0,,72,28,74,26,100,0,13,87,98,2
+Harigaon,0,0,100,22,70,8,4,95,1,24,76,1,0,99,0,0,99,1,,86,14,60,40,100,0,10,90,79,21
+Damaruwa,1,0,98,24,69,7,7,90,3,27,73,0,0,100,0,0,98,0,,83,17,63,37,100,0,3,97,85,15
+Sarai Rai Chand,1,0,99,25,69,6,3,89,8,21,78,0,0,100,0,0,100,0,,82,18,70,30,100,0,9,91,94,6
+Nikarozpur,0,1,99,24,68,8,2,97,1,26,74,0,0,100,0,0,100,1,,87,13,70,30,99,0,13,87,91,9

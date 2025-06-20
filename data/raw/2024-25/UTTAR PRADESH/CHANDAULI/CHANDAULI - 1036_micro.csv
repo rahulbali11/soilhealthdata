@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Kata,0,0,100,2,61,37,1,91,8,1,99,0,0,100,0,0,100,0,,83,17,50,50,96,4,54,46,94,6
+Narsinghpur Khurd,0,0,100,0,28,72,0,90,10,0,100,0,0,100,0,0,100,0,,23,77,1,99,76,24,48,52,7,93
+Parasi Khurd,0,0,100,0,14,86,0,95,5,0,100,0,1,99,0,0,100,0,,7,93,1,99,76,24,94,6,93,7
+Chanhata,1,0,99,0,24,76,0,97,3,1,99,1,0,99,0,0,100,0,,53,47,2,98,98,2,86,14,100,0
+Darbeshpur,0,0,100,0,20,80,1,95,4,0,100,0,1,99,0,0,100,0,,13,87,0,100,90,10,85,15,98,2
+Sultanpur,0,0,100,1,22,77,0,95,5,0,100,0,0,100,0,0,100,0,,41,59,41,59,92,8,80,20,100,0
+Urgawan,1,0,99,0,11,89,0,93,7,0,100,0,0,100,0,0,100,0,,55,45,3,97,80,20,75,25,36,64
+Jamokhar,0,0,100,2,12,86,1,90,9,2,98,0,0,100,0,0,100,0,,58,42,15,85,93,7,85,15,98,2
+Sudaw,0,0,100,0,14,86,0,88,12,1,99,0,0,100,0,0,100,0,,86,14,12,88,100,0,88,12,89,11
+Oaraya,0,0,100,1,17,82,2,86,12,1,99,0,0,100,0,0,100,0,,97,3,17,83,90,10,90,10,99,1

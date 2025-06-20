@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Nagala Pithora,0,0,100,34,65,1,0,50,50,98,2,1,33,66,0,0,100,83,17,61,39,99,0,63,37,99,1
+Lakhan,0,0,100,30,70,0,0,44,56,100,0,0,32,68,0,0,100,14,86,52,48,79,19,88,12,83,17
+Gujarheri,0,0,100,31,67,2,0,49,51,99,1,0,30,70,1,0,99,45,55,50,50,85,11,83,17,91,9
+Ladwa,0,0,100,38,62,0,0,58,42,100,0,0,26,74,0,0,100,81,19,60,40,99,0,72,28,100,0
+Pipalhera,0,0,100,37,63,0,0,49,51,98,1,0,36,64,0,0,100,84,16,62,38,100,0,67,33,100,0
+Nasirpur,0,0,100,35,65,0,0,61,39,100,0,1,35,64,0,0,100,91,9,58,42,93,0,80,20,100,0
+Haider Nagar Jalalpur,0,0,100,40,59,1,0,42,58,98,2,1,44,55,1,1,96,81,19,64,36,100,0,74,26,100,0
+Jafarpur,0,0,100,29,71,0,0,48,52,98,2,0,36,64,0,0,100,63,37,54,46,93,7,72,28,98,2
+Dhansani,1,0,99,31,69,0,0,45,55,100,0,1,37,62,0,0,100,9,91,52,48,95,5,93,7,85,15
+Titavi,0,0,100,25,75,0,0,44,56,100,0,0,28,72,0,0,100,8,92,52,48,86,14,89,11,88,12

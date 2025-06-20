@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Rajpur,0,27,73,16,42,42,28,67,5,20,80,31,63,6,0,0,100,97,3,97,3,99,1,93,7,98,2
+Natthi Khera,0,6,94,15,45,40,23,76,1,31,69,26,67,7,0,0,100,97,3,98,2,100,0,97,3,99,1
+Gulenda,0,28,72,16,42,42,24,76,0,8,92,40,57,3,0,0,100,97,3,87,13,100,0,96,4,98,2
+Dhamkana,0,3,97,12,45,43,24,76,0,20,80,16,68,16,0,0,100,97,3,87,13,100,0,94,6,100,0
+Lalaun,0,6,94,19,39,42,23,77,0,22,78,20,69,11,0,0,100,95,5,73,27,100,0,97,3,98,2
+Hansarkalan Khurd,0,8,92,23,35,42,57,43,0,23,77,25,68,7,0,0,100,99,1,90,10,100,0,95,5,100,0
+Jhawar,0,13,87,14,39,47,58,42,0,15,85,31,63,6,0,0,100,99,1,88,12,100,0,89,11,99,1
+Kandhari Khurd,0,9,91,24,36,40,62,38,0,9,91,26,63,11,0,0,100,100,0,95,5,100,0,87,13,99,1
+Birdha,0,12,88,25,38,37,54,46,0,17,83,27,68,5,0,0,100,96,4,55,45,100,0,86,14,99,1
+Teta,0,22,78,18,44,38,59,41,0,18,82,43,53,4,0,0,100,96,4,77,23,100,0,97,3,100,0

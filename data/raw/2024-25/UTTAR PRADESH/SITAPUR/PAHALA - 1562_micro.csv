@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Kandari,0,0,100,0,86,14,0,100,0,100,0,0,4,96,0,0,100,0,,100,0,33,67,100,0,100,0,100,0
+Bambhouri,0,0,100,0,87,13,0,100,0,100,0,0,5,95,0,0,100,0,,100,0,59,41,100,0,100,0,100,0
+Kabra,0,0,100,0,85,15,0,100,0,100,0,0,1,99,0,0,100,0,,100,0,58,42,100,0,100,0,100,0
+Mehramau,3,0,97,1,40,59,1,97,2,99,1,0,0,100,1,0,99,0,,98,2,64,36,100,0,99,1,100,0
+Gulauli,0,0,100,5,84,11,1,98,1,99,1,0,8,92,1,0,99,0,,100,0,55,45,99,1,100,0,100,0
+Wazid Nagar,0,1,99,0,93,7,0,98,2,100,0,0,4,96,0,0,100,0,,98,2,53,47,100,0,100,0,100,0
+Dikauli,0,0,100,4,86,10,2,97,1,98,2,0,8,92,0,0,100,0,,98,2,62,38,99,1,100,0,97,3
+Ser,0,0,100,0,94,6,1,97,2,100,0,0,5,95,1,0,99,0,,100,0,57,43,100,0,100,0,99,1
+Sandaur,0,0,100,1,84,15,0,99,1,100,0,0,4,96,0,0,100,0,,98,2,54,46,99,1,100,0,100,0
+Dalmau,1,0,99,3,88,9,0,100,0,100,0,0,4,96,0,0,100,2,,100,0,61,39,100,0,100,0,99,1

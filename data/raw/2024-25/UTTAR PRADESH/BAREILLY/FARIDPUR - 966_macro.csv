@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Longpur,0,1,99,0,74,26,0,99,1,100,0,0,8,92,1,0,99,81,19,100,0,99,1,100,0,98,2
+Bilehra,0,0,100,0,69,31,0,100,0,100,0,0,7,93,0,0,100,78,22,100,0,99,1,100,0,100,0
+Naugawan,0,0,100,0,75,25,0,100,0,100,0,0,8,92,0,0,99,77,23,100,0,100,0,98,2,100,0
+Nagria Kala,0,0,100,0,59,41,0,100,0,98,2,0,8,92,0,0,100,80,20,100,0,99,1,100,0,100,0
+Khanpura,0,0,100,1,67,32,0,99,1,99,1,0,6,94,0,0,100,43,57,99,1,100,0,100,0,94,6
+Rampura Ratan,0,0,100,0,62,38,0,99,1,99,1,0,10,90,0,1,99,58,42,100,0,100,0,91,9,87,13
+Kadarganj,0,0,100,1,62,37,0,100,0,99,1,0,7,93,0,0,100,76,24,71,29,99,1,94,6,99,1
+Kuiyan Uganpur,0,0,100,0,65,35,0,99,1,98,2,0,8,92,0,0,100,57,43,100,0,100,0,99,1,98,2
+Kapoorpur Mohiuddinpur Nagar,0,0,100,0,64,36,1,99,0,96,4,1,6,93,0,0,100,68,32,100,0,100,0,100,0,94,6
+Behra,0,0,100,0,59,41,0,96,4,97,3,0,3,97,0,0,100,78,22,99,0,100,0,100,0,100,0

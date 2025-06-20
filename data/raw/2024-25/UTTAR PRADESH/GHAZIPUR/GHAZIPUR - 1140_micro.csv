@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Akarampur Urf Banzaripur,0,0,100,0,55,45,7,93,0,15,85,0,0,100,0,0,100,0,,87,13,40,60,98,0,63,37,100,0
+Wazidpur,0,0,100,0,57,43,3,91,6,14,86,0,1,99,1,0,99,0,,87,13,41,59,100,0,78,22,99,1
+Tazpur,0,0,100,0,65,35,3,92,5,11,89,0,3,97,0,0,100,0,,100,0,54,46,100,0,81,18,100,0
+Dhawa,0,0,100,15,57,28,28,72,0,12,88,0,0,100,2,0,98,0,,100,0,48,52,100,0,75,25,100,0
+Bawara,0,0,100,17,56,27,32,68,0,13,87,0,9,91,1,0,99,0,,99,1,49,51,100,0,72,28,100,0
+Bindwalia,0,0,100,15,57,28,37,63,0,13,87,0,0,100,6,0,94,0,,93,7,46,54,100,0,84,16,100,0
+Madarpur,0,0,100,16,53,31,43,57,0,14,86,0,12,88,5,0,95,0,,100,0,33,67,100,0,85,15,100,0
+Baxupur,0,0,100,15,55,30,23,77,0,13,87,0,0,100,7,0,93,0,,96,4,47,53,100,0,85,15,100,0
+Mehar Alipur Urf Bhauri,0,0,100,17,54,29,32,68,0,15,85,0,12,88,7,0,93,0,,100,0,40,60,100,0,84,16,100,0
+Chaurahi,0,0,100,20,49,31,37,63,0,16,84,0,0,100,8,0,92,0,,100,0,54,46,100,0,84,16,100,0

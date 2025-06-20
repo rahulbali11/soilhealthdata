@@ -1,0 +1,15 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Devanuppalapadu,0,0,23,7,15,1,4,19,0,23,0,0,2,21,1,0,22,17,6,12,11,23,0,17,6,23,0
+Pasalur,0,0,18,8,10,0,12,6,0,18,0,0,2,16,3,0,15,12,6,12,6,18,0,13,5,18,0
+Pendekallu,0,0,25,19,6,0,18,7,0,25,0,0,0,25,4,0,21,20,5,20,5,25,0,18,7,25,0
+Chinnayakkaluru,0,1,26,22,5,0,21,6,0,27,0,0,2,25,2,0,25,25,2,19,8,27,0,20,7,27,0
+Peddapappur,0,0,30,24,6,0,26,4,0,30,0,0,0,30,5,0,25,24,6,20,10,30,0,23,7,30,0
+Amalladinne,0,4,24,23,5,0,18,10,0,28,0,1,8,19,1,0,27,24,4,25,3,28,0,22,6,28,0
+Dharmapuram,0,0,21,19,2,0,16,5,0,21,0,0,2,19,6,0,15,21,0,17,4,21,0,14,7,20,1
+Jutur,0,2,21,21,2,0,16,7,0,23,0,0,8,15,6,0,17,20,3,19,4,23,0,16,7,22,1
+Muchukota,0,0,32,28,4,0,28,4,0,32,0,0,1,30,2,0,30,20,12,20,11,32,0,21,11,32,0
+Tabjula,0,0,23,16,7,0,13,10,0,23,0,0,2,21,1,0,22,22,1,9,14,23,0,18,5,23,0
+Narasapuram,0,2,21,19,4,0,18,5,0,23,0,0,5,18,1,0,22,9,14,21,2,23,0,15,8,23,0
+Peddayakkaluru,0,5,18,20,3,0,20,3,0,22,1,0,2,21,9,0,14,12,11,18,5,23,0,15,8,23,0
+Garladinne,0,0,7,4,3,0,3,4,0,7,0,0,2,5,3,0,4,7,0,5,2,7,0,7,0,7,0
+Chagallu,0,0,20,16,4,0,16,4,0,20,0,0,1,19,8,0,12,13,7,15,5,20,0,16,4,20,0

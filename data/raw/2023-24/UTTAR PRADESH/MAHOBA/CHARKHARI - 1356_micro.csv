@@ -1,0 +1,6 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Natarra,0,0,100,26,67,7,45,55,0,75,25,1,0,99,0,0,100,0,,20,80,100,0,100,0,0,100,79,21
+Kiratpura,0,0,100,20,70,10,53,47,0,78,22,0,0,100,0,0,100,0,,27,73,98,2,100,0,0,100,85,15
+Baihari,0,0,100,11,79,10,51,49,0,77,23,0,2,98,0,0,100,0,,17,83,100,0,100,0,0,100,81,19
+Pupwara,0,0,100,0,47,53,48,52,0,60,40,0,5,95,0,0,100,0,,11,89,100,0,100,0,1,99,90,10
+Aichana,0,0,100,1,79,20,41,52,7,58,42,0,3,97,0,0,100,0,,12,88,100,0,100,0,0,100,65,35

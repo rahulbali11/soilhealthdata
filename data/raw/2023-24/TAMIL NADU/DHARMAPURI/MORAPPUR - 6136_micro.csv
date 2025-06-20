@@ -1,0 +1,9 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Morappur,0,0,1,0,1,0,0,1,0,1,0,0,0,1,0,0,1,0,,0,1,1,0,1,0,1,0,1,0
+Gobinathampatti,0,0,100,54,45,1,66,34,0,57,43,2,7,91,3,0,97,0,,44,56,50,50,86,14,100,0,84,16
+Nadupatti,0,0,30,19,10,1,17,13,0,18,12,0,0,30,0,0,30,0,,8,22,12,18,21,9,30,0,25,5
+Chinnakoundampatti,0,0,1,1,0,0,1,0,0,1,0,0,0,1,0,0,1,0,,0,1,1,0,1,0,1,0,1,0
+Palayampalli,0,0,100,36,44,20,62,37,1,66,34,4,13,83,0,0,100,0,,24,76,68,32,98,2,100,0,84,16
+Vengiyampatti,0,0,3,2,1,0,1,2,0,2,1,0,0,3,0,0,3,0,,0,3,0,3,3,0,3,0,2,1
+Jakkupatti,0,0,97,43,44,10,49,48,0,66,31,0,4,93,0,0,97,0,,32,65,61,36,93,4,97,0,83,14
+Bannikulam,0,0,100,43,38,19,71,25,4,53,47,0,0,100,0,0,100,16,,41,59,42,58,80,20,100,0,66,34

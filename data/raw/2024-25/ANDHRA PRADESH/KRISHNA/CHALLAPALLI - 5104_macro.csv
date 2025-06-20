@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Lakshmipuram,0,31,57,13,52,23,63,23,2,80,8,3,22,63,0,0,88,31,57,12,62,78,2,39,49,43,21
+Vakkalagadda,0,34,12,12,17,17,33,12,1,43,3,38,8,0,0,0,46,42,4,21,25,46,0,46,0,39,7
+Pagolu,0,32,16,8,17,23,36,12,0,44,4,17,19,12,0,0,48,29,19,21,27,43,5,26,22,32,4
+Nimmagadda,0,14,0,2,1,11,14,0,0,14,0,14,0,0,0,0,14,14,0,8,6,14,0,13,1,6,8
+Mangalapuram,0,36,31,1,16,50,65,2,0,65,2,48,15,4,1,0,66,39,11,42,24,67,0,57,10,51,10
+Challapalle,0,9,7,4,9,3,14,2,0,8,8,0,2,14,0,0,16,7,9,8,8,15,1,16,0,16,0
+Majeru,0,26,80,1,20,85,99,7,0,106,0,46,36,24,1,1,104,80,21,37,68,99,7,91,15,97,6
+Yarlagadda,0,32,30,1,23,38,62,0,0,57,5,31,21,10,0,0,62,40,13,34,28,62,0,50,12,56,4
+Nadakuduru,0,15,20,8,14,13,27,8,0,29,6,0,11,24,0,0,35,34,1,21,14,35,0,26,9,35,0
+Puritigadda,0,12,4,0,1,15,16,0,0,16,0,13,3,0,0,0,16,15,1,6,10,16,0,16,0,13,3

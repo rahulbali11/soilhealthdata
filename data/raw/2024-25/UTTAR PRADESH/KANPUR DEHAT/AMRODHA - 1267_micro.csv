@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Barauli,0,0,100,0,92,8,3,97,0,92,8,1,1,98,0,0,100,0,,64,36,45,55,82,18,79,21,100,0
+Lakhanapur,0,0,100,5,85,10,3,93,4,96,4,0,0,100,0,0,100,1,,79,21,58,42,99,1,98,2,100,0
+Chaura,0,0,100,3,89,8,5,88,7,82,18,0,0,100,0,0,100,0,,69,31,45,55,91,9,100,0,100,0
+Udaipur,0,0,100,4,89,7,3,90,7,84,16,0,1,99,0,0,100,2,,68,32,54,46,91,9,85,15,97,3
+Biroha,0,0,100,3,86,11,3,93,4,82,18,0,1,99,0,0,100,0,,81,19,47,53,92,8,93,7,100,0
+Nonapur,0,0,100,2,88,10,3,89,8,88,12,0,0,100,0,0,100,0,,78,22,49,51,94,6,91,9,100,0
+Naubadpur,0,0,100,0,45,55,3,89,8,83,17,0,0,100,0,0,100,0,,78,22,47,53,100,0,92,8,100,0
+Salarpur,0,0,100,0,48,52,3,90,7,92,8,1,1,98,0,0,100,1,,68,32,48,52,92,8,94,6,100,0
+Bamhrauli Ghat Bangar,0,0,100,0,41,59,3,93,4,97,3,0,0,100,0,0,100,0,,81,19,47,53,88,12,97,3,100,0
+Teoga,0,0,100,0,46,54,5,91,4,90,10,0,0,100,0,0,100,0,,69,31,44,56,100,0,95,5,100,0

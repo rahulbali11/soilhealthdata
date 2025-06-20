@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Atuka,0,0,100,78,22,0,0,100,0,100,0,0,19,81,0,0,100,58,42,74,26,87,13,94,6,100,0
+Birauly,0,0,100,74,26,0,0,100,0,100,0,0,18,82,0,0,100,61,39,72,28,92,8,94,6,100,0
+Chanda Baija,0,0,100,75,25,0,1,95,4,100,0,0,15,85,0,0,100,55,45,74,26,95,5,88,12,100,0
+Dularpur,0,0,100,76,24,0,0,100,0,100,0,0,18,82,0,0,100,63,37,77,23,96,4,93,7,100,0
+Dewnathpur,0,0,100,82,18,0,0,100,0,100,0,0,23,77,0,0,100,65,35,76,24,92,8,97,3,100,0
+Husenpur,0,0,100,77,23,0,0,100,0,100,0,0,20,80,0,0,100,58,42,75,25,86,14,95,5,100,0
+Kudauni,0,0,100,75,24,1,0,100,0,100,0,2,17,81,0,0,100,55,45,80,20,92,8,96,4,100,0
+Mahsona,1,0,99,79,21,0,0,99,1,100,0,0,17,83,0,0,100,52,48,76,24,91,9,96,4,100,0
+Mahmoodpur Lalta,0,0,100,75,25,0,0,100,0,100,0,0,19,81,0,0,100,68,32,79,21,86,14,95,5,100,0
+Kutubpur,0,0,100,81,19,0,0,100,0,100,0,0,21,79,0,0,100,63,37,77,23,90,10,97,3,100,0

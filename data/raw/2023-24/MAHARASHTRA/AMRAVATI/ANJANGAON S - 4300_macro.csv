@@ -1,0 +1,18 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Pardi,0,0,2,0,2,0,2,0,0,0,2,0,0,2,0,0,2,1,1,2,0,2,0,2,0,2,0
+Ramgaon,0,1,60,48,11,2,61,0,0,7,54,0,17,44,0,0,61,6,55,2,59,61,0,0,61,57,4
+Adgaon Ade,0,0,3,0,0,3,2,1,0,0,3,0,0,3,0,0,3,0,3,2,1,3,0,0,3,3,0
+Nimkhed Bazar,0,5,51,54,2,0,56,0,0,0,57,0,19,35,0,0,51,9,51,10,49,60,0,0,59,60,0
+Chincholi Shingne,0,1,59,49,11,0,60,0,0,0,60,0,17,43,0,0,60,6,54,0,60,60,0,1,59,60,0
+Khaspur,0,0,6,6,0,0,6,0,0,0,6,0,0,6,0,0,6,1,5,0,6,6,0,0,6,6,0
+Malkapur Kh.,0,1,54,46,8,1,55,0,0,2,53,0,14,41,0,0,55,6,49,0,55,55,0,0,55,55,0
+Kumbhargaon Bk.,0,0,32,31,1,0,32,0,0,0,32,0,9,22,0,0,32,4,28,1,31,31,0,0,31,32,0
+Pohi,0,0,53,41,12,0,49,4,0,0,53,0,6,47,0,0,53,1,52,1,52,50,0,6,46,53,0
+Kasbegavhan,0,25,35,39,20,1,57,0,3,41,19,11,11,38,5,0,55,20,40,44,16,60,0,10,50,60,0
+Mamrabad,0,0,56,55,1,0,55,0,1,1,55,0,12,44,0,0,56,34,22,29,27,56,0,9,47,56,0
+Songaon,0,0,35,33,2,0,35,0,0,1,34,0,14,21,0,0,34,4,31,8,26,29,0,0,35,35,0
+Hingani,0,3,31,33,1,0,23,11,0,1,33,0,8,26,0,0,34,14,20,5,29,32,0,0,34,33,0
+Alampur,0,2,56,56,2,0,58,0,0,0,58,0,15,43,0,0,58,2,56,12,46,48,0,0,58,57,0
+Hirapur,0,1,34,34,1,0,34,1,0,0,35,0,9,26,0,0,35,2,33,17,18,28,0,1,34,35,0
+Malkapur bk.,0,3,56,41,18,0,54,5,0,1,58,0,10,49,0,0,58,44,15,12,47,45,0,3,56,59,0
+Kotha,0,0,2,0,1,1,1,1,0,0,2,0,1,1,0,0,2,2,0,1,1,2,0,2,0,2,0

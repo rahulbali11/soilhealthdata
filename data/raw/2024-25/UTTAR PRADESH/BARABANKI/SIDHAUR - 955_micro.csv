@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Shekhpur Jahidali,0,0,100,0,40,60,0,61,39,69,31,0,39,61,0,0,100,0,,57,43,37,63,92,8,49,51,7,93
+Tendwa,0,0,100,1,49,50,0,75,25,57,43,1,34,65,0,1,99,0,,37,63,8,92,100,0,88,12,0,100
+Dighawan,0,0,100,0,48,52,0,56,44,58,42,0,33,67,0,0,100,0,,5,95,34,66,100,0,82,18,6,94
+Jalal Pur,0,0,100,0,48,52,0,49,51,68,32,0,48,52,0,0,100,0,,13,87,23,77,100,0,86,14,4,96
+Jiyanpur,0,0,100,0,49,51,0,43,57,56,44,0,13,87,3,0,97,0,,65,35,15,85,99,1,86,14,11,89
+Lakhoopur,0,0,100,0,46,54,0,51,49,78,22,1,37,62,4,0,96,0,,84,16,35,65,94,6,53,47,1,99
+Bibya Pur Ghat,0,0,100,1,67,32,0,83,17,78,22,0,5,95,4,3,92,1,,70,30,27,73,97,3,47,53,30,69
+Pandrawan,0,0,100,0,50,50,0,87,13,82,18,0,6,94,1,0,98,0,,53,47,43,57,100,0,47,53,20,80
+Rasul Pur,0,0,100,2,72,26,1,83,16,87,13,0,1,99,0,1,99,1,,68,32,15,85,96,4,36,64,34,66
+Bambhaura Lodi,0,0,100,0,70,30,2,90,8,83,17,0,7,93,3,1,96,0,,70,30,23,77,97,3,38,62,33,67

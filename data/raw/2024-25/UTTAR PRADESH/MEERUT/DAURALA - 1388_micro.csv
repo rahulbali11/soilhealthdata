@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Batjeora,0,0,100,0,45,55,3,97,0,97,3,0,0,100,0,0,100,0,,88,12,85,15,94,6,74,26,92,8
+Jeori,0,3,97,0,63,37,9,91,0,100,0,0,3,97,0,0,100,0,,91,9,85,15,96,4,73,27,92,8
+Pavli Khurd,0,11,89,0,60,40,5,95,0,99,1,0,12,88,0,0,100,0,,83,17,79,21,95,5,77,23,95,5
+Panwari,0,11,89,0,47,53,6,94,0,98,2,0,15,85,0,0,100,0,,90,10,75,25,95,5,72,28,96,4
+Gesupur Baphawat,0,8,92,0,57,43,6,94,0,97,3,0,9,91,0,0,100,0,,88,12,75,25,99,1,78,22,97,3
+Pavli Khas,0,11,89,0,47,53,2,98,0,97,3,0,11,89,0,0,100,0,,89,11,75,25,97,3,64,36,97,3
+Khirwa Nauabad,0,10,90,0,58,42,3,97,0,98,2,0,10,90,0,0,100,0,,96,4,82,18,98,2,75,25,98,2
+Pohali,0,6,94,0,51,49,4,96,0,97,3,0,6,94,0,0,100,0,,99,1,72,28,98,2,70,30,97,3
+Baparsa,0,15,85,0,58,42,0,100,0,98,2,0,28,72,0,0,100,1,,86,14,79,21,94,6,70,30,83,17
+Siwaya-Jamalullapur,0,11,89,0,58,42,1,99,0,97,3,0,11,89,0,0,100,0,,91,9,78,22,98,2,71,29,99,1

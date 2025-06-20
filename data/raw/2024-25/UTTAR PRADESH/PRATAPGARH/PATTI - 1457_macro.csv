@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Chintamani Pur,0,0,100,20,80,0,0,100,0,85,15,0,0,100,0,0,100,90,10,99,1,100,0,100,0,100,0
+Maraha,0,0,100,21,79,0,0,100,0,89,11,0,0,100,0,0,100,90,10,96,4,100,0,100,0,100,0
+Rampur Khagal,0,0,100,26,74,0,0,100,0,83,17,0,0,100,0,0,100,72,28,99,1,100,0,100,0,100,0
+Sarai Madhi,0,0,100,26,74,0,0,100,0,85,15,0,0,100,0,0,100,79,21,99,1,100,0,98,2,100,0
+Antpur,0,0,100,15,85,0,0,100,0,85,15,0,0,100,0,0,100,96,4,97,3,100,0,100,0,100,0
+Gogalapur,0,0,100,13,87,0,0,100,0,86,14,0,0,100,0,0,100,90,10,95,5,100,0,100,0,100,0
+Maharupur,0,0,100,18,82,0,0,100,0,92,8,0,0,100,2,0,98,84,16,99,1,100,0,100,0,100,0
+Narangpur,0,0,100,36,64,0,0,99,1,86,14,0,0,100,0,0,100,99,1,91,9,100,0,100,0,100,0
+Salahpur,0,0,100,10,90,0,0,100,0,92,8,0,0,100,0,0,100,93,7,99,1,100,0,100,0,100,0
+Mariyampur,0,0,100,27,73,0,0,100,0,91,9,0,0,100,0,0,100,92,8,99,1,100,0,100,0,100,0

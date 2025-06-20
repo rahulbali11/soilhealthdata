@@ -1,0 +1,15 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Bal Pora,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,1,1,0,1,0,1,0,1,0
+Domb Wani,0,39,66,6,99,0,67,10,28,103,2,78,24,3,0,29,76,1,104,99,6,66,39,101,4,103,2
+Poterwal,1,49,71,9,107,5,81,14,26,117,4,83,32,6,0,69,52,0,121,115,6,52,69,106,15,119,2
+Mughalpora,0,105,22,2,124,1,0,110,16,126,0,117,9,0,0,1,126,0,127,121,6,86,41,126,1,127,0
+Nazneen Pora,0,14,84,5,88,5,0,22,77,88,11,75,22,0,0,4,90,0,99,89,10,61,38,88,11,95,4
+Choti Pora,0,201,25,9,214,3,100,107,19,211,11,215,6,5,0,51,175,20,205,196,22,135,87,202,23,220,4
+Gund-i-Hadow,0,2,0,0,1,1,0,0,2,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Kani Pora,0,5,2,0,3,4,0,1,6,0,0,2,5,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+Aglar,0,8,1,0,3,6,0,3,6,0,0,2,7,0,0,0,9,0,0,0,0,0,0,0,0,0,0
+Keegam,0,4,0,1,1,2,1,2,1,0,0,1,1,2,0,1,3,0,0,0,0,0,0,0,0,0,0
+Tukroo,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Audora Rampathri,0,2,0,0,2,0,1,1,0,0,0,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Teng Wani,0,2,1,0,2,1,0,0,3,0,0,0,1,2,0,0,3,0,0,0,0,0,0,0,0,0,0
+Daramdor,0,2,0,0,0,2,0,0,2,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0

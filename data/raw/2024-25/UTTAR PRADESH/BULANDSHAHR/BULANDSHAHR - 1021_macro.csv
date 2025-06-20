@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Gangarua,0,1,99,40,56,4,0,99,1,29,71,0,1,99,0,0,100,43,57,90,10,100,0,97,3,100,0
+Kahira,0,1,99,35,61,4,0,100,0,20,80,0,1,99,0,0,100,48,52,80,20,100,0,95,5,81,19
+Khetalpur Bhansauli,0,10,90,39,56,5,0,100,0,24,76,0,11,89,0,0,100,46,54,39,61,100,0,99,1,71,29
+Sunahra,0,1,99,63,35,2,0,100,0,31,69,1,1,98,0,0,100,15,85,94,6,100,0,100,0,99,1
+Dariapur,0,3,97,32,53,15,0,100,0,21,79,0,3,97,0,0,100,62,38,52,48,100,0,99,1,97,3
+Machkauli,0,0,100,28,66,6,0,100,0,20,80,0,0,100,0,0,100,48,52,89,11,100,0,98,2,94,6
+Bahalimpura (CT),0,11,89,27,68,5,0,98,2,19,81,0,12,88,0,0,100,54,46,74,26,100,0,95,5,100,0
+Jalkhera,0,3,97,21,68,11,0,99,1,25,75,0,3,97,0,0,100,50,50,87,13,99,1,98,2,80,20
+Dhimari Aidalpur,0,11,89,25,70,5,1,99,0,25,75,0,12,88,0,0,100,45,55,66,34,100,0,96,4,92,8
+Kaulsena,0,3,97,32,60,8,0,98,2,20,80,0,3,97,0,0,100,38,62,55,45,100,0,97,3,99,1

@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Betla,0,0,100,4,94,2,0,94,6,28,72,0,0,100,0,0,100,0,,48,52,61,39,88,12,48,52,58,42
+Bhawanch,0,0,100,0,92,8,0,98,2,35,65,0,0,100,0,1,99,0,,52,48,65,35,82,15,52,48,68,32
+Hadakpur,0,0,100,0,94,6,1,90,9,44,56,1,9,90,0,0,100,0,,58,42,66,34,81,12,60,40,100,0
+Abu Nagar,0,0,100,0,98,2,0,97,3,34,66,3,15,82,0,0,100,0,,73,27,76,24,86,14,78,22,84,16
+Mitholi,0,0,100,2,94,4,4,87,9,36,64,1,10,89,0,0,100,0,,43,57,57,43,99,1,77,23,78,22
+Phul Singh,0,0,100,5,92,3,1,84,15,76,24,0,8,92,0,1,98,0,,68,32,46,54,83,16,86,14,69,31
+Firozpur,0,0,100,3,90,7,1,94,5,58,42,0,1,99,0,0,98,1,,70,30,64,36,85,14,50,50,58,42
+Bhirwara,0,0,100,0,95,5,1,89,10,67,33,2,10,88,0,0,100,0,,69,31,38,62,95,5,75,25,79,21
+Chokoni,0,0,100,4,93,3,1,89,10,64,36,2,6,92,0,0,99,0,,46,54,48,52,99,0,74,26,88,12
+Chandawli,1,0,99,3,92,5,1,88,11,53,47,0,6,94,0,0,100,0,,61,39,21,79,89,11,79,21,51,49

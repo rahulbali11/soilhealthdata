@@ -1,0 +1,9 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Okkarai,0,0,102,38,28,36,68,33,1,87,15,0,6,96,2,0,100,52,50,54,48,102,0,67,35,102,0
+Osarapalli,1,0,21,6,0,16,21,1,0,22,0,0,0,22,0,0,22,21,1,22,0,22,0,9,13,22,0
+Alagapuri,0,0,25,24,0,1,25,0,0,25,0,0,0,25,0,0,25,25,0,25,0,25,0,14,11,25,0
+Kottapalayam (West),0,0,40,35,0,5,40,0,0,40,0,0,0,40,0,0,40,40,0,40,0,40,0,15,25,40,0
+Eragudi South,0,0,40,19,1,20,39,1,0,40,0,0,0,40,12,0,28,40,0,40,0,40,0,17,23,40,0
+Kottapalayam (East),0,0,60,21,4,35,60,0,0,60,0,0,0,60,23,0,37,60,0,60,0,60,0,27,33,60,0
+Eragudi North,0,0,62,23,0,39,61,1,0,62,0,0,0,62,20,1,41,61,1,62,0,62,0,28,34,62,0
+Sobanapuram,0,0,78,17,0,61,77,1,0,78,0,0,0,78,5,0,73,72,6,78,0,78,0,35,43,78,0

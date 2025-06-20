@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Bansak,0,0,100,32,50,18,51,28,21,71,29,0,2,98,5,0,95,71,29,73,27,92,8,1,99,89,11
+Dudgaun,0,0,100,26,61,13,34,48,18,84,16,0,7,93,3,0,97,63,36,75,24,89,11,5,95,85,15
+Pandura,0,0,100,21,61,18,41,43,16,79,21,0,5,95,5,0,95,60,40,79,21,93,7,1,99,88,12
+Chandpura,0,0,100,31,51,18,51,28,21,73,27,0,3,97,0,0,100,64,36,81,19,91,9,0,100,91,9
+Sahabrampur,0,0,100,31,65,4,46,43,11,75,24,0,11,89,2,0,98,60,40,80,20,93,7,1,99,90,10
+Manauna,0,0,100,36,47,17,46,39,15,85,15,1,2,97,1,0,99,58,42,75,25,93,7,4,96,87,13
+Simrau,1,0,99,21,42,37,41,44,15,84,16,1,8,91,0,0,100,67,33,75,25,86,11,4,96,91,9
+Aimanpur,0,0,100,21,52,26,45,39,16,83,17,1,11,88,3,0,97,69,31,79,21,92,8,1,99,93,7
+Nadrela,1,0,99,32,51,17,41,46,13,73,27,1,7,92,0,0,99,62,38,76,24,91,9,4,96,88,12
+Virsinghpur,0,0,100,22,53,25,39,45,16,76,24,0,2,98,2,0,98,65,35,79,20,90,7,4,96,86,14

@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Suttha Hardo,0,0,100,0,25,75,3,90,7,15,85,0,1,99,0,0,100,0,,61,39,100,0,100,0,100,0,79,21
+Kiratpur Charuhar Urf Devgana,0,0,100,0,25,75,4,89,7,32,68,1,0,99,0,0,100,0,,60,40,100,0,100,0,100,0,94,6
+Payagpur Mu.,1,0,99,2,31,67,20,70,10,26,74,0,2,98,1,0,99,0,,89,11,100,0,100,0,100,0,70,30
+Chandai Charuhar Mu.,1,0,99,1,9,90,8,84,8,25,75,0,0,100,17,0,83,0,,86,14,100,0,100,0,100,0,72,28
+Jalalpur Dhai,2,0,98,0,24,76,7,84,9,15,85,0,0,100,26,0,74,0,,64,36,97,3,100,0,100,0,86,14
+Alipur Chakrai,0,0,100,2,22,76,3,84,13,13,87,0,0,100,0,0,100,0,,61,39,99,1,100,0,100,0,94,6
+Charuhar Ziayak,0,0,100,2,11,87,27,71,2,27,73,0,0,100,0,0,100,0,,76,24,97,3,100,0,99,1,86,14
+Raipur Kituli,0,0,100,2,9,89,6,86,8,26,74,0,0,100,26,0,74,0,,88,12,100,0,100,0,100,0,86,14
+Chooli,1,0,99,1,7,92,45,49,6,25,75,0,0,100,1,0,99,0,,89,11,100,0,100,0,100,0,81,19
+Dhuri,0,0,100,2,11,87,27,71,2,27,73,0,0,100,0,0,100,0,,76,24,97,3,100,0,99,1,86,14

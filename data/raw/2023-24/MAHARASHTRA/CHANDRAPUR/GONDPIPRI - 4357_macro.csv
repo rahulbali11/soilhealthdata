@@ -1,0 +1,15 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Borgaon,0,4,9,0,13,0,10,3,0,6,7,0,0,13,0,0,13,13,0,13,0,13,0,13,0,13,0
+Chak Borgaon,0,3,32,0,35,0,29,6,0,3,32,0,0,35,0,0,35,34,1,33,2,35,0,35,0,35,0
+Parsodi,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0,1,1,0,1,0,1,0,1,0,1,0
+Panora,0,1,79,2,78,0,55,23,2,3,77,0,2,78,0,0,80,58,22,77,3,80,0,80,0,78,2
+Chak Talodhi,0,0,52,0,52,0,38,13,1,0,52,0,2,50,0,0,52,43,9,47,5,52,0,49,3,52,0
+Chak Dubarpeth,0,20,35,2,45,8,41,11,3,8,47,0,7,48,0,1,54,45,10,41,14,46,9,43,12,44,11
+Chak Gojoli,0,0,9,1,7,1,6,3,0,3,6,0,0,9,0,0,9,4,5,1,8,9,0,6,3,7,2
+Chak Bapur,0,0,81,0,80,1,42,34,5,5,76,0,1,80,0,0,81,37,44,72,9,81,0,76,5,79,2
+Kondhana,0,0,88,2,79,7,45,37,6,10,78,2,19,67,0,2,86,26,62,84,4,77,11,77,11,73,15
+Hiwara,0,0,34,0,34,0,30,3,1,0,34,0,3,31,0,0,34,18,16,30,4,34,0,30,4,34,0
+Chaklikhitwada,0,0,81,1,38,42,30,51,0,31,50,0,49,32,0,14,67,19,62,43,38,45,36,48,33,29,52
+Darur,0,0,74,2,72,0,49,23,2,1,73,0,1,73,2,0,72,61,13,70,4,74,0,71,3,73,1
+Chak Nandgaon,0,1,45,3,33,10,26,20,0,12,34,0,10,36,0,2,44,20,26,36,10,32,14,31,15,26,20
+Gondpipri,0,0,1,0,1,0,0,1,0,0,1,0,0,1,0,0,1,1,0,1,0,1,0,1,0,1,0

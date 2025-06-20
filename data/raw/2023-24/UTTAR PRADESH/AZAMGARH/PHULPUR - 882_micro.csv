@@ -1,0 +1,7 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Jauma,0,0,100,14,37,49,0,93,7,22,78,0,0,100,0,0,100,0,,48,52,27,73,97,3,74,26,100,0
+Udpur,0,0,100,20,50,30,0,93,7,54,46,0,0,100,0,0,100,1,,38,62,32,68,100,0,80,20,97,3
+Shahjerpur,0,0,100,0,63,37,0,95,5,53,47,0,0,100,0,1,99,0,,71,29,48,52,100,0,85,15,87,13
+Teunga,0,0,100,25,44,31,4,95,1,57,43,0,0,100,0,0,100,0,,46,54,18,82,100,0,77,23,99,1
+Shekhwaliya,0,0,100,3,65,32,0,97,3,51,49,0,0,100,0,0,100,0,,60,40,49,51,100,0,74,26,91,9
+Loniyadih,0,1,99,20,57,23,0,97,3,48,52,0,0,100,0,0,100,0,,78,22,54,46,100,0,78,22,90,10

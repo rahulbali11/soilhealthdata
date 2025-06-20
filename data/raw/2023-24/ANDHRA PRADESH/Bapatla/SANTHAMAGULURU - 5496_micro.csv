@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Kopparam,0,0,23,0,5,18,22,1,0,9,14,0,1,22,0,0,23,1,,0,23,19,4,23,0,18,5,23,0
+Elchur,0,1,61,0,23,36,62,0,0,21,41,0,2,60,0,0,62,0,,2,60,37,25,61,1,49,13,3,55
+Kommala Padu,0,0,22,0,5,17,22,0,0,10,12,0,0,22,8,0,14,0,,0,22,6,16,22,0,18,4,13,9
+Kunduru (East),0,0,3,0,3,0,2,1,0,1,2,0,0,3,0,0,3,0,,0,3,2,1,3,0,2,1,3,0
+Gurijepalle,0,0,21,0,1,17,21,0,0,9,12,0,0,21,1,0,20,1,,1,20,21,0,21,0,12,9,19,0
+Tangedu Malli,0,0,6,2,1,3,6,0,0,4,2,0,0,6,0,0,6,0,,1,5,4,2,3,3,6,0,3,3
+Kamepalle,0,0,18,0,2,14,18,0,0,7,11,0,0,18,0,0,18,0,,0,18,18,0,18,0,12,6,17,0
+Vellala Cheruvu,0,2,21,0,5,18,22,0,1,18,5,0,0,23,0,0,23,1,,7,16,6,17,19,4,19,4,14,7
+Kunduru (West),0,0,21,1,9,11,17,4,0,7,14,0,1,20,0,0,21,1,,0,21,11,10,21,0,17,4,14,7
+Santhamaguluru,0,2,192,53,87,53,170,19,5,121,73,0,2,192,8,0,186,8,,32,162,88,106,178,16,158,36,133,61

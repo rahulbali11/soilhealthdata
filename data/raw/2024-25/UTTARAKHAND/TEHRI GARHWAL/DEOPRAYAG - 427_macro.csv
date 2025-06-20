@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Birakot,0,0,0,123,38,15,108,65,3,132,44,107,59,10,0,0,176,96,80,84,92,174,2,119,57,125,51
+Dhungi,0,0,0,53,11,4,42,26,0,55,13,44,22,2,0,0,68,67,1,49,19,68,0,46,22,54,14
+Bagi,0,0,0,93,55,21,143,25,1,136,33,114,51,4,0,0,169,112,57,122,47,162,7,101,68,162,7
+Kandi Gusainyo Ki,0,0,0,44,14,6,44,19,1,48,16,45,17,2,0,0,64,43,21,47,17,60,4,47,17,49,15
+Naulasilla,0,0,0,36,8,0,16,24,4,30,14,21,20,3,0,0,44,33,11,29,15,41,3,28,16,40,4
+Kanthari,0,0,0,30,12,4,38,8,0,35,11,32,14,0,0,0,46,32,14,31,15,46,0,32,14,24,22
+Roomdhar,0,0,0,28,10,3,30,11,0,34,7,28,11,2,0,0,41,24,17,29,12,38,3,32,9,39,2
+Dovari,0,0,0,53,18,2,26,44,3,53,20,51,22,0,0,0,73,58,15,48,25,70,3,37,36,63,10
+Panchoor,0,0,0,120,41,13,137,33,4,143,31,104,63,7,0,0,174,75,99,136,38,174,0,134,40,114,60
+Chapoli,0,0,0,98,79,15,32,154,6,140,52,98,78,16,0,0,192,133,59,114,78,190,2,150,42,184,8

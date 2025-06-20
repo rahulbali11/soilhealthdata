@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Jalalpur,0,0,100,0,42,58,0,18,82,100,0,0,7,93,0,0,100,0,,78,22,24,76,96,4,100,0,79,21
+Kurha Shahpur,0,0,100,0,58,42,0,16,84,100,0,0,16,84,0,0,100,0,,88,12,86,14,95,5,99,1,100,0
+Lakhupura,0,0,100,0,41,59,0,16,84,97,3,0,0,100,0,0,100,0,,96,4,82,18,96,4,99,1,89,11
+Allapur Chamari,0,0,100,0,41,59,0,18,82,100,0,0,6,94,0,0,99,0,,71,29,91,9,100,0,81,19,99,1
+Nidhanpura,0,0,100,0,44,56,0,23,77,100,0,0,3,97,0,0,100,0,,95,5,89,11,100,0,96,4,100,0
+Indrai,0,0,100,0,35,65,0,11,89,86,14,0,12,88,0,0,100,0,,96,4,57,43,100,0,94,6,97,3
+Asrasi,0,0,100,0,42,58,0,2,98,97,3,0,4,96,0,0,100,0,,75,25,79,21,100,0,91,9,99,1
+Ramzanpur,0,0,100,0,33,67,0,7,93,88,12,0,6,94,0,0,100,0,,56,44,90,10,100,0,100,0,100,0
+Kakora-I,0,0,100,0,33,67,0,4,96,91,9,0,7,93,0,0,100,0,,85,15,62,38,99,1,86,14,93,7
+Jaitpura Pukhta,0,0,100,0,33,67,0,17,83,99,1,0,8,92,0,0,100,0,,92,8,30,70,92,8,95,5,96,4

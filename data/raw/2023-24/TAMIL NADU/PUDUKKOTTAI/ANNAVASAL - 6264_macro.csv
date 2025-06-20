@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Vayalogam,0,0,99,0,16,83,3,55,41,43,56,1,24,74,9,0,90,16,83,92,7,99,0,89,10,99,0
+Tachchampatti,0,0,98,15,83,0,91,7,0,95,3,0,0,98,0,0,98,64,34,93,5,98,0,98,0,98,0
+Talinji,0,1,0,0,1,0,0,0,1,1,0,0,1,0,0,0,1,1,0,1,0,1,0,1,0,1,0
+Vellanjar,0,0,100,23,77,0,93,6,1,100,0,0,0,100,0,0,100,78,22,81,19,100,0,100,0,100,0
+Pudur,0,0,100,0,62,38,0,63,37,95,5,0,0,100,0,0,100,19,81,98,2,100,0,79,21,100,0
+Mathiyanallur,0,0,100,34,14,52,11,73,16,92,8,0,0,100,0,12,88,59,41,52,48,100,0,90,10,100,0
+Vellanur,0,15,85,1,25,74,4,15,81,48,52,32,43,25,0,0,100,23,77,44,56,100,0,98,2,100,0
+Thudaiyur,0,0,99,0,57,42,5,66,28,99,0,0,1,98,1,0,98,50,49,97,2,99,0,58,41,99,0
+Ammachattiram,0,0,100,12,88,0,0,73,27,97,3,0,0,100,0,0,100,52,48,52,48,100,0,84,16,100,0
+Irumbali,0,0,94,23,65,6,23,64,7,94,0,0,0,94,0,0,94,71,23,89,5,94,0,66,28,94,0

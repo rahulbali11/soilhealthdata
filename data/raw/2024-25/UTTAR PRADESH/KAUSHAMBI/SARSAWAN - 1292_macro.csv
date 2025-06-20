@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Alawara,0,0,100,0,94,6,59,41,0,87,13,0,0,100,0,0,100,78,22,60,40,100,0,100,0,85,15
+Shiwara,0,0,100,0,96,4,60,40,0,88,12,0,0,100,0,0,100,69,31,57,43,98,2,100,0,90,10
+Garouli,0,0,100,0,92,8,62,38,0,87,13,0,0,100,0,0,100,86,14,62,38,89,11,100,0,78,22
+Andhawa,0,0,100,0,94,6,50,50,0,87,13,0,0,100,0,0,100,74,26,55,45,100,0,99,1,92,8
+Nikhoda,0,0,100,0,92,8,53,47,0,89,11,0,0,100,0,0,100,82,18,59,41,100,0,100,0,92,8
+Dedhawal Uparhar,0,0,100,0,98,2,42,57,1,91,9,0,0,100,0,0,100,80,20,58,42,82,18,100,0,95,5
+Ranipur,0,0,100,0,96,4,49,51,0,94,6,0,0,100,0,0,100,79,21,54,46,87,13,99,1,91,9
+Pour Kashi Rampur,0,0,100,0,98,2,43,53,4,89,11,0,2,98,0,0,100,79,21,61,39,85,15,99,1,94,6
+Bhawansuri,0,0,100,1,96,3,52,48,0,93,7,0,0,100,0,0,100,79,21,39,61,82,18,99,1,91,9
+Tikari Nagi,0,0,100,1,96,3,56,44,0,91,9,0,0,100,0,0,100,77,23,37,63,83,17,98,2,92,8

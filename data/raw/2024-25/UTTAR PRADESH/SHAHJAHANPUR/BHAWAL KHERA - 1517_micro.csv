@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Jamuhi,0,0,100,2,82,16,0,97,3,98,2,0,0,100,0,0,100,0,,10,90,68,32,92,7,95,5,94,6
+Barnai,0,0,100,3,79,18,0,97,3,98,2,0,1,99,0,0,100,0,,95,5,46,54,83,15,69,31,100,0
+Jamuka,0,0,100,17,77,6,0,97,3,93,7,0,0,100,0,0,99,0,,99,1,16,84,50,49,67,33,100,0
+Ramapur Nankari,0,0,100,10,79,11,0,97,3,94,6,0,0,100,0,0,100,0,,99,1,96,4,100,0,87,13,100,0
+Turki Khera,0,0,100,7,86,7,0,95,5,97,3,0,0,100,0,0,100,0,,98,2,99,1,100,0,99,1,100,0
+Sisauwa,0,0,100,11,84,5,0,97,3,91,9,0,0,100,0,0,100,0,,96,4,96,4,100,0,90,10,100,0
+Daulatpur,0,0,100,16,70,14,0,97,3,96,4,0,0,100,0,0,100,0,,100,0,1,99,82,18,92,8,100,0
+Paina Bujurg,0,0,100,12,78,10,0,96,4,97,3,0,2,98,0,0,100,0,,98,2,97,3,100,0,92,8,100,0
+Devras,0,0,100,18,70,12,0,96,4,92,8,0,0,100,0,0,100,0,,95,5,83,17,100,0,82,18,100,0
+Niyamatpur,0,0,100,17,69,14,0,97,3,95,5,0,0,100,0,0,100,0,,98,2,80,20,99,1,82,18,100,0

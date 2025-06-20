@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Patna Mahdawara,0,15,85,8,36,56,73,26,1,26,74,23,38,39,0,0,100,94,6,87,13,100,0,95,5,100,0
+Girar,0,9,91,6,35,59,80,20,0,19,81,13,35,52,0,0,100,97,3,96,3,100,0,96,4,100,0
+Dainpura,1,13,86,5,35,60,83,17,0,5,95,16,40,44,1,0,99,99,1,89,11,100,0,99,1,100,0
+Jhankar,0,19,81,8,35,57,70,30,0,19,81,28,44,28,0,0,100,95,5,91,9,100,0,98,2,99,1
+Jharaota,0,16,84,9,33,58,69,31,0,22,78,23,31,46,0,0,100,100,0,98,2,100,0,98,2,100,0
+Narahat,0,21,79,5,37,58,73,26,1,2,98,25,44,31,0,0,100,86,14,77,23,100,0,98,2,100,0
+Dhawa,0,8,92,7,34,59,82,18,0,16,84,15,44,41,0,0,100,96,4,86,14,100,0,100,0,100,0
+Chhitra Pur,0,11,89,4,32,64,72,27,1,17,83,24,45,31,0,0,100,93,7,93,7,100,0,94,6,100,0
+Gona,0,11,89,6,34,60,78,22,0,5,95,25,36,39,0,0,100,99,1,94,6,100,0,96,4,99,1
+Gadanpur,0,14,86,5,33,62,89,11,0,6,94,24,45,31,0,0,100,96,4,96,4,100,0,99,1,100,0

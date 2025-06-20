@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Kotamukundpur,0,0,100,1,56,43,0,97,3,96,4,4,58,38,0,0,100,98,2,93,7,100,0,91,9,99,1
+Netasurhurawa,0,0,100,1,41,57,0,94,6,91,9,5,56,39,0,0,99,96,4,94,6,100,0,90,10,100,0
+Sawarejee,0,0,100,1,49,49,0,92,8,91,9,4,51,45,0,0,100,99,1,89,11,98,1,88,12,99,1
+Barahara Rani,0,0,100,0,57,43,1,92,7,89,11,3,53,44,0,0,100,99,1,95,5,100,0,91,9,100,0
+Sardiha,0,0,100,1,55,44,1,94,5,99,1,5,53,42,0,0,100,97,3,93,7,100,0,91,9,100,0
+Bagapar,0,0,100,1,59,40,0,95,5,100,0,9,55,36,0,3,97,96,4,92,8,100,0,84,16,100,0
+Ahamadpur,0,0,100,1,51,48,0,91,9,97,3,4,44,52,0,0,100,98,2,95,5,100,0,89,11,100,0
+Ramhauli,0,0,100,1,59,40,0,93,7,95,5,2,55,43,0,0,100,100,0,95,5,99,0,91,9,97,3
+Pakari,0,0,100,1,46,53,0,93,7,92,8,3,46,51,1,0,99,82,18,93,7,98,0,90,10,98,2
+Rampur,0,0,100,1,49,49,1,96,3,93,7,3,55,42,0,0,99,95,5,91,9,100,0,90,10,99,1

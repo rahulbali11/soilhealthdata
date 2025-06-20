@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Antapur,1,0,99,3,85,12,1,99,0,89,11,0,0,100,1,0,99,0,,79,21,48,52,99,1,84,16,100,0
+Kathra,0,0,100,2,88,10,1,99,0,98,2,0,0,100,0,0,100,0,,76,24,46,54,94,6,89,11,100,0
+Agawasi,0,0,100,3,89,8,2,98,0,85,15,0,0,100,0,0,100,0,,71,29,46,54,90,10,87,13,97,3
+Tutuapur,0,0,100,3,85,12,1,95,4,83,17,0,0,100,0,0,100,0,,76,24,45,55,94,6,87,13,100,0
+Sahanipur,0,0,100,0,80,20,2,91,7,69,31,0,0,100,0,0,100,0,,77,23,61,39,92,8,79,21,100,0
+Pindarathu,0,0,100,1,90,9,3,90,7,84,16,0,0,100,0,0,100,0,,77,23,44,56,98,2,79,21,99,1
+Kasolar,0,0,100,3,89,8,3,91,6,86,14,0,1,99,0,0,100,0,,68,32,44,56,96,4,96,4,99,1
+Bishalpur,0,0,100,3,87,10,4,92,4,87,13,0,0,100,3,0,97,0,,48,52,44,56,91,9,95,5,100,0
+Dariyapur Nitarra,0,0,100,0,54,46,4,92,4,97,3,0,0,100,0,0,100,0,,90,10,41,59,97,3,59,41,100,0
+Mahmudapur Khurd,0,0,100,0,42,58,3,93,4,96,4,0,0,100,0,0,100,0,,88,12,43,57,98,2,95,5,100,0

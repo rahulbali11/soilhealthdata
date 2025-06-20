@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Usarauna,0,0,100,0,18,82,3,94,3,36,64,0,1,99,0,0,100,0,,49,51,97,3,99,1,100,0,89,11
+Dhamauli,0,0,100,0,18,82,1,88,11,35,65,1,1,98,1,0,99,0,,62,38,97,3,100,0,100,0,88,12
+Raipur,1,0,99,0,14,86,3,93,4,34,66,0,5,95,0,0,100,1,,60,40,98,2,100,0,99,1,86,14
+Mirazapur Aihari,0,0,100,0,25,75,3,94,3,14,86,0,1,99,4,0,96,0,,64,36,100,0,100,0,100,0,86,14
+Aihari Buzurg,0,0,100,0,46,54,0,90,10,44,56,0,4,96,0,0,100,0,,63,37,100,0,99,1,99,1,93,7
+Sareni,0,0,100,0,47,53,0,83,17,16,84,1,2,97,1,0,99,5,,62,38,98,2,100,0,100,0,95,5
+Mawai,0,0,100,0,48,52,0,82,18,38,62,0,5,95,0,0,100,26,,61,39,97,3,100,0,100,0,81,19
+Itaura Buzurg,0,0,100,0,48,52,0,92,8,20,80,0,4,96,0,0,100,9,,64,36,68,32,100,0,99,1,97,3
+Delauli,0,0,100,1,52,47,1,89,10,37,63,0,0,100,2,0,98,1,,60,40,96,4,100,0,100,0,85,15
+Alinagar Askaranpur,1,0,99,0,44,56,0,89,11,10,90,0,5,95,0,0,100,0,,89,11,99,1,99,1,97,3,96,4

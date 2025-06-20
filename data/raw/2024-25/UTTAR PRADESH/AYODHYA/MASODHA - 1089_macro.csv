@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Dostpur,0,27,73,3,58,39,0,76,24,82,18,1,9,90,0,0,100,86,14,100,0,100,0,85,15,85,15
+Daulat Pur,0,15,85,4,63,33,0,69,31,85,15,0,6,94,0,0,100,1,99,46,54,88,12,88,12,82,18
+Barwa,0,10,90,6,66,28,0,81,19,50,50,0,1,99,0,1,99,85,15,7,93,100,0,72,28,93,7
+Naipura,0,13,87,8,57,35,0,64,36,89,11,0,0,100,0,0,100,5,95,66,34,92,8,82,18,30,70
+Nandigram,0,29,71,2,59,39,0,56,44,93,7,0,16,84,0,0,100,3,97,76,24,92,8,89,11,61,39
+Birauli,0,4,96,5,58,37,1,67,32,45,55,0,0,100,0,0,100,96,4,7,93,100,0,59,41,99,1
+Bhadersa Ta. Bahar,0,1,99,6,59,35,0,74,26,54,46,0,0,100,0,0,100,88,12,1,99,99,1,73,27,100,0
+Sariyawa,0,0,100,0,56,44,1,70,29,75,25,0,0,100,1,0,99,0,100,8,92,95,5,79,21,99,1
+Sufiya Para,0,0,100,1,51,48,0,76,24,65,35,0,0,100,0,0,100,1,99,96,4,100,0,85,15,100,0
+Saraiya,0,0,100,4,52,44,0,77,23,69,31,0,0,100,0,0,100,1,99,62,38,99,1,93,7,80,20

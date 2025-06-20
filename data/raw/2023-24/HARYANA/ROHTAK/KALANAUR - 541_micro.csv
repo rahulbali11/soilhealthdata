@@ -1,0 +1,8 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Lahli(124),0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,1,0,,1,0,1,0,1,0,0,0,1,0
+Anwal(125),0,0,0,111,83,0,172,21,1,194,0,1,35,158,1,0,193,12,,193,1,188,6,192,2,1,0,194,0
+Kherari(133),0,0,0,121,77,0,170,21,7,197,1,5,49,144,5,0,193,38,,198,0,194,4,197,1,0,0,198,0
+Kalanaur Kalan (Part)(126),0,0,0,116,84,1,180,21,0,201,0,1,39,161,5,0,196,50,,201,0,201,0,201,0,0,0,200,1
+Baniyani(123),0,0,0,126,74,0,171,21,8,200,0,0,50,150,7,0,193,42,,199,1,199,1,198,2,0,0,199,1
+Kakrana(104),0,0,0,115,86,0,195,6,0,200,1,1,61,139,6,0,195,52,,200,1,200,1,200,1,0,0,201,0
+Kalanaur Khurd (Part)(127),0,0,0,130,69,0,105,73,21,199,0,0,34,165,0,0,199,0,,199,0,194,5,197,2,0,0,199,0

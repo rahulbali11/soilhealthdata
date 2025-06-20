@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Barra Sarain,0,0,100,77,23,0,0,86,14,100,0,0,21,79,0,0,100,0,,59,41,68,32,84,16,86,14,100,0
+Garhi,0,0,100,74,26,0,0,86,14,100,0,0,17,83,0,0,100,0,,54,46,69,31,85,15,88,12,100,0
+Bojhwa,0,0,100,72,28,0,0,94,6,100,0,0,16,84,0,0,100,0,,58,42,64,36,82,18,83,17,100,0
+Saripur Chhachheta,0,0,100,73,27,0,0,86,14,100,0,0,18,82,0,0,100,0,,62,38,65,35,84,16,88,12,100,0
+Sekhora,0,0,100,70,30,0,0,93,7,100,0,0,17,83,0,0,100,0,,46,54,57,43,75,25,84,16,100,0
+Pura Bahadur,0,0,100,65,35,0,0,93,7,100,0,0,19,81,0,0,100,0,,52,48,61,39,77,23,85,15,100,0
+Japra,0,0,100,66,34,0,0,91,9,100,0,0,18,82,0,0,100,0,,62,38,73,27,81,19,85,15,100,0
+Jagrauli,1,0,99,64,36,0,0,91,9,100,0,0,16,84,0,0,100,0,,57,43,69,31,81,19,86,14,100,0
+Ramuapur,0,0,100,64,36,0,0,89,11,100,0,0,16,84,0,0,100,0,,56,44,69,31,82,18,85,15,100,0
+Lilwal,0,0,100,71,29,0,0,87,13,100,0,0,17,83,0,0,100,0,,57,43,73,27,83,17,91,9,100,0

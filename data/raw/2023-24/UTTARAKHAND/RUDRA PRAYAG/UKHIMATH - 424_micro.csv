@@ -1,0 +1,12 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Rudrpur,0,0,0,28,63,0,43,48,0,60,31,91,0,0,0,5,86,0,,30,61,91,0,91,0,84,7,91,0
+Dewar,0,0,0,14,111,0,46,74,5,111,14,124,1,0,0,7,118,0,,55,70,124,1,120,5,110,15,118,7
+Tyuri,0,0,0,2,26,0,11,17,0,16,12,28,0,0,0,0,28,0,,3,25,28,0,28,0,20,8,28,0
+Nala,0,0,1,20,128,0,65,81,2,102,46,142,2,4,1,0,147,0,,33,115,148,0,148,0,101,47,147,1
+Barasu,0,0,0,13,29,0,5,37,0,37,5,42,0,0,0,0,42,0,,4,38,40,2,37,5,39,3,42,0
+Dewali Bhanigram,0,0,1,32,93,0,64,61,0,100,25,109,1,15,0,2,123,0,,94,31,124,1,122,3,83,42,125,0
+Phali Phasalat,0,0,0,3,12,0,12,3,0,9,6,14,0,1,0,0,15,0,,2,13,15,0,15,0,14,1,15,0
+Andrawahi,0,0,0,14,36,0,47,3,0,28,22,46,2,2,0,2,48,0,,43,7,50,0,50,0,33,17,50,0
+Salya,0,0,0,13,43,0,51,5,0,44,12,45,6,5,0,0,56,1,,29,27,56,0,54,2,50,6,56,0
+Lwani,0,0,0,0,3,0,3,0,0,2,1,3,0,0,0,0,3,0,,1,2,3,0,3,0,3,0,3,0
+Saruna,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,,1,0,1,0,1,0,1,0,1,0

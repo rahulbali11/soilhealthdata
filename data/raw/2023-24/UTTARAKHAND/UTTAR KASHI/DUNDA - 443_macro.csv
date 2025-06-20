@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Kalyani,0,0,0,38,103,9,37,53,60,72,78,105,43,2,0,0,150,137,13,113,5,135,6,149,1,126,24
+Jemar,0,0,1,22,78,4,17,10,77,55,49,57,38,9,0,0,104,104,0,101,0,92,8,98,6,62,42
+Chinakholi,0,0,0,15,70,5,84,3,3,61,29,69,17,3,0,0,90,66,6,86,3,84,6,90,0,45,45
+Barsali,0,0,0,30,115,15,40,79,41,76,84,104,35,21,0,11,149,113,29,148,1,156,4,159,1,86,74
+Singuni,0,0,0,3,23,4,26,3,1,18,12,30,0,0,0,0,30,30,0,29,1,29,1,30,0,28,2
+Matali,0,0,1,16,112,32,139,4,17,94,66,155,5,0,0,0,160,156,4,139,13,152,3,159,1,117,43
+Pipli-Manjkot,0,0,0,1,31,8,23,15,2,13,27,40,0,0,1,4,35,40,0,10,3,40,0,40,0,39,1
+Bareth,0,0,0,17,108,26,79,68,4,87,64,114,36,1,0,1,150,141,10,147,4,139,11,149,2,100,32
+Saur,0,0,0,25,17,7,20,12,17,26,23,17,31,1,0,0,49,42,7,31,18,44,4,20,29,43,6
+Gorsara,0,0,0,23,14,3,28,12,0,30,10,21,17,2,0,0,40,27,13,22,18,35,5,5,35,35,5

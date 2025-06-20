@@ -1,0 +1,12 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Godhna,1,0,99,26,73,1,0,40,60,99,1,0,35,65,1,0,99,0,,4,96,37,62,74,23,84,16,78,22
+Shakarpur,0,0,100,41,59,0,0,43,57,100,0,0,21,79,1,0,98,0,,80,20,55,45,100,0,82,18,100,0
+Dhamat,0,0,100,35,64,1,0,40,60,100,0,0,16,84,1,0,99,0,,74,26,66,34,96,0,76,24,100,0
+Ghumawti,0,0,100,46,54,0,0,41,59,100,0,0,23,77,0,1,99,0,,36,64,59,41,80,20,76,24,89,11
+Suaheri,1,0,99,39,61,0,0,48,52,100,0,0,15,85,0,0,100,0,,25,75,61,39,86,14,68,32,87,13
+Khaikheri,0,0,100,45,55,0,0,42,58,100,0,0,32,68,0,0,100,0,,25,75,53,47,80,20,80,20,90,10
+Kamhera,0,0,100,46,54,0,0,42,58,100,0,0,37,63,0,0,98,0,,19,81,50,50,74,26,74,26,86,14
+Doheli,0,0,74,25,49,0,0,37,37,74,0,0,16,58,0,0,74,0,,7,67,39,35,68,6,64,10,69,5
+Nurnagar,0,0,100,40,60,0,0,44,56,100,0,0,11,89,0,0,100,0,,98,2,68,32,100,0,75,25,100,0
+Tugalakpur,0,0,100,31,69,0,0,47,53,100,0,0,23,77,0,0,100,0,,7,93,53,47,86,14,75,25,89,11
+Naglamehrdad,0,0,26,10,15,1,0,21,5,25,1,0,1,25,0,0,26,0,,23,3,9,17,26,0,19,7,26,0

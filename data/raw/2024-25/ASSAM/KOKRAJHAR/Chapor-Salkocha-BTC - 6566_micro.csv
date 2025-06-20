@@ -1,0 +1,24 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Salbari,0,30,0,30,0,0,0,0,30,28,2,0,9,21,0,0,30,0,,30,0,12,18,27,3,9,21,0,30
+Bamungaon Pt.-IV,0,10,0,10,0,0,0,0,10,9,1,0,1,9,0,1,9,0,,10,0,9,1,10,0,3,7,1,9
+Choto Malgaon Pt.-I,0,10,0,10,0,0,0,1,9,9,1,0,0,10,0,0,10,0,,10,0,2,8,10,0,6,4,2,8
+Bamungaon Pt.-I,0,7,0,6,1,0,0,1,6,7,0,0,0,7,0,0,7,0,,7,0,4,3,7,0,2,5,3,4
+Alubari,12,20,2,34,0,0,0,12,22,20,14,12,4,18,0,14,20,0,,34,0,25,9,31,3,5,29,6,28
+Bamungaon Pt.-II,0,10,0,8,2,0,0,1,9,6,4,0,0,10,0,0,10,0,,10,0,5,5,9,1,5,5,1,9
+Bethagaon,1,10,0,11,0,0,0,1,10,11,0,1,0,10,0,1,10,0,,11,0,5,6,10,1,9,2,0,11
+Bashbari Pt.-II,4,3,0,7,0,0,0,3,4,1,6,5,1,1,0,7,0,0,,7,0,5,2,5,2,0,7,0,7
+Bashbari Pt.-I,7,1,1,8,1,0,0,2,7,2,7,7,0,2,0,7,2,0,,9,0,5,4,8,1,2,7,2,7
+Tintila,16,9,0,22,2,1,6,12,7,8,17,18,1,6,0,4,21,1,,25,0,9,16,23,2,4,21,8,17
+Bandarpara,0,7,0,6,1,0,0,0,7,4,3,0,0,7,0,0,7,0,,7,0,3,4,6,1,4,3,0,7
+Pukhuripara Pt.-IV,7,1,1,8,1,0,0,5,4,1,8,7,0,2,0,9,0,0,,9,0,6,3,8,1,2,7,5,4
+Pukhuripara Pt.II,0,9,1,7,3,0,0,1,9,10,0,0,0,10,0,0,10,0,,10,0,7,3,10,0,3,7,2,8
+Chakrasila Pt.I,0,5,0,4,1,0,0,0,5,4,1,0,1,4,0,1,4,0,,5,0,1,4,4,1,2,3,0,5
+Malgaon,10,3,1,14,0,0,0,1,13,4,10,10,1,3,0,9,5,0,,14,0,11,3,11,3,1,13,11,3
+Chakrasila Pt.II,0,3,0,3,0,0,0,0,3,3,0,0,0,3,0,0,3,0,,3,0,2,1,3,0,0,3,0,3
+Harikhola,0,5,0,5,0,0,0,0,5,4,1,0,1,4,0,0,5,0,,5,0,3,2,4,1,2,3,0,5
+Bamungaon Pt.-III,0,6,0,6,0,0,0,1,5,5,1,0,0,6,0,0,6,0,,6,0,4,2,4,2,2,4,0,6
+Bethagaon Bamunpara,0,3,0,3,0,0,0,0,3,1,2,0,1,2,0,0,3,0,,3,0,1,2,3,0,1,2,0,3
+Nalbari,2,2,0,4,0,0,1,1,2,1,3,3,1,0,0,4,0,0,,4,0,2,2,3,1,2,2,3,1
+Damodarpur Pt.-II,3,10,0,11,0,2,0,2,11,13,0,3,1,9,0,3,10,0,,13,0,6,7,12,1,2,11,2,11
+Daukabari Pt.-I,14,6,1,19,2,0,0,10,11,11,10,17,0,4,0,17,4,0,,21,0,15,6,20,1,3,18,9,12
+Damodarpur Pt.-I,3,2,0,5,0,0,2,1,2,1,4,3,2,0,0,5,0,0,,5,0,4,1,4,1,0,5,2,3

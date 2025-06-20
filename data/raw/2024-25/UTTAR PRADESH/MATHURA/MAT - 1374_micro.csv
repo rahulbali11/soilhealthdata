@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Neem Gaon,0,0,100,22,70,8,15,63,22,68,32,0,6,94,16,0,84,0,,61,39,81,19,89,11,11,89,91,9
+Dunetiya,0,0,100,31,56,13,13,71,16,71,29,0,10,90,13,0,87,0,,69,31,80,20,89,11,16,84,90,10
+Jaiswan,0,0,100,40,58,2,11,67,22,64,36,0,2,98,11,0,89,0,,70,30,80,20,93,7,13,87,90,10
+Bakla,0,0,100,18,65,17,10,67,23,67,33,0,2,98,20,1,79,0,,68,32,81,19,92,8,12,88,88,12
+Pokher Hirde,1,0,99,10,50,40,15,66,19,65,34,0,2,98,15,1,82,0,,59,41,81,18,91,8,9,91,94,6
+Kurhvara,0,0,100,26,57,17,12,69,19,68,32,0,4,96,14,1,84,0,,59,41,78,22,90,9,17,83,88,12
+Arruwa Banger,0,0,100,22,66,12,13,67,20,63,37,0,5,95,15,1,84,0,,62,38,80,20,90,9,8,92,87,13
+Panigaon Banger,0,0,100,7,50,42,12,63,25,67,33,0,6,94,14,1,83,2,,58,42,75,25,90,8,21,79,83,17
+Bheem Bangar,0,0,100,4,52,44,11,71,18,69,31,0,7,93,18,0,82,0,,70,30,79,21,89,11,16,84,92,8
+Kinarai Bangar,0,0,99,14,42,43,13,65,21,68,32,0,5,95,6,0,93,0,,70,30,77,23,92,8,13,87,93,7

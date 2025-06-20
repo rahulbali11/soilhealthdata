@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Arjunpur Must.,0,0,100,2,74,24,0,89,11,83,17,0,8,92,0,0,100,0,,99,1,99,1,100,0,93,7,95,5
+Biharipur Kamirkha,0,0,100,0,72,28,0,93,7,100,0,1,11,88,0,0,100,0,,98,2,99,1,100,0,91,9,100,0
+Ladpur,0,0,100,1,80,19,0,94,6,90,10,1,13,86,0,0,100,0,,100,0,100,0,100,0,81,19,100,0
+Amrita Khas,0,0,100,3,79,18,0,94,6,97,3,5,14,81,0,0,100,0,,100,0,100,0,100,0,94,6,100,0
+Mandra Suman,0,0,100,3,81,16,0,92,8,100,0,2,12,86,0,0,100,0,,100,0,100,0,100,0,86,14,100,0
+Rasula Mustkil,0,0,100,3,70,27,0,93,7,98,2,0,16,84,0,0,100,0,,90,10,54,46,97,3,91,9,100,0
+Mohammadpur Bhaja,0,0,100,2,82,16,0,89,11,99,1,3,8,89,0,0,100,0,,99,1,9,91,99,1,94,6,100,0
+Chausar Hardopatti Must.,0,0,100,3,86,11,0,85,15,100,0,0,8,92,0,0,100,0,,100,0,100,0,100,0,93,7,100,0
+Sitarganj Navdia Must.,0,0,100,0,80,20,0,87,13,100,0,0,10,90,0,0,100,0,,70,30,68,32,100,0,95,5,100,0
+Kitnapur,0,0,100,2,76,22,0,92,8,100,0,0,9,91,0,0,100,0,,97,3,47,53,99,1,87,13,98,2

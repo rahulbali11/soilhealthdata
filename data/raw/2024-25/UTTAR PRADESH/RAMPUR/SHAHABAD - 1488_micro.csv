@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Narkhera,0,0,100,0,68,32,0,100,0,45,55,0,0,100,0,0,100,0,,24,76,49,51,87,13,38,62,77,23
+Patwai,0,0,100,0,65,35,0,99,1,80,20,0,0,100,0,0,100,0,,53,47,64,36,89,11,44,56,87,13
+Boodpur,0,0,100,0,70,30,0,100,0,52,48,0,0,100,0,0,100,0,,56,44,52,48,92,8,48,52,84,16
+Majhra,0,0,100,0,73,27,0,96,4,82,18,0,0,100,0,0,100,0,,65,35,40,60,78,22,50,50,97,3
+Sagarpur,0,0,100,1,65,34,0,97,3,83,17,0,0,100,0,0,100,0,,46,54,49,51,90,10,33,67,85,15
+Parauta,0,0,100,0,72,28,0,100,0,68,32,0,2,98,0,0,100,0,,48,52,32,68,86,14,44,56,75,25
+Ossi,0,0,100,0,71,29,0,100,0,46,54,0,0,100,0,0,100,0,,60,40,36,64,79,21,38,62,71,29
+Doharia,0,0,100,0,73,27,0,99,1,58,42,0,1,99,0,0,100,0,,59,41,45,55,85,15,27,73,62,38
+Niswa,0,0,100,0,68,32,0,100,0,56,44,3,2,95,0,0,100,0,,76,24,46,54,90,10,47,53,84,16
+Pachtaur,0,0,100,0,67,33,0,99,1,88,12,0,0,100,0,0,100,0,,55,45,44,56,78,22,33,67,79,21

@@ -1,0 +1,9 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Wadhalli,0,9,30,39,0,0,39,0,0,39,0,9,30,0,0,0,39,0,,0,39,1,38,39,0,38,1,39,0
+Mallabad,0,116,232,316,32,0,347,0,1,348,0,100,217,31,0,0,348,0,,1,347,75,273,348,0,235,113,348,0
+Mannur,0,93,144,221,16,0,237,0,0,237,0,78,154,5,0,0,237,0,,1,236,66,171,237,0,183,54,237,0
+Gobbur (B),0,115,242,344,13,0,357,0,0,357,0,98,237,22,0,0,357,1,,1,356,80,277,357,0,265,92,356,1
+Karkanahalli,0,40,66,106,0,0,105,0,1,106,0,40,66,0,0,0,106,0,,0,106,0,106,106,0,105,1,106,0
+Nanderga,0,74,50,123,1,0,124,0,0,124,0,4,63,57,0,0,124,0,,0,124,0,124,124,0,119,5,123,1
+Madra (K),0,32,64,95,1,0,96,0,0,96,0,0,62,34,0,0,96,0,,0,96,1,95,96,0,89,7,96,0
+Tellur,0,7,20,27,0,0,27,0,0,27,0,2,21,4,0,0,27,0,,0,27,3,24,27,0,26,1,27,0

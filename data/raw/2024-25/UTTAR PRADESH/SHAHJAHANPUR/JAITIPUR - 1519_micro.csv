@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Jargawan,0,0,100,0,79,21,0,100,0,81,19,0,1,99,0,0,100,0,,93,7,93,7,98,2,100,0,100,0
+Khamariya,0,0,100,0,68,32,0,100,0,82,18,0,1,99,0,0,99,0,,100,0,36,64,99,1,41,59,99,1
+Garhiya Rangeen,0,0,99,0,75,24,1,97,1,65,34,0,1,99,0,0,99,0,,88,11,76,23,98,2,95,5,98,1
+Behata Muradpur,0,0,100,0,76,24,0,100,0,100,0,0,9,91,0,0,100,0,,98,2,94,6,100,0,39,61,100,0
+Lohar Gawan,0,0,100,0,76,24,0,100,0,100,0,0,4,96,0,0,100,0,,100,0,89,11,100,0,89,11,100,0
+Gora Bakainia,0,0,100,0,75,25,1,98,1,100,0,0,2,98,0,0,100,0,,96,4,87,13,100,0,99,1,98,2
+Dabhaura Simra,0,0,100,0,75,25,0,100,0,91,9,0,14,86,0,0,100,0,,97,3,94,6,99,1,100,0,100,0
+Bandiya Khurd,1,0,99,0,73,27,0,100,0,99,1,0,5,95,0,0,100,0,,99,1,38,62,99,1,29,71,99,1
+Muria Khera Ajamabad,0,0,100,0,69,31,0,100,0,100,0,0,13,87,0,0,100,0,,100,0,96,4,99,1,100,0,100,0
+Roodpur,0,0,100,0,78,22,0,100,0,100,0,0,15,85,0,0,100,0,,76,24,77,23,100,0,98,2,100,0

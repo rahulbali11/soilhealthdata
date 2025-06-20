@@ -1,0 +1,17 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Allampadu,0,0,20,4,6,10,7,6,7,15,5,2,4,14,6,0,14,6,14,7,13,15,5,2,18,14,6
+Kampasamudram,0,0,14,5,4,5,9,2,3,12,2,2,0,12,1,0,13,2,12,4,10,12,2,3,11,5,9
+Brahmanapalle,0,0,13,3,4,6,3,5,5,9,4,0,2,11,0,0,13,3,10,4,9,6,7,1,12,6,7
+Pallavolu,0,0,14,4,3,7,3,6,5,13,1,1,5,8,1,0,13,8,6,5,9,4,10,1,13,5,9
+Ponguru,0,0,14,5,8,1,6,1,7,11,3,2,1,11,1,0,13,0,14,4,10,12,2,0,14,8,6
+Chilakapadu,0,0,13,4,0,9,4,5,4,11,2,2,3,8,1,0,12,1,12,7,6,4,9,0,13,6,7
+Budawada,0,0,13,4,7,2,4,5,4,10,3,2,5,6,3,0,10,2,11,2,11,9,3,0,13,12,1
+Neradanampadu,0,0,6,3,3,0,0,2,4,5,1,2,1,3,3,0,3,2,4,2,4,4,2,2,4,3,3
+Singanapalle,0,0,15,2,4,9,3,8,4,12,3,4,1,10,0,1,14,2,13,4,11,5,10,1,14,10,5
+Padamatinaidupalle,0,0,14,6,0,8,1,8,5,13,1,4,5,5,0,0,14,1,13,6,8,6,8,3,11,9,5
+Chunchulur,0,0,14,4,3,7,2,10,2,13,1,2,3,9,0,0,14,3,11,7,7,11,3,0,14,5,9
+Dharmarao Cheruvupalle,0,1,11,4,5,3,2,5,5,12,0,2,5,5,2,0,10,2,10,4,8,5,7,1,11,6,6
+Nandavaram,0,0,25,12,9,4,3,7,15,21,4,7,3,15,7,0,18,3,22,11,14,18,7,4,21,15,10
+Bheemavaram,0,1,12,4,6,3,3,8,2,10,3,0,2,11,9,0,4,2,11,4,9,8,5,2,11,6,7
+Irlapadu,0,0,12,3,6,3,4,3,5,10,2,0,1,11,5,0,7,4,8,5,7,9,3,2,10,6,6
+Chinamachanur,0,0,14,0,6,8,0,5,9,12,2,2,5,7,5,0,9,0,14,7,7,5,9,0,14,11,3

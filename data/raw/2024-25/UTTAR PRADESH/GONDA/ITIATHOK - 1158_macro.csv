@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Dulampur,0,0,100,5,71,24,0,69,31,40,60,0,13,87,0,0,100,82,18,83,17,87,13,23,77,100,0
+Bhavanipur Kalan,0,0,100,4,85,11,0,69,31,40,60,0,10,90,0,0,100,76,24,78,22,83,17,33,67,98,2
+Sindhwapur,0,0,100,10,70,20,0,67,33,46,54,0,11,89,0,0,100,78,22,74,26,86,14,26,74,97,3
+Purey Maha,0,0,100,3,80,17,0,70,30,46,54,0,12,88,0,0,100,77,23,77,23,95,5,20,80,100,0
+Churiharpur,0,0,100,8,79,13,0,70,30,42,58,0,13,87,0,0,100,90,10,95,5,96,4,19,81,100,0
+Basantpur Raja,0,0,100,7,76,17,0,71,29,39,61,1,9,90,0,0,100,67,33,83,17,88,12,19,81,99,1
+Benipur Bahta,0,0,100,2,84,14,0,70,30,35,65,0,9,91,0,0,100,80,20,86,14,91,9,23,77,100,0
+Nari Mahripur,0,0,100,2,72,26,0,69,31,39,61,1,7,92,0,0,100,90,10,94,6,96,4,15,85,99,1
+Belwa Bahuta,0,0,100,8,71,21,0,66,34,41,59,0,7,93,0,0,100,84,16,91,9,92,8,22,78,99,1
+Ayah,0,0,100,5,82,13,1,69,30,42,58,1,23,76,0,0,100,86,14,88,12,87,13,19,81,100,0

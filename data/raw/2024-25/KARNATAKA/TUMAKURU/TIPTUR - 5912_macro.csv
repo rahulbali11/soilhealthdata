@@ -1,0 +1,15 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Anagondanahalli,0,33,67,65,35,0,18,74,8,41,59,0,35,65,0,0,100,58,42,34,66,98,2,17,83,100,0
+Sooranahalli,0,41,195,144,72,20,116,102,18,95,141,4,47,185,0,0,236,172,64,86,150,233,3,80,156,234,2
+Kadushettihalli,0,28,252,170,72,38,124,136,20,109,171,0,33,247,0,0,280,219,61,132,148,279,1,113,167,276,4
+Burudeghatta,0,94,190,164,109,11,71,195,18,157,127,6,96,182,1,0,283,196,88,106,178,282,2,69,215,283,1
+Hosahalli,0,31,59,64,24,2,20,58,12,26,64,4,30,56,0,1,89,42,48,29,61,85,5,19,71,90,0
+Hanumanthapura,0,12,27,29,10,0,19,20,0,14,25,0,17,22,0,0,39,30,9,12,27,39,0,11,28,39,0
+Chikkarangapura,0,32,53,73,10,2,12,51,22,66,19,3,33,49,0,6,79,9,76,19,66,79,6,37,48,85,0
+Bennaikanahalli,0,23,175,119,65,14,79,97,22,85,113,4,23,171,0,0,198,71,127,43,155,167,31,25,173,194,4
+Rudrapura,0,58,120,84,75,19,81,85,12,160,18,0,55,123,0,0,178,155,23,78,100,177,1,13,165,170,8
+Ballekatte,0,38,27,40,20,5,32,31,2,53,12,0,38,27,0,0,65,56,9,47,18,65,0,4,61,64,1
+Ginikikere,0,42,75,55,52,10,31,79,7,98,19,0,41,76,0,0,117,96,21,37,80,115,2,3,114,116,1
+Sannenahalli,0,1,12,1,9,3,4,9,0,10,3,0,2,11,0,0,13,13,0,5,8,13,0,0,13,13,0
+Bisalehalli,0,15,25,8,24,8,8,29,3,33,7,0,15,25,0,0,40,34,6,14,26,40,0,1,39,40,0
+Gungaramale,0,40,87,40,74,13,26,94,7,112,15,1,39,87,0,0,127,100,27,40,87,127,0,18,109,126,1

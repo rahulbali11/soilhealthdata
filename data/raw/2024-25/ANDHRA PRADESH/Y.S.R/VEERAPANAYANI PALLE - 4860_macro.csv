@@ -1,0 +1,15 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Alidena,0,2,48,38,4,8,50,0,0,35,14,13,7,30,4,0,45,3,47,4,46,48,2,34,16,35,15
+Southpalagiri,0,1,23,15,4,5,23,0,1,11,13,0,5,19,4,0,20,3,21,9,15,24,0,13,11,21,3
+Indukur,0,0,40,19,12,9,39,1,0,20,20,0,2,38,20,0,20,4,36,0,40,40,0,21,19,40,0
+Kommaddi,0,0,49,32,10,7,40,9,0,28,22,0,10,39,7,0,41,2,48,1,49,50,0,44,6,50,0
+Veldurthi,0,1,44,29,8,8,43,5,0,45,4,0,9,36,19,1,24,0,49,7,42,50,0,36,13,48,1
+Payasampalle,0,1,26,19,4,4,24,3,0,7,20,0,6,20,17,0,9,0,27,8,19,27,0,20,7,25,2
+Animela,0,14,113,83,14,30,117,9,1,96,32,0,4,122,60,1,60,2,128,13,117,125,5,67,62,129,1
+Gonumakulapalle,0,0,26,20,1,5,26,0,0,6,20,0,2,24,2,0,23,0,26,3,23,25,1,21,5,26,0
+U.Rajupalem,0,2,38,16,15,9,37,3,0,13,27,0,4,36,12,0,28,0,40,11,29,40,0,5,35,35,5
+Northpalagiri,0,1,46,28,12,7,45,2,1,19,30,0,19,28,22,0,24,1,49,7,43,50,0,32,18,50,0
+Urutur,0,0,80,55,11,14,71,7,2,60,20,0,7,73,23,0,57,1,79,18,62,80,0,48,32,77,3
+Moillacheruvu,0,0,40,22,9,9,37,3,0,18,22,0,8,31,3,0,36,1,39,0,40,40,0,26,14,40,0
+Talapanur,0,0,40,22,10,8,35,5,0,12,28,0,9,31,10,0,30,0,40,6,34,37,3,29,11,39,1
+Keerthipalle,0,1,22,16,4,3,22,1,0,7,16,0,3,20,11,0,12,0,23,0,23,23,0,19,4,23,0

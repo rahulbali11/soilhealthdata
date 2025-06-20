@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Paharpur,0,0,100,0,33,67,1,81,18,45,55,0,0,100,0,0,100,0,,67,33,36,64,99,1,77,23,94,6
+Barela,0,0,100,0,40,60,0,78,22,40,60,1,0,99,0,0,100,0,,93,7,33,67,99,1,72,28,76,24
+Kolva,0,0,100,0,36,64,0,71,29,61,39,0,0,100,0,0,100,0,,92,8,13,87,99,1,76,24,40,60
+Saraihamid Urf Dhobisarai,0,0,100,1,36,63,0,81,19,57,43,1,2,97,0,0,100,0,,91,9,3,97,98,2,74,26,23,77
+Amraigaon,0,0,100,0,32,68,0,78,22,47,53,0,0,100,0,0,100,0,,100,0,44,56,100,0,78,22,100,0
+Halimnagar,0,0,100,1,34,65,0,82,18,85,15,0,0,100,0,0,100,0,,94,6,97,3,100,0,87,13,75,25
+Birhara,0,0,100,1,34,65,0,86,14,69,31,0,0,100,0,0,100,1,,69,31,96,4,99,1,65,35,95,5
+Gogaona,0,0,100,0,31,69,0,86,14,68,32,0,1,99,0,0,100,0,,76,24,93,7,100,0,55,45,97,3
+Bhaisauli,0,0,100,1,43,56,0,82,18,61,39,0,2,98,1,0,99,1,,76,24,85,15,99,1,68,32,99,1
+Hayatnagar,0,0,100,1,34,65,0,82,18,53,47,1,1,98,0,0,100,0,,9,91,97,3,99,1,61,39,100,0

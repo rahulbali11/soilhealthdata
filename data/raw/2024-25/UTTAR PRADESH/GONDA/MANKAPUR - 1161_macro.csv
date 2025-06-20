@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Tamapar,0,0,100,6,77,17,0,74,26,45,55,0,9,91,0,1,99,92,8,73,27,84,16,18,82,96,4
+Naraianpur Grint,0,0,100,5,77,18,0,77,23,46,54,0,8,92,0,0,100,89,11,87,13,90,10,20,80,96,4
+Amghati,0,0,100,8,67,25,0,66,34,52,48,0,8,92,0,0,100,91,9,79,21,85,15,22,78,99,1
+Radha Nagar,0,0,100,11,64,25,0,66,34,47,53,0,4,96,0,0,100,97,3,77,23,87,13,20,80,96,4
+Kathar,0,0,100,6,76,18,0,77,23,46,54,0,4,96,0,0,100,91,9,80,20,86,14,20,80,96,4
+Gohana,0,0,100,13,70,17,0,69,31,36,64,0,8,92,0,0,100,98,2,84,16,92,8,23,77,93,7
+Ashraf Pur,0,0,100,5,73,22,0,62,38,43,57,0,13,87,0,0,100,97,3,86,14,91,9,21,79,95,5
+Banaksiha,0,0,100,5,72,23,0,73,27,46,54,0,9,91,0,0,100,96,4,79,21,86,14,20,80,98,2
+Kemi,0,0,100,7,74,19,0,71,29,32,68,0,4,96,0,0,100,96,4,82,18,91,9,24,76,97,3
+Kahova,0,0,100,3,69,28,0,75,25,48,52,0,9,91,0,0,100,97,3,85,15,86,14,20,80,95,5

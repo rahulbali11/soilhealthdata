@@ -1,0 +1,15 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Thimmapuram,0,5,12,6,10,1,10,7,0,17,0,0,5,12,7,0,10,0,,7,10,6,11,17,0,17,0,15,2
+Alaganur,0,24,3,12,15,0,19,8,0,27,0,1,23,3,3,0,24,0,,9,18,18,9,27,0,27,0,27,0
+Cherakucherla,0,11,17,11,17,0,16,12,0,28,0,1,10,17,11,0,17,0,,22,6,8,20,28,0,28,0,27,1
+Chowtakur,0,6,4,4,6,0,7,3,0,10,0,1,5,4,4,0,6,0,,5,5,6,4,10,0,10,0,10,0
+Bannur,0,8,8,10,6,0,10,6,0,16,0,4,3,9,0,0,16,0,,12,4,5,11,16,0,16,0,16,0
+Jalakanur,0,11,17,12,16,0,18,10,0,28,0,0,11,17,0,0,28,0,,19,9,11,17,28,0,28,0,27,1
+Devanur,0,9,17,5,21,0,10,16,0,26,0,6,4,16,0,0,26,0,,19,7,3,23,25,0,26,0,26,0
+Chintalapalle,0,16,12,14,14,0,15,13,0,28,0,5,11,12,5,0,23,0,,22,6,16,12,28,0,28,0,27,1
+Kadumur,0,7,9,10,6,0,12,4,0,16,0,0,7,9,0,0,16,0,,8,8,7,9,16,0,16,0,16,0
+Byrapuram,0,5,4,4,5,0,7,2,0,9,0,1,3,5,0,0,9,0,,8,1,2,7,9,0,9,0,9,0
+Midthur,0,26,45,34,37,0,46,25,0,71,0,6,20,45,4,0,67,0,,47,24,23,48,71,0,71,0,71,0
+Veepanagandla,0,11,16,9,18,0,21,6,0,27,0,1,11,15,0,0,27,0,,15,12,1,26,26,0,27,0,27,0
+Talamudipi,0,21,6,17,10,0,18,9,0,27,0,6,15,6,0,0,27,0,,11,16,3,24,27,0,27,0,27,0
+Masapeta,0,6,16,8,14,0,13,9,0,22,0,1,5,16,0,0,22,0,,9,13,5,17,22,0,22,0,21,1

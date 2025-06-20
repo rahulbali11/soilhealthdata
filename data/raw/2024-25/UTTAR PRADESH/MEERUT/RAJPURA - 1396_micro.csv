@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Hasanpur Qadim,0,27,73,1,94,5,6,91,3,98,2,1,27,72,0,0,100,0,,78,22,53,47,94,6,51,49,92,8
+Islamabad Chhilora,0,28,72,0,94,6,19,75,6,98,2,0,29,71,0,0,100,0,,86,14,60,40,98,2,64,36,96,4
+Rasulpur Aurangabad,0,25,75,0,85,15,1,92,7,99,1,0,30,70,0,0,100,0,,82,18,71,29,97,3,66,34,94,6
+Alampur Buzurg,0,35,65,0,92,8,14,84,2,99,1,0,34,66,0,0,100,0,,83,17,75,25,91,9,78,22,92,8
+Salarpur Jalalpur,0,32,68,1,98,1,18,78,4,99,1,0,32,68,0,0,100,0,,80,20,75,25,89,11,67,33,86,14
+Rajpura,0,16,84,0,98,2,6,90,4,100,0,0,17,83,0,0,100,0,,89,11,85,15,96,4,67,33,91,9
+Bhurpur,0,13,87,0,99,1,5,89,6,100,0,0,13,87,0,0,100,0,,88,12,73,27,95,5,67,33,96,4
+Datavali Gesupur,0,10,90,0,98,2,8,87,5,100,0,0,10,90,0,0,100,0,,95,5,82,18,97,3,73,27,100,0
+Rali Chauhan,0,16,84,0,98,2,2,98,0,99,1,0,17,83,0,0,100,0,,96,4,89,11,98,2,67,33,100,0
+Kamalpur,0,47,53,0,99,1,13,87,0,100,0,0,46,54,2,0,98,0,,89,11,78,22,95,5,66,34,90,10

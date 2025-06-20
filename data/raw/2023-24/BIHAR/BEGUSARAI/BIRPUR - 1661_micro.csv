@@ -1,0 +1,10 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Arazi Panapur,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,,1,0,0,1,1,0,1,0,1,0
+Jagdar,0,0,90,83,7,0,40,50,0,90,0,8,72,10,1,0,89,0,,22,68,24,66,86,4,88,2,86,4
+Sikrahula,0,0,2,1,1,0,1,1,0,2,0,0,2,0,0,0,2,0,,2,0,0,2,2,0,2,0,2,0
+Bhawanandpur,0,0,1,1,0,0,0,1,0,1,0,1,0,0,0,0,1,0,,1,0,0,1,1,0,1,0,1,0
+Fazilpur,0,0,43,40,3,0,13,30,0,43,0,8,32,3,0,0,43,0,,8,35,26,17,42,1,41,2,43,0
+Bahbalpur,0,0,41,39,2,0,12,29,0,41,0,6,31,4,1,0,40,0,,39,2,37,4,41,0,41,0,38,3
+Muradpur,0,0,46,43,3,0,12,34,0,46,0,2,41,3,0,0,46,0,,2,44,25,21,46,0,46,0,46,0
+Baraipura,0,0,29,24,5,0,9,20,0,27,2,3,21,5,0,0,29,0,,29,0,17,12,29,0,28,1,29,0
+Ganharpur,1,0,121,111,10,1,33,88,1,121,1,17,98,7,0,0,122,0,,117,5,65,57,122,0,122,0,119,3

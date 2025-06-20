@@ -1,0 +1,14 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Bijli,0,0,1,0,1,0,0,1,0,0,1,1,0,0,0,0,1,0,,0,1,1,0,1,0,1,0,0,1
+Kamuwa Nagla,0,0,1,0,1,0,0,1,0,0,1,1,0,0,0,0,1,0,,0,1,1,0,1,0,1,0,0,1
+Manpur Ojha,0,0,1,0,1,0,0,1,0,0,1,1,0,0,0,1,0,0,,0,1,1,0,1,0,1,0,1,0
+Khajuria Khurd,0,0,100,45,55,0,0,100,0,63,37,0,0,100,0,0,100,0,,67,33,55,45,73,27,29,71,75,25
+Kanakpur,0,0,100,55,44,1,0,99,1,60,40,0,0,100,0,0,100,0,,63,37,52,48,85,15,42,58,82,18
+Pipalia Gopal,0,0,100,49,49,2,0,99,1,70,30,0,0,100,0,0,100,0,,55,45,54,46,91,9,31,69,78,22
+Jorasi,0,0,100,56,44,0,0,100,0,62,38,0,2,98,0,0,100,0,,62,38,36,64,83,17,27,73,85,15
+Itanga Bairam Nagar,0,1,99,32,67,1,0,99,1,76,24,1,2,97,0,0,100,0,,63,37,43,57,86,14,24,76,84,16
+Kurthia,0,0,100,41,38,21,0,91,9,67,33,0,40,60,0,0,100,0,,84,16,33,67,87,13,47,53,83,17
+Sitora,0,0,100,34,44,22,0,97,3,82,18,0,37,63,0,0,100,0,,61,39,48,52,87,13,17,83,80,20
+Sarai Qadim,0,0,100,47,35,18,0,96,4,60,40,0,43,57,0,0,100,0,,64,36,41,59,85,15,42,58,72,28
+Chandwa Nagla,0,0,100,42,38,20,0,98,2,59,41,0,45,55,0,0,100,0,,61,39,55,45,79,21,15,85,68,32
+Tal Mahawar,0,0,100,42,58,0,0,100,0,76,24,0,2,98,0,0,100,0,,72,28,45,55,82,18,45,55,90,10

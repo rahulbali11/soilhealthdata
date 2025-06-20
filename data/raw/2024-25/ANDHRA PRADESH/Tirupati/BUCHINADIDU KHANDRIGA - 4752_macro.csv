@@ -1,0 +1,21 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Nelavoy,0,5,15,10,8,2,0,7,13,19,1,0,6,14,0,0,20,17,3,14,6,17,3,20,0,13,7
+West Warathur,0,2,20,14,6,2,0,14,8,20,2,0,2,20,0,0,22,18,4,16,6,21,1,21,1,16,6
+Kallivettu,0,4,23,18,8,1,1,13,13,27,0,0,4,23,0,1,26,21,6,15,12,27,0,25,2,17,10
+Talarivettu,0,2,13,8,6,1,2,6,7,14,1,0,2,13,0,0,15,11,4,10,5,15,0,14,1,9,6
+Thangellapuram,0,6,7,12,0,1,0,12,1,13,0,0,6,7,0,0,13,10,3,10,3,13,0,12,1,13,0
+Kanamanambedu,0,11,18,25,4,0,11,18,0,26,3,1,10,18,0,0,29,23,6,22,7,29,0,28,1,27,2
+Gajulapellore,0,12,30,39,2,1,18,20,4,39,3,0,12,30,0,3,39,31,11,31,11,40,2,42,0,35,7
+Kanchanaputtur,0,5,36,9,22,10,5,33,3,34,7,0,5,36,0,0,41,26,15,25,16,40,1,39,2,34,7
+Kukkambakam,0,8,33,13,15,13,10,30,1,34,7,0,8,33,0,0,41,24,17,28,13,40,1,39,2,34,7
+Chinnayyagunta,0,4,14,10,7,1,5,12,1,17,1,0,5,13,0,0,18,14,4,15,3,17,1,16,2,16,2
+Bhavanisankarapuram,0,0,1,1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,1,0,1,1,0,1,0,1,0
+Putteri,0,8,23,20,11,0,3,21,7,25,6,0,8,23,0,2,29,20,11,22,9,31,0,30,1,26,5
+Peddapalavedu,0,7,28,24,8,3,3,23,9,35,0,0,7,28,0,0,35,27,8,21,14,35,0,32,3,30,5
+Neerpakota,0,31,41,55,12,5,38,32,2,61,11,0,31,41,0,0,72,56,16,61,11,72,0,69,3,68,4
+Vijayagopalapuram,0,9,33,31,9,2,5,30,7,39,3,0,9,33,0,6,36,33,9,32,10,39,3,41,1,36,6
+Parlapalle,0,5,36,23,16,2,7,28,6,36,5,0,5,36,0,4,37,34,7,34,7,41,0,36,5,38,3
+Pallamala,0,7,35,37,5,0,6,29,7,39,3,0,8,34,0,1,41,33,9,29,13,41,1,40,2,33,9
+Katur,0,6,36,21,16,5,6,32,4,38,4,0,6,36,0,9,33,33,9,30,12,42,0,40,2,37,5
+Alathur,0,6,11,13,2,2,6,6,5,17,0,0,7,10,0,0,17,14,3,16,1,17,0,15,2,15,2
+Kothapalem,0,0,3,3,0,0,1,2,0,3,0,0,0,3,0,0,3,3,0,2,1,3,0,3,0,3,0

@@ -1,0 +1,15 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Vadakkancheri-II,0,0,1,16,5,14,8,20,7,5,30,30,2,3,0,11,24,0,,35,0,35,0,35,0,35,0,35,0
+Vadakkancheri-I,0,0,0,18,2,5,11,14,0,3,22,22,2,1,0,3,21,0,,25,0,23,2,25,0,25,0,25,0
+Alathur (CT),0,0,0,27,12,25,21,30,13,28,35,36,16,12,0,20,44,0,,63,0,63,0,63,0,54,9,63,0
+Erimayur-II,0,0,0,18,1,0,8,7,4,14,5,11,5,3,0,1,18,0,,19,0,19,0,19,0,18,1,19,0
+Erimayur-I,0,0,0,17,11,12,8,26,6,13,27,23,13,4,0,1,39,0,,40,0,40,0,40,0,29,11,40,0
+Puducode,0,0,0,43,10,7,25,27,8,45,15,55,4,1,0,21,39,0,,60,0,60,0,60,0,52,8,60,0
+Kavasseri-II,0,0,0,14,5,2,6,9,6,8,13,20,1,0,0,8,13,0,,21,0,19,2,21,0,18,3,21,0
+Kavasseri-I,0,0,0,22,10,8,18,14,8,22,18,28,10,0,0,9,31,0,,40,0,38,2,40,0,31,9,40,0
+Tarur-II,0,0,0,11,4,2,8,6,3,1,16,13,3,1,0,1,16,0,,17,0,14,3,17,0,17,0,17,0
+Tarur-I,0,0,0,31,11,1,19,22,2,1,42,32,8,3,0,1,41,0,,43,0,38,5,43,0,42,1,43,0
+Kannambra-I,0,0,0,27,3,3,24,5,4,21,12,33,0,0,0,8,25,0,,33,0,33,0,33,0,27,6,32,1
+Kannambra-II,0,0,0,9,12,6,3,14,10,26,1,24,3,0,0,16,11,0,,27,0,27,0,27,0,22,5,27,0
+Kizhakkencheri-II,0,0,0,24,3,4,17,12,2,31,0,27,4,0,0,10,21,0,,31,0,29,2,31,0,24,7,31,0
+Kizhakkencheri-I,0,0,0,21,4,2,12,10,5,27,0,24,3,0,0,10,17,1,,27,0,27,0,27,0,21,6,27,0

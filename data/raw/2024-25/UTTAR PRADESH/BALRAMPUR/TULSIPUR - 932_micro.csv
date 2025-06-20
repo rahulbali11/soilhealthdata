@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Singahi,0,0,100,0,62,38,0,98,2,95,5,5,31,62,0,0,100,0,,50,50,24,76,91,9,38,62,83,17
+Badalpur,0,0,100,17,61,22,1,76,23,91,9,0,5,95,0,0,100,0,,7,93,36,64,89,11,32,68,36,64
+Gulriha,0,0,100,13,67,20,1,81,18,88,12,0,3,97,0,0,100,0,,6,94,24,76,95,5,1,99,42,58
+Parsiagauri,0,0,100,1,70,29,1,94,5,91,9,6,7,87,0,1,97,0,,36,64,41,59,68,31,2,98,62,38
+Nanhuapur,0,0,100,1,71,28,0,62,38,92,8,0,11,89,0,1,99,0,,51,49,52,48,82,18,5,95,68,32
+Shudarshan Jote,0,0,100,29,49,22,1,71,28,91,9,3,18,79,0,0,100,0,,27,73,27,73,63,35,5,95,56,44
+Suganagar,0,0,100,25,51,24,0,71,29,88,12,3,19,78,1,1,96,0,,27,73,31,69,65,35,2,98,56,44
+Mohanpur,3,0,97,17,60,23,0,92,8,90,10,0,0,100,0,0,100,0,,39,61,3,97,87,13,22,78,35,65
+Kandaila,0,0,100,16,68,16,0,98,2,100,0,0,0,100,0,0,100,0,,27,73,11,89,91,9,27,73,25,75
+Bardahwa,0,0,100,12,67,21,2,70,28,90,10,0,0,100,1,1,97,0,,12,87,33,67,83,16,32,68,49,50

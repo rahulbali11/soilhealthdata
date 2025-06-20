@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Varini,0,0,30,2,25,3,10,18,2,28,2,9,9,12,0,0,30,28,2,27,3,25,5,6,24,28,2
+Mudivarthi,0,0,22,13,9,0,1,18,3,21,1,7,4,11,0,0,22,19,3,20,2,22,0,2,20,22,0
+Dampuru,0,0,16,4,7,5,8,7,1,16,0,3,7,6,1,0,15,15,1,9,7,16,0,3,13,15,1
+Dandigunta,0,1,30,1,15,15,6,24,1,31,0,9,15,7,0,0,31,31,0,31,0,31,0,5,26,31,0
+Utukuru,0,0,44,14,18,12,6,36,2,44,0,13,18,13,0,6,38,40,4,34,10,44,0,6,38,44,0
+Parlapalle,0,0,13,13,0,0,2,10,1,12,1,7,4,2,2,0,11,10,3,7,6,13,0,4,9,13,0
+Vidavalur,0,0,14,9,4,1,4,10,0,13,1,9,2,3,0,0,14,14,0,7,7,11,3,3,11,14,0
+Chowkacherla,0,0,13,4,7,2,1,12,0,13,0,3,5,5,0,0,13,11,2,9,4,13,0,6,7,13,0
+Alaganipadu,0,0,17,9,7,1,7,9,1,17,0,5,7,5,0,0,17,16,1,15,2,16,1,2,15,17,0
+Vavilla,0,0,17,3,11,3,8,9,0,17,0,4,4,9,0,1,16,17,0,17,0,17,0,8,9,17,0

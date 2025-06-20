@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Cherlopalem,0,1,19,14,3,3,2,7,11,20,0,9,3,8,3,0,17,9,11,0,20,17,3,13,7,20,0
+Modegunta,0,1,29,23,4,3,4,7,19,30,0,13,3,14,6,0,24,23,7,3,27,21,9,17,13,29,1
+Patur,0,2,48,50,0,0,3,21,26,43,7,17,11,22,1,0,49,20,30,6,44,45,5,31,19,48,2
+Vegur,0,1,49,42,5,3,12,14,24,45,5,10,19,21,2,0,48,34,16,0,50,39,11,24,26,50,0
+Padugupadu,0,0,50,42,3,5,22,25,3,50,0,20,11,19,1,0,49,28,22,2,48,31,19,16,34,47,3
+Kovur,0,0,165,120,23,22,48,67,50,130,35,59,38,68,0,2,163,110,55,10,155,121,44,82,83,163,2
+Inamadugu,0,1,78,62,10,7,28,29,22,67,12,16,25,38,0,0,79,48,31,1,78,58,21,41,38,78,1
+Gangavaram,0,0,40,39,0,1,16,17,7,30,10,6,15,19,1,0,39,29,11,4,36,26,14,16,24,40,0
+Pothireddipalem,0,0,38,34,4,0,10,23,5,38,0,5,17,16,0,0,38,30,8,2,36,24,14,13,25,38,0
+Leguntapadu,0,1,44,41,3,1,12,30,3,35,10,3,13,29,0,0,45,21,24,7,38,35,10,25,20,45,0

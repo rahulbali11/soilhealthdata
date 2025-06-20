@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Jaspur,0,0,100,0,67,33,0,99,1,100,0,0,5,95,0,0,100,0,,66,34,100,0,98,2,98,2,89,11
+Guladia Mahipat,1,0,99,2,63,35,0,100,0,100,0,0,10,90,0,0,99,0,,58,41,94,6,100,0,99,1,2,98
+Bishesarpur,0,0,100,0,67,33,0,99,1,100,0,0,10,90,0,0,99,0,,89,11,100,0,98,2,100,0,0,100
+Chaukhandi,0,0,100,0,65,35,0,98,2,100,0,0,4,96,0,0,100,0,,86,14,100,0,90,10,100,0,100,0
+Matkapur,0,0,100,1,64,35,0,96,4,96,4,1,12,87,0,0,99,1,,93,7,100,0,96,4,95,5,96,4
+Parasram Pur,0,0,100,5,53,42,2,96,2,97,3,0,10,90,0,0,98,0,,77,23,99,1,98,2,97,3,98,2
+Phulwaiya,2,0,98,4,60,36,1,97,2,96,4,0,16,84,0,0,100,0,,79,21,100,0,97,3,97,3,99,1
+Alaiyya,0,0,100,0,62,38,0,97,3,100,0,0,6,94,0,0,100,0,,51,49,100,0,100,0,93,7,91,9
+Bishi Rampura,0,0,100,0,66,34,0,100,0,100,0,0,7,93,0,0,100,0,,75,25,99,0,98,2,94,6,99,1
+Prehladpur,0,0,100,0,59,41,1,99,0,100,0,0,8,92,0,0,100,0,,54,46,100,0,100,0,100,0,97,3

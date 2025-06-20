@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Kunjpur,0,0,100,1,91,8,66,34,0,100,0,0,9,91,0,0,100,100,0,100,0,100,0,100,0,100,0
+Sikunderpur,0,0,100,0,78,22,71,29,0,100,0,0,8,92,1,0,99,100,0,100,0,100,0,100,0,100,0
+Sarai Indal,0,0,100,0,86,14,54,46,0,100,0,0,7,93,0,0,100,100,0,100,0,100,0,100,0,100,0
+Gaurenda,0,0,100,0,100,0,66,34,0,100,0,0,5,95,0,0,100,100,0,100,0,100,0,100,0,100,0
+Kotwan,0,0,100,0,100,0,61,39,0,100,0,0,6,94,0,0,100,100,0,100,0,100,0,100,0,100,0
+Balhaumao,0,0,100,1,99,0,68,32,0,100,0,0,7,93,0,0,100,100,0,100,0,100,0,100,0,100,0
+Dhanni Khera,0,0,100,0,100,0,61,39,0,100,0,0,7,93,0,0,100,100,0,100,0,100,0,100,0,100,0
+Ajaiya Khera,0,0,100,0,97,3,77,23,0,100,0,0,6,94,0,0,100,100,0,100,0,100,0,100,0,100,0
+Bichpri,0,0,100,0,98,2,70,30,0,100,0,0,8,92,0,0,100,100,0,100,0,100,0,100,0,100,0
+Saraosa,0,0,100,0,100,0,61,39,0,100,0,0,6,94,0,0,100,100,0,100,0,100,0,100,0,100,0

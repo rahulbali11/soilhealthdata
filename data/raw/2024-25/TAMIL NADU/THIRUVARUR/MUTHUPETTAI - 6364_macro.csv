@@ -1,0 +1,13 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Keezhapandi,0,0,100,12,34,54,0,0,100,27,73,0,0,100,0,0,100,50,50,43,57,100,0,0,100,100,0
+Uppur,0,0,100,2,51,47,0,0,100,0,100,0,0,100,0,0,100,13,87,21,79,100,0,0,100,74,26
+Pandi,0,0,100,1,31,68,0,3,97,55,45,0,0,99,0,0,100,100,0,18,82,97,3,0,100,68,32
+Mangudi,0,0,100,39,41,20,0,30,70,92,8,0,1,99,0,0,100,91,9,46,54,100,0,86,14,95,5
+Ariyalur,0,0,100,82,11,7,2,88,10,95,5,0,0,100,0,0,100,97,3,72,28,100,0,86,14,100,0
+Thondiyakkadu,0,0,100,0,44,56,0,0,100,1,99,0,0,100,0,0,100,74,26,72,28,94,6,0,100,33,67
+Alangadu,0,0,100,56,32,12,0,28,72,36,64,0,0,100,0,0,100,70,30,0,100,97,3,4,96,81,19
+Pinnathur,0,0,68,25,30,13,0,48,20,9,59,0,0,68,0,0,68,66,2,8,60,68,0,0,68,41,27
+Vilangadu,0,0,67,26,28,13,0,22,45,17,50,0,0,67,0,0,67,60,7,0,67,67,0,0,67,49,18
+Keelanammankurichi,0,0,68,25,30,13,0,4,64,0,68,0,0,68,0,0,68,64,4,48,20,62,6,56,12,68,0
+Edaiyur,0,0,50,26,17,7,36,12,2,2,48,0,0,50,0,0,50,27,23,29,21,50,0,14,36,39,11
+Ekkal,0,0,47,44,3,0,25,15,7,0,47,0,0,47,0,0,47,46,1,33,14,47,0,0,47,47,0

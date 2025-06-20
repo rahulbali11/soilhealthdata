@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Sultanpur Abad,0,0,100,63,37,0,11,71,18,75,25,1,41,58,0,0,100,0,,95,5,70,30,91,0,87,13,100,0
+Kherki Tappa Nangla,0,0,100,27,73,0,16,73,11,44,56,1,37,62,0,0,100,0,,95,5,37,63,90,2,75,25,99,1
+Dhanori,0,0,100,23,77,0,19,74,7,72,28,1,26,73,1,0,99,0,,96,4,26,74,87,1,65,35,98,2
+Mubarakpur Talan,0,0,100,24,76,0,13,86,1,60,40,2,32,66,0,0,100,1,,92,7,48,52,90,1,83,17,100,0
+Salempur Mathna,0,0,100,31,69,0,6,78,16,76,24,3,31,66,0,0,100,5,,95,5,63,37,94,1,78,22,100,0
+Sariyapur,1,0,99,29,71,0,13,83,4,82,18,1,29,70,0,0,99,0,,98,2,72,28,95,1,71,29,100,0
+Sadhupura,1,0,99,27,73,0,23,70,7,59,41,1,29,70,0,0,100,2,,99,0,51,49,92,1,78,22,100,0
+Bisat,0,0,100,27,73,0,10,80,10,94,6,3,29,68,0,0,100,0,,100,0,90,10,91,0,94,6,99,1
+Nawada,0,0,100,31,69,0,4,88,8,87,13,3,34,63,0,0,100,1,,100,0,59,41,98,0,85,15,99,1
+Baldia,0,0,100,29,68,3,16,72,12,83,17,2,23,75,0,0,97,1,,100,0,71,29,95,0,83,17,99,1

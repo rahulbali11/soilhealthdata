@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Nadurubada,0,18,46,40,22,2,16,48,0,64,0,9,19,36,0,0,64,52,12,60,4,64,0,10,54,64,0
+Pasalapudi,0,48,85,111,22,0,70,60,3,133,0,14,66,53,0,0,133,88,45,109,24,133,0,51,82,132,1
+Kurmapuram,0,59,69,77,41,10,88,39,1,128,0,46,59,23,0,0,128,52,76,63,65,121,7,18,110,118,10
+Chelluru,0,78,159,152,73,12,127,109,1,232,0,36,104,97,0,0,237,150,87,139,98,237,0,48,184,176,61
+Lolla,0,23,48,44,21,6,45,24,2,71,0,7,29,35,0,0,71,59,12,68,3,71,0,7,64,71,0
+Vedurupaka,0,92,129,139,71,11,177,42,2,221,0,35,114,72,0,1,220,161,60,170,51,221,0,14,207,209,10
+Venturu,0,61,71,61,65,6,119,12,1,132,0,30,63,39,0,0,132,106,26,86,46,132,0,12,120,120,12
+Someswaram,0,32,81,63,42,8,77,34,2,113,0,10,43,60,0,32,81,75,38,95,18,113,0,12,101,112,1
+Machavaram,0,56,65,90,24,7,64,52,5,121,0,17,31,73,0,0,121,98,23,108,13,121,0,30,91,121,0
+Kurakallapalle,0,10,41,25,19,7,15,31,5,51,0,12,28,11,0,0,51,14,37,47,4,48,3,5,46,43,8

@@ -1,0 +1,21 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Bheemavaram,0,0,1,1,0,0,0,1,0,1,0,0,0,1,0,0,1,0,,1,0,1,0,1,0,1,0,1,0
+Dakkili,0,2,17,12,6,1,16,2,1,17,2,2,4,13,0,0,18,0,,14,5,15,4,19,0,18,1,19,0
+Kuppayapalem,0,1,10,7,4,0,11,0,0,8,3,0,1,10,0,0,11,0,,8,3,8,3,10,1,11,0,7,4
+Theerthampadu,0,1,3,4,0,0,4,0,0,1,3,0,1,3,0,0,4,0,,2,2,4,0,4,0,4,0,3,1
+Althurupadu,0,1,5,4,2,0,6,0,0,6,0,0,2,4,1,0,5,0,,5,1,6,0,5,1,6,0,3,3
+Devulapalle,0,1,2,2,1,0,3,0,0,2,1,0,1,2,0,0,3,0,,3,0,2,1,3,0,3,0,2,1
+Velikallu,0,5,15,10,10,0,19,1,0,15,5,0,5,15,0,0,20,0,,15,5,13,7,19,1,20,0,15,5
+Matumadugu,0,3,5,5,3,0,8,0,0,4,4,0,3,5,0,0,8,0,,5,3,5,3,7,1,8,0,5,3
+Sreepuram,0,2,5,5,2,0,7,0,0,3,4,0,2,5,0,0,7,0,,3,4,4,3,6,1,7,0,4,3
+Mopuru,0,2,16,10,8,0,15,3,0,14,4,0,2,16,0,0,18,0,,11,7,11,7,17,1,18,0,13,5
+Vempativaripalle,0,0,1,1,0,0,1,0,0,1,0,0,0,1,0,0,1,0,,0,1,1,0,1,0,1,0,1,0
+Naidupalem,0,1,6,5,2,0,7,0,0,5,2,0,1,6,0,0,7,0,,5,2,5,2,7,0,7,0,4,3
+Daggavolu,0,1,1,0,2,0,2,0,0,2,0,0,1,1,0,0,2,0,,1,1,2,0,2,0,2,0,1,1
+Vengamanaidupalle,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0,1,0,,1,0,0,1,1,0,1,0,1,0
+Lingasamudram,0,5,25,21,7,2,29,1,0,26,4,0,9,21,0,0,30,0,,21,9,24,6,28,2,30,0,23,7
+Vembuluru,0,5,14,14,4,1,15,4,0,15,4,0,7,12,1,0,18,0,,13,6,14,5,18,1,18,0,15,4
+Mahasamudram,0,1,6,4,3,0,5,2,0,5,2,0,2,5,0,0,7,0,,4,3,7,0,7,0,7,0,5,2
+Madhavaiahpalem,0,2,4,4,2,0,5,0,1,6,0,0,2,4,0,0,6,0,,4,2,5,1,6,0,6,0,5,1
+Palugodu,0,8,10,12,5,1,18,0,0,16,2,0,8,10,3,1,14,0,,16,2,13,5,18,0,18,0,12,6
+Cherlopalle,0,4,5,6,3,0,9,0,0,8,1,0,4,5,0,0,9,0,,1,8,7,2,8,1,9,0,7,2

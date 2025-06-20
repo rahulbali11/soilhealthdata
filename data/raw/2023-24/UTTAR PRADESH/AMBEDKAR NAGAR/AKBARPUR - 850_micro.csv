@@ -1,0 +1,8 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Kodara,0,0,100,5,50,45,0,91,9,13,87,1,0,99,0,0,100,0,,91,9,100,0,80,20,85,15,97,3
+Sultanpur Tulsepur,0,0,100,4,55,41,2,96,2,33,67,0,1,99,0,0,100,0,,84,16,91,9,93,7,80,20,89,11
+Palai Kalayanpur,0,0,100,6,58,36,0,100,0,27,73,0,0,100,2,0,98,0,,93,7,99,1,58,42,78,22,90,10
+Rampur Rampatti,0,0,100,2,57,41,0,100,0,54,46,0,0,100,3,0,97,0,,94,6,99,1,95,5,80,20,89,11
+Ramnagar Narsinghpur,0,0,100,8,56,36,0,100,0,52,48,0,0,100,0,0,100,0,,83,17,100,0,100,0,80,20,99,1
+Khanpur Shah Sulempur,0,0,100,4,57,39,0,97,3,44,56,0,0,100,0,0,100,0,,86,14,99,1,82,18,85,15,93,7
+Keshavpur,0,0,100,9,54,37,0,99,1,31,69,0,0,100,0,0,100,0,,97,3,95,5,83,17,59,41,94,6

@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Budhalakote,0,0,0,0,32,8,23,17,0,36,4,36,3,1,0,0,40,40,0,31,9,32,8,34,6,33,7
+Hari Nagar Thuwa Block,0,0,0,0,17,25,16,26,0,39,3,39,2,1,0,0,42,41,1,28,14,37,5,34,8,38,4
+Vyasi,0,0,1,1,19,5,12,12,1,21,4,22,1,1,0,0,25,25,0,15,10,19,6,21,4,25,0
+Katimi,0,0,0,0,32,3,9,25,1,32,3,28,4,3,0,0,35,34,1,32,3,21,14,30,5,35,0
+Thapli,0,0,0,0,19,14,12,21,0,26,7,30,1,2,0,0,33,33,0,21,12,30,3,33,0,33,0
+Binkote,0,0,0,0,34,6,9,31,0,37,3,35,5,0,0,0,40,40,0,28,12,30,10,36,4,40,0
+Paharkote,0,0,0,0,5,16,1,20,0,19,2,21,0,0,0,0,21,21,0,12,9,15,6,17,4,21,0
+Aam Ki Sar,0,0,0,0,10,0,3,7,0,9,1,9,1,0,0,0,10,10,0,7,3,10,0,10,0,10,0
+Sherbari,0,0,0,0,2,0,2,0,0,2,0,2,0,0,0,0,2,2,0,0,2,2,0,2,0,2,0
+Digthari,0,0,0,0,41,36,31,46,0,77,0,70,2,5,0,0,77,75,2,65,12,58,19,64,13,77,0

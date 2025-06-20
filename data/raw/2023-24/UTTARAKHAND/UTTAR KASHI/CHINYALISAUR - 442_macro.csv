@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Tandola,0,0,0,46,31,6,20,62,1,42,41,12,68,3,0,0,83,83,0,83,0,81,2,81,2,75,8
+Chhijula,0,0,0,47,34,8,17,70,2,50,39,14,70,5,0,0,89,89,0,89,0,88,1,88,1,82,7
+Kawadha,0,0,0,22,15,3,5,34,1,26,14,7,30,3,0,0,40,39,1,40,0,38,2,40,0,37,3
+Barol,0,0,0,11,11,3,4,20,1,16,9,4,19,2,0,0,25,25,0,25,0,25,0,25,0,23,2
+Dharkot,0,0,0,61,75,14,16,124,10,73,77,31,111,8,0,0,150,147,3,145,5,149,1,150,0,116,34
+Jogat Talla,0,0,0,55,39,5,19,79,1,54,45,17,78,4,0,0,99,97,2,99,0,96,3,99,0,65,34
+Jogat Bichlla,0,0,0,33,35,5,10,35,28,43,30,6,61,6,0,0,73,72,1,71,2,72,1,72,1,46,27
+Jokhoni,0,0,0,36,30,4,9,33,28,47,23,17,50,3,0,0,70,69,1,66,4,69,1,70,0,57,13
+Kainthogi,0,0,0,3,37,10,27,21,2,28,22,50,0,0,0,3,47,48,2,45,5,48,2,50,0,46,4
+Bhald Gaon,0,0,0,2,14,4,16,1,3,10,10,20,0,0,0,0,20,20,0,19,1,20,0,20,0,20,0

@@ -1,0 +1,9 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Sihoria,0,0,2,1,1,0,0,2,0,1,1,0,0,2,1,0,1,2,0,2,0,2,0,1,1,2,0
+Ghoghraria,0,22,33,38,14,4,5,50,1,51,5,11,23,22,0,0,56,55,1,40,16,46,10,32,24,52,4
+Siwa,0,18,29,24,20,3,3,44,0,43,4,7,24,16,0,0,47,45,2,32,15,44,3,19,28,44,3
+Mangrauni,0,4,6,1,9,0,0,10,0,9,1,2,3,5,0,0,10,10,0,7,3,8,2,5,5,10,0
+Alpura,0,76,98,132,42,0,15,159,0,157,17,29,78,67,2,0,172,169,5,139,35,145,29,165,9,132,42
+Nanaur,0,28,91,104,15,0,21,97,1,105,14,8,47,64,0,0,117,119,0,95,24,117,2,115,4,106,13
+Dhagjari,0,118,172,251,37,2,7,280,3,253,37,48,111,131,3,1,286,275,15,238,52,238,52,267,23,192,98
+Marukia,0,2,0,2,0,0,0,2,0,2,0,1,1,0,0,0,2,2,0,0,2,2,0,2,0,2,0

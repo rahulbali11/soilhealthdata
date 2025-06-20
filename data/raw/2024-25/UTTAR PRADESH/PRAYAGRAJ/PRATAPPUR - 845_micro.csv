@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Sevana,0,0,100,0,99,1,93,6,1,98,2,0,2,98,1,0,99,0,,98,2,84,16,99,1,99,1,100,0
+Pilakhini,0,0,100,0,97,3,90,3,7,92,8,0,0,100,0,1,99,0,,97,3,83,17,98,2,99,1,99,1
+Jhari,0,0,100,1,98,1,83,14,3,89,11,0,0,100,0,0,100,0,,98,2,89,11,99,1,98,2,99,1
+Fatehpur Maphi,0,0,100,1,98,1,88,12,0,96,4,0,2,98,0,0,99,0,,95,5,92,8,99,1,99,1,99,1
+Bariyari,0,0,100,0,100,0,79,19,2,95,5,0,3,97,0,0,100,0,,100,0,96,4,100,0,100,0,100,0
+Patwa Mutfarka,0,0,100,6,94,0,92,7,1,100,0,0,0,100,2,0,98,0,,97,3,93,7,82,18,97,3,100,0
+Thata,0,0,100,2,96,2,95,4,1,91,9,0,1,99,0,0,100,0,,96,4,86,14,98,2,99,1,100,0
+Mathoe,1,0,99,0,100,0,94,5,1,98,2,0,2,98,0,0,100,0,,93,7,86,14,94,6,100,0,99,1
+Devali,0,0,100,2,97,1,88,12,0,97,3,0,3,97,0,0,100,0,,98,2,94,6,95,5,99,1,100,0
+Dalapatpur,0,0,100,0,100,0,77,20,3,100,0,0,0,100,0,0,100,1,,97,3,80,20,100,0,100,0,100,0

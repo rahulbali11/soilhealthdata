@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Mahrajganj,0,0,100,0,89,11,0,91,9,100,0,6,20,74,0,0,100,63,37,49,51,99,1,90,10,94,6
+Devipur,0,0,100,0,89,11,0,95,5,100,0,3,26,71,0,0,100,69,31,72,28,100,0,87,13,92,8
+Baijnathpur,0,0,100,1,79,20,0,89,11,100,0,1,30,69,0,0,100,69,31,82,18,100,0,79,21,87,13
+Balapar,0,0,100,1,82,17,0,82,18,97,3,4,25,71,0,1,99,75,25,41,59,99,0,80,20,96,4
+Maniram,0,0,100,2,83,15,2,81,17,99,1,0,28,72,0,0,100,94,6,72,28,100,0,82,18,100,0
+Ramgarh Urf Rajahi,0,0,100,0,84,16,0,84,16,90,10,2,27,71,0,0,100,75,25,67,33,100,0,93,7,98,2
+Jangl Dhoosar,0,0,100,0,75,25,0,78,22,100,0,0,27,73,0,0,100,84,16,55,45,100,0,77,23,100,0
+Rampur Chak,1,0,99,0,87,13,0,82,18,98,2,7,29,64,0,0,100,80,20,71,29,100,0,86,14,99,1
+Jangal Nandlal Singh,1,0,99,0,81,19,1,86,13,94,6,2,18,80,1,0,99,77,23,54,46,100,0,84,16,100,0
+Sonbarsa,0,0,100,3,32,65,3,77,20,99,1,1,26,73,0,0,98,96,4,66,34,100,0,89,11,100,0

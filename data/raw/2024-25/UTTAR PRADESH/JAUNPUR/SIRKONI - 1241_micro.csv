@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Kesheopur,0,0,100,18,74,8,2,87,11,20,80,0,1,99,5,0,95,0,,82,18,59,41,99,1,14,86,89,11
+Husepur,0,0,100,24,65,11,3,90,7,22,78,0,0,100,4,0,96,0,,78,22,78,22,100,0,8,92,86,14
+Bahadurpur,0,0,100,21,71,8,4,90,6,16,84,0,0,100,5,0,95,0,,78,22,62,38,100,0,15,85,72,28
+Rasoolpur,0,0,100,19,73,8,8,91,1,18,82,0,0,100,4,0,96,1,,82,18,66,34,99,0,11,89,72,28
+Salakhapur,0,0,100,24,70,6,6,90,4,8,92,1,0,99,3,0,95,1,,81,19,65,34,99,0,18,82,85,15
+Raseepur,0,0,100,23,72,5,4,91,5,9,91,0,0,100,2,0,98,0,,79,21,71,29,100,0,16,84,79,21
+Nehru Nagar Urf Birbhanpur,1,0,99,28,65,7,5,83,12,22,78,0,0,100,2,0,96,0,,70,30,72,28,100,0,14,86,94,6
+Bibipur,0,0,100,26,69,5,7,91,2,22,78,0,1,99,2,0,98,1,,89,11,67,33,100,0,9,91,76,24
+Sungulpur,0,0,100,24,69,7,5,88,7,23,77,0,0,100,6,0,94,0,,80,20,57,43,96,3,9,91,71,29
+Kabulpur,0,0,100,22,70,8,3,90,7,1,99,0,0,100,3,0,96,1,,87,13,72,28,99,0,12,88,86,14

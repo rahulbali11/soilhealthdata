@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Badriya,0,0,100,2,89,9,0,100,0,96,4,0,9,91,0,0,100,99,1,100,0,100,0,98,2,99,1
+Bahadur Pur,0,0,100,21,67,12,0,100,0,100,0,0,0,100,0,0,100,100,0,93,7,100,0,100,0,100,0
+Ghoor Khera,0,0,100,13,61,26,0,99,1,100,0,0,0,100,0,0,100,96,4,100,0,100,0,100,0,100,0
+Bachhepara,0,0,100,26,53,21,1,99,0,100,0,0,0,100,0,0,100,99,1,95,5,100,0,100,0,100,0
+Banika,0,0,100,12,65,23,0,100,0,100,0,1,0,99,0,0,100,99,1,100,0,100,0,100,0,100,0
+Raipur,0,0,100,31,51,18,0,99,1,100,0,0,0,100,0,0,100,100,0,100,0,100,0,100,0,100,0
+Pahara,0,0,100,35,59,6,0,100,0,100,0,0,0,100,0,0,100,99,1,100,0,100,0,100,0,100,0
+Kari Pokhar,0,0,100,29,52,19,0,97,3,100,0,0,0,100,0,0,100,95,5,100,0,100,0,100,0,100,0
+Oeal,0,0,100,29,58,13,0,94,6,100,0,0,0,100,0,0,100,98,2,100,0,100,0,100,0,100,0
+Dhanwar Pur,0,0,100,30,50,20,0,100,0,100,0,0,0,100,0,0,100,99,1,100,0,100,0,100,0,100,0

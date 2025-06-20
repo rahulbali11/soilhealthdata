@@ -1,0 +1,17 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Nimmalagudem,0,4,14,17,1,0,5,11,2,8,10,1,5,12,0,0,18,16,2,15,3,18,0,17,1,18,0
+Jainavarigudem,0,2,16,17,1,0,0,17,1,10,8,0,7,11,0,0,18,15,3,15,3,18,0,16,2,18,0
+Rajanagaram,0,2,16,12,5,1,3,12,3,8,10,0,6,12,0,1,17,16,2,14,4,18,0,18,0,18,0
+Koyarajahmundry,0,0,2,2,0,0,2,0,0,2,0,0,0,2,0,0,2,2,0,2,0,2,0,1,1,2,0
+Atchiahpalem,0,1,17,18,0,0,0,12,6,13,5,0,3,15,0,5,13,15,3,11,7,18,0,13,5,18,0
+Buttayagudem,1,3,71,56,11,8,62,8,5,41,34,12,29,34,0,12,63,66,9,61,14,74,1,69,6,74,1
+Ganapavaram,0,4,13,14,3,0,3,11,3,15,2,0,5,12,0,4,13,16,1,11,6,16,1,15,2,17,0
+Puliramudugudem,0,1,17,10,5,3,10,5,3,14,4,2,8,8,0,2,16,15,3,18,0,18,0,13,5,18,0
+Aliveru,0,0,1,1,0,0,0,0,1,1,0,0,0,1,0,0,1,1,0,1,0,1,0,1,0,1,0
+Kamayyakunta,0,1,17,14,2,2,7,8,3,6,12,1,5,12,0,2,16,17,1,13,5,18,0,16,2,18,0
+Antarvedigudem,0,2,16,12,2,4,12,5,1,15,3,7,5,6,0,5,13,16,2,2,14,18,0,11,7,18,0
+Kotaramachandrapuram,0,4,14,12,3,3,2,10,6,7,11,1,4,13,0,2,16,14,4,15,3,18,0,13,5,18,0
+Lakshmudugudem,0,0,1,1,0,0,0,0,1,1,0,0,1,0,0,0,1,0,1,1,0,1,0,1,0,1,0
+Doramamidi,0,4,38,36,2,4,12,25,5,38,4,14,19,9,0,19,23,41,1,27,15,42,0,40,2,42,0
+Nutiramannapalem,0,5,11,16,0,0,12,3,1,14,2,1,6,9,0,3,13,15,1,5,11,16,0,13,3,16,0
+Ramannagudem,0,20,5,25,0,0,10,15,0,24,1,1,2,22,0,0,25,19,6,24,1,25,0,25,0,25,0

@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Itaili,0,0,100,24,63,13,74,26,0,43,57,0,6,94,1,0,98,4,96,50,50,86,13,66,34,94,6
+Pharairi,0,0,100,18,66,16,75,25,0,8,92,0,6,94,0,0,100,2,98,46,54,98,2,61,39,98,2
+Changoli,0,0,100,22,62,16,71,29,0,11,89,1,1,98,0,0,100,52,48,90,10,99,0,75,25,92,8
+Padkoli,0,0,100,17,68,15,78,22,0,18,82,0,1,99,0,0,100,94,6,22,78,97,3,68,32,99,1
+Derak,0,2,98,16,69,15,80,19,1,17,83,0,8,92,0,0,100,73,27,17,83,86,14,73,27,99,1
+Kenjra,0,0,100,20,64,16,67,33,0,11,89,0,2,98,0,0,100,2,98,35,65,99,1,69,31,97,3
+Gonsili,0,0,100,8,73,19,64,36,0,13,87,0,5,95,0,0,100,73,27,87,13,99,1,62,38,99,1
+Rajpura,0,0,100,14,71,15,75,25,0,15,85,0,5,95,0,0,100,4,96,41,59,99,1,64,36,93,7
+Narholi,0,0,100,14,66,20,64,35,1,44,56,0,0,100,0,0,100,1,99,58,42,76,24,64,36,98,2
+Chousingi,0,1,99,12,72,16,75,24,1,15,85,1,10,89,1,0,99,2,98,67,33,76,23,72,28,98,2

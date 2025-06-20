@@ -1,0 +1,13 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Subhanipur,0,0,2,2,0,0,0,2,0,2,0,1,1,0,0,0,2,2,0,2,0,2,0,0,2,2,0
+Sothiawan,0,10,183,145,48,0,18,172,3,191,2,70,97,26,0,0,193,192,1,173,20,193,0,98,95,193,0
+Rasulpur Semri,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0
+Rahimpur Peare,0,0,20,13,7,0,2,18,0,19,1,9,11,0,0,0,20,18,2,20,0,20,0,10,10,20,0
+Mirzapurgang,0,0,30,17,13,0,6,24,0,30,0,8,22,0,0,0,30,30,0,30,0,30,0,14,16,30,0
+Maniarpur,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,1,1,0,1,0,1,0,1,0,1,0
+Khesraha,0,0,16,15,1,0,1,15,0,16,0,2,14,0,0,0,16,15,1,16,0,16,0,5,11,16,0
+Khedarpur,0,0,2,2,0,0,1,1,0,2,0,1,1,0,0,0,2,2,0,2,0,2,0,1,1,2,0
+Barhauna,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,1,1,0,1,0,1,0,1,0,1,0
+Bangraha,0,0,2,2,0,0,0,2,0,2,0,1,1,0,0,0,2,1,1,1,1,2,0,0,2,2,0
+Alampur,0,2,73,59,13,3,18,56,1,73,2,27,41,7,1,0,74,68,7,60,15,75,0,48,27,70,5
+Balkishunpur Marwa,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,0,1,1,0,1,0,1,0,1,0,1,0

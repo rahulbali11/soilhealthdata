@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Firozshah,0,0,100,0,28,72,0,15,85,13,87,0,0,100,1,0,99,0,,80,20,37,63,100,0,81,19,100,0
+Chak Bakar,0,0,100,1,27,72,0,16,84,47,53,0,0,100,0,0,100,0,,66,34,18,82,100,0,11,89,100,0
+Alawal Pur,0,0,100,0,39,61,0,35,65,42,58,0,1,99,0,0,100,0,,97,3,8,92,100,0,12,88,98,2
+Vasila,0,0,100,0,45,55,1,20,79,37,63,11,0,89,0,0,99,0,,42,58,7,93,99,0,8,92,100,0
+Mubarakpur Kazi,0,0,100,0,50,50,0,52,48,38,62,0,2,98,0,0,100,0,,91,9,21,79,97,2,10,90,99,1
+Parava,0,0,100,0,47,53,0,19,81,33,67,0,0,100,0,0,100,0,,95,5,16,84,98,0,10,90,100,0
+Ballipur Khas,0,0,100,0,53,47,0,28,72,44,56,0,1,99,0,0,99,0,,98,2,25,75,97,0,14,86,100,0
+Sonbarsa,0,0,100,0,47,53,0,44,56,39,61,1,0,99,0,1,99,0,,98,2,21,79,100,0,14,86,100,0
+Usuf Pur,0,0,100,1,44,55,0,53,47,43,57,0,0,100,0,0,100,0,,97,3,14,86,100,0,12,88,100,0
+Barawa Khurd,0,0,100,0,44,56,0,52,48,37,63,0,3,97,0,0,100,0,,100,0,30,70,100,0,13,87,100,0

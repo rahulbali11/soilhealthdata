@@ -1,0 +1,12 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Tharu(170),0,0,0,50,1,149,0,145,55,200,0,2,109,89,2,1,197,0,,13,187,197,3,200,0,0,0,152,48
+Mohana (181),0,0,0,0,3,197,0,197,3,200,0,10,116,74,0,0,200,0,,38,162,17,183,200,0,0,0,69,131
+Barwasni(202),0,0,0,0,0,200,0,186,14,200,0,0,68,132,0,0,200,0,,0,200,4,196,160,40,0,0,77,123
+Mahra (157),0,0,0,200,0,0,0,0,200,200,0,200,0,0,0,0,200,149,,198,2,200,0,200,0,0,200,123,77
+Guhna(184),0,0,0,0,0,200,5,184,11,200,0,0,72,128,1,0,199,0,,59,141,98,102,187,13,0,0,92,108
+Salimpur Turali (152),0,0,0,0,0,199,8,189,2,199,0,35,139,25,0,0,199,0,,5,194,103,96,192,7,0,0,71,128
+Khizarpur Jat Majra(199),0,0,0,0,7,193,2,197,1,200,0,26,130,44,0,0,200,0,,78,122,99,101,161,39,0,0,147,53
+Kakroi(192),0,0,0,0,4,196,6,194,0,199,1,10,139,51,0,0,200,1,,80,120,200,0,200,0,0,0,118,82
+Devru (93),0,0,0,0,6,194,0,198,2,200,0,0,55,145,0,0,200,0,,62,138,200,0,146,22,0,0,118,82
+Tajpur Tihara Khurd (191),0,0,0,0,0,200,3,194,3,200,0,1,98,101,0,0,200,0,,83,117,79,121,184,16,0,0,149,51
+Salimsar Majra(186),0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,,0,1,1,0,1,0,0,0,0,1

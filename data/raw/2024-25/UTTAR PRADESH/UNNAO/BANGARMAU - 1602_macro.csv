@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Pindna,0,0,100,0,95,5,58,42,0,100,0,0,8,92,0,0,100,100,0,100,0,100,0,99,1,100,0
+Kanhau,0,0,100,3,96,1,67,33,0,100,0,0,5,95,0,0,100,100,0,100,0,100,0,100,0,100,0
+Jamar,0,0,100,4,95,1,74,26,0,100,0,0,12,88,0,0,100,96,4,100,0,100,0,100,0,100,0
+Murtaza Pur,0,0,100,1,92,7,69,31,0,100,0,0,11,89,0,0,100,99,1,98,2,100,0,100,0,100,0
+Bhathiya Pur,0,0,100,2,94,4,69,31,0,100,0,0,11,89,0,0,100,98,2,100,0,100,0,100,0,100,0
+Jagtapur,0,0,100,5,92,3,71,29,0,100,0,0,12,88,0,0,100,100,0,100,0,100,0,100,0,100,0
+Kamlapur,0,0,100,4,93,3,74,26,0,100,0,1,11,88,0,0,100,98,2,99,1,100,0,100,0,100,0
+Newal,0,0,100,4,94,2,70,30,0,100,0,0,11,89,0,0,100,97,3,100,0,100,0,100,0,100,0
+Mustafabad,0,0,100,0,100,0,49,51,0,100,0,0,15,85,0,0,100,100,0,100,0,99,1,100,0,100,0
+Hariapur,0,0,100,1,99,0,53,47,0,100,0,1,18,81,0,0,100,99,1,99,1,100,0,100,0,100,0

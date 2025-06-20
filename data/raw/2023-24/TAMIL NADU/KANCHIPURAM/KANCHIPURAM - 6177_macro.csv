@@ -1,0 +1,15 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Melambi,0,0,17,2,15,0,0,17,0,17,0,0,0,17,0,0,17,4,13,10,7,17,0,0,17,2,15
+Kilambi,1,0,124,57,67,1,7,117,1,116,8,0,2,122,0,1,124,32,93,96,29,116,9,23,102,85,40
+Iyangarkulam,0,0,60,14,46,0,0,59,1,58,2,0,0,60,0,2,58,11,49,33,27,53,7,25,35,30,30
+Vedal,0,0,98,47,49,2,4,94,0,93,5,1,0,97,0,0,98,9,89,67,31,94,4,15,83,68,30
+Magaral,0,0,40,5,32,3,6,33,1,39,1,1,0,39,1,1,38,26,14,36,4,33,7,5,35,32,8
+Elayanarvelur,0,0,87,46,40,1,5,82,0,83,4,0,1,86,0,0,87,38,49,71,16,79,8,33,54,69,18
+Thalaiyillillaperumbakkam,0,0,3,0,3,0,0,3,0,3,0,0,0,3,0,0,3,3,0,3,0,3,0,0,3,2,1
+Chithaathur,0,0,13,10,3,0,1,12,0,13,0,0,0,13,0,0,13,5,8,13,0,13,0,1,12,10,3
+Kalakattur,0,0,95,53,42,0,7,88,0,90,5,0,0,95,0,4,91,16,79,50,45,84,10,11,84,57,38
+Avalur,0,0,100,31,69,0,1,99,0,100,0,0,2,98,0,4,94,3,97,50,50,83,17,14,86,42,58
+Kuruvimalai,0,0,1,0,1,0,0,1,0,1,0,0,0,1,0,0,1,0,1,0,1,1,0,1,0,1,0
+Vitchanthangal,0,0,5,1,4,0,0,5,0,5,0,0,0,5,0,0,5,0,5,5,0,2,3,0,5,4,1
+Arpakkam,0,0,97,36,61,0,10,87,0,95,2,0,0,97,0,0,97,47,50,85,12,86,11,26,71,76,21
+Putheri,0,0,5,1,4,0,0,5,0,5,0,0,0,5,0,0,5,1,4,3,2,4,1,0,5,5,0

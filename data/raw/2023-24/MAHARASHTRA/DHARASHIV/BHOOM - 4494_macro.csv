@@ -1,0 +1,13 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Tintraj,0,0,60,0,2,58,50,10,0,0,60,0,0,60,0,0,60,3,57,8,52,58,2,22,38,60,0
+Tambewadi,0,0,57,0,2,55,33,24,0,0,57,0,13,44,0,0,57,33,24,11,46,57,0,21,36,57,0
+Jamb,0,0,61,0,7,54,30,31,0,0,61,0,5,56,0,0,61,12,49,14,47,61,0,37,24,61,0
+Aliyabadwadi,0,0,58,0,6,52,51,7,0,0,58,0,0,58,0,0,58,2,56,24,34,58,0,37,21,57,1
+Barhanpur,0,0,1,0,0,1,1,0,0,0,1,0,0,1,0,0,1,0,1,0,1,1,0,1,0,1,0
+Jayavantnagar,0,0,60,0,1,59,45,15,0,0,60,0,0,60,0,0,60,0,60,19,41,58,2,38,22,60,0
+Sukta,0,0,60,0,3,57,45,15,0,0,60,0,0,60,0,0,60,1,59,10,50,58,2,44,16,60,0
+Wanjarwadi,0,0,58,0,1,57,43,15,0,0,58,0,0,57,0,0,58,0,58,15,43,57,1,34,24,58,0
+Handongri,0,0,60,0,3,57,43,17,0,0,60,0,0,60,0,0,60,0,60,9,51,60,0,40,20,60,0
+Ralesangvi,0,0,60,1,1,58,42,18,0,0,60,1,0,59,0,0,60,1,59,12,47,59,1,43,17,60,0
+Girwali,0,0,60,0,0,60,47,13,0,1,58,0,4,56,0,0,60,2,58,17,41,57,3,42,17,59,1
+Kanadi,0,0,60,0,0,60,45,15,0,0,60,0,0,60,1,0,59,0,60,11,49,60,0,36,24,59,1

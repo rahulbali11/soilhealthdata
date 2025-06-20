@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Belawa,0,0,100,14,79,7,5,85,10,1,99,0,2,98,3,0,97,84,16,57,43,100,0,17,83,100,0
+Birshadpur,0,0,100,18,76,6,6,84,10,17,83,1,0,99,4,0,96,86,14,69,31,98,0,12,88,96,4
+Gauriyapur,0,1,99,20,72,8,4,93,3,20,80,0,1,99,4,0,96,85,15,64,36,99,0,8,92,74,26
+Sultanpur,1,0,99,25,65,10,6,90,4,23,77,0,3,97,6,0,93,82,18,63,37,99,0,9,91,81,19
+Bhatpura,0,0,100,20,70,10,6,85,9,18,82,1,1,98,4,0,96,90,10,68,32,96,0,12,88,70,30
+Chapramau,0,0,100,20,72,8,4,92,4,26,74,0,0,100,4,0,95,80,20,68,32,99,0,10,89,94,6
+Katehari Chak,1,0,99,18,73,9,4,93,3,18,82,0,1,99,4,0,95,86,14,57,43,99,1,11,89,86,14
+Newada Kazi,0,0,100,22,70,8,2,91,7,19,81,0,0,100,4,0,91,81,19,68,32,100,0,10,90,73,27
+Chanvari,1,0,99,26,69,5,5,89,6,24,76,1,0,99,6,0,94,80,19,73,27,100,0,12,88,83,17
+Barabaspur,0,0,100,21,70,9,6,91,3,21,79,0,1,99,1,0,99,78,22,65,35,99,0,9,90,73,27

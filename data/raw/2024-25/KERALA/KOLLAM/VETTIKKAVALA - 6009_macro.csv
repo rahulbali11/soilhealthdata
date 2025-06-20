@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Vettikkavala,0,0,0,60,30,0,8,67,15,68,22,60,24,5,0,83,6,73,17,90,0,86,4,57,33,63,27
+Chakkuvarakkal,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,1,0,1,0,1,0,1,0,0,1,1,0
+Melila,0,0,0,88,0,0,20,45,23,36,52,47,25,16,0,68,20,55,33,87,1,88,0,42,46,66,22
+Pavithreswaram,0,0,0,103,7,0,21,61,28,92,18,102,5,3,0,59,51,110,0,110,0,110,0,11,99,110,0
+Kalayapuram,0,0,0,78,12,5,36,54,5,68,27,81,6,8,0,31,64,95,0,95,0,95,0,13,79,95,0
+Mylom,0,0,0,140,18,1,72,78,9,114,45,126,13,20,0,53,106,159,0,157,0,158,0,14,145,158,1
+Puthur,0,0,0,31,1,1,21,11,1,20,13,30,2,1,0,13,20,33,0,33,0,33,0,1,32,33,0
+Valakam,0,0,0,59,2,0,0,60,1,61,0,36,12,13,0,58,3,61,0,60,1,61,0,4,57,61,0
+Ummannoor,0,0,0,233,41,33,39,247,19,264,43,187,74,46,0,263,44,306,1,303,3,306,0,33,274,305,2
+Kulakkada,0,0,0,170,7,2,48,102,29,125,54,142,30,7,0,55,124,179,0,178,1,179,0,21,152,177,2

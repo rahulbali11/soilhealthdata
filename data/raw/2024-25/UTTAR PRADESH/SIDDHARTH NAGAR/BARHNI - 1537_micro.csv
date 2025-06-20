@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Taulihawa,0,0,100,21,30,49,0,100,0,19,81,0,49,51,1,0,99,0,,99,1,0,100,100,0,59,41,100,0
+Pachouth,0,0,100,19,34,47,0,100,0,11,89,0,51,49,0,0,100,0,,100,0,1,99,100,0,53,47,100,0
+Basahiya,0,0,100,16,34,50,0,100,0,10,90,0,51,49,0,0,100,0,,100,0,0,100,100,0,47,53,100,0
+Champapur,0,0,100,17,27,56,0,100,0,19,81,0,51,49,0,0,100,0,,100,0,0,100,100,0,59,41,100,0
+Golhaura mustahkam,0,0,100,15,27,58,0,100,0,15,85,0,48,52,0,0,100,0,,100,0,0,100,100,0,49,51,100,0
+Panariya,0,0,100,18,33,49,0,100,0,17,83,0,47,53,0,0,100,0,,100,0,0,100,100,0,48,52,99,1
+Audahi,0,0,100,17,51,32,0,100,0,18,82,0,48,52,0,0,100,0,,100,0,35,65,100,0,52,48,100,0
+Maanpur,0,0,100,17,51,32,0,100,0,23,77,0,50,50,0,0,100,0,,100,0,31,69,100,0,54,46,100,0
+Baragadawa,0,0,100,11,60,29,0,100,0,12,88,0,47,53,0,0,100,0,,100,0,48,52,100,0,61,39,100,0
+Baidauli tappa khajahni,0,0,100,11,54,35,1,99,0,16,84,0,48,52,0,1,99,0,,100,0,16,84,100,0,86,14,100,0

@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Lotad,0,0,100,51,49,0,45,55,0,91,9,1,10,89,4,0,96,98,2,59,41,90,10,100,0,99,1
+Jarar,0,0,100,50,50,0,48,52,0,93,7,0,4,96,5,0,95,94,6,85,15,97,3,100,0,100,0
+Akhari Shahpur,0,0,100,50,50,0,52,48,0,93,7,0,11,89,4,0,96,93,7,79,21,96,4,100,0,100,0
+Madaraha,0,0,100,51,49,0,42,58,0,93,7,0,14,86,5,0,95,97,3,90,10,92,8,100,0,100,0
+Bhatauti,0,0,100,51,49,0,45,55,0,98,2,0,8,92,3,0,97,95,5,90,10,96,4,99,1,99,1
+Meja Khas,0,0,100,49,51,0,46,54,0,96,4,0,2,98,4,0,96,95,5,93,7,95,5,100,0,100,0
+Kona,0,0,100,51,49,0,47,53,0,97,3,0,25,75,4,0,96,99,1,89,11,95,5,100,0,100,0
+Ghori,0,0,100,49,51,0,55,45,0,97,3,0,5,95,4,0,96,95,5,94,6,96,4,100,0,100,0
+Salaiya Kala,0,0,100,49,51,0,51,49,0,93,7,0,20,80,4,0,96,90,10,86,14,98,2,100,0,100,0
+Jhadiyahi,0,0,100,48,49,3,50,50,0,95,5,0,14,86,4,0,96,95,5,83,17,87,13,100,0,100,0

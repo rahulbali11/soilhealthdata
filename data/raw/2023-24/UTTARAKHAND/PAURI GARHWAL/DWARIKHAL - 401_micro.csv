@@ -1,0 +1,12 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Adali,0,0,0,1,2,6,7,2,0,9,0,5,4,0,0,0,9,0,,5,4,9,0,9,0,4,5,8,1
+Dikhet,0,0,0,23,2,0,0,11,14,23,2,22,3,0,0,0,25,0,,25,0,25,0,25,0,17,8,25,0
+Dhandari,0,0,0,6,5,0,0,7,4,10,1,11,0,0,0,0,11,0,,11,0,11,0,11,0,10,1,11,0
+Jamal,0,0,0,27,3,0,13,11,6,25,5,17,12,1,0,0,30,0,,18,12,25,5,30,0,21,9,30,0
+Jaspur,0,0,0,26,1,0,15,5,7,25,2,19,5,3,0,0,27,0,,27,0,27,0,27,0,25,2,26,1
+Tatri,0,0,0,8,15,3,5,2,19,18,8,5,11,10,0,0,26,0,,8,18,24,1,26,0,24,2,25,1
+Chandpur,0,0,0,20,10,0,8,11,11,29,1,6,10,14,0,0,30,0,,29,1,26,4,30,0,26,4,29,1
+Timaldhar,0,0,0,2,0,0,2,0,0,2,0,2,0,0,0,0,2,0,,2,0,2,0,2,0,2,0,2,0
+Timali,0,0,0,16,0,0,10,5,1,14,2,15,1,0,0,0,16,0,,16,0,14,2,16,0,14,2,16,0
+Saurkhet,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0,,1,0,1,0,1,0,1,0,1,0
+Saur,0,0,0,28,3,0,12,8,11,25,6,10,13,8,0,0,31,0,,29,2,26,2,31,0,25,6,31,0

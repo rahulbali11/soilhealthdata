@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Bumkaha,1,0,99,20,46,34,0,79,21,23,77,0,0,100,0,0,100,85,15,67,33,100,0,17,83,90,10
+Salempur,0,0,100,17,57,26,0,95,5,24,76,0,0,100,0,0,100,85,15,69,31,100,0,20,79,86,14
+Jainpur,0,0,100,19,56,25,1,81,18,13,87,1,0,99,0,0,99,79,21,61,39,100,0,10,90,91,9
+Ram Nagar,1,0,99,19,55,26,1,81,18,12,87,1,0,99,0,0,100,80,20,64,36,99,0,11,89,92,8
+Zangipur,0,1,99,21,50,29,2,90,8,23,77,0,0,100,0,0,100,82,18,63,37,99,0,23,77,89,11
+Shahmau,0,0,100,11,47,42,0,85,15,23,77,0,0,100,0,0,100,79,21,68,32,99,0,11,88,83,17
+Atraura,0,0,100,14,52,34,0,91,9,19,81,0,0,100,0,0,100,87,13,68,32,98,0,14,86,84,16
+Arhanpur,0,0,100,2,53,45,1,87,12,27,73,0,0,100,0,0,100,81,19,61,39,100,0,16,84,72,28
+Asaitha Patti Naurang,1,0,99,11,46,43,0,85,15,30,70,1,0,99,0,0,99,86,14,68,32,100,0,9,91,77,23
+Bandhgaon,0,0,100,19,37,44,0,90,10,20,80,0,0,100,1,0,99,85,15,65,35,100,0,9,91,86,14

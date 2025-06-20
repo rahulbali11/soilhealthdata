@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Dharmpur,0,0,100,1,47,52,0,96,4,94,6,1,45,54,0,0,100,84,16,94,6,100,0,87,13,100,0
+Dharmauli,0,0,100,0,69,31,1,92,7,98,2,3,54,43,0,0,95,68,31,96,4,99,0,87,13,99,0
+Variyarpur,1,0,99,1,67,32,2,91,7,93,7,4,48,48,0,0,100,73,27,96,4,100,0,92,8,100,0
+Balua,0,0,100,0,62,38,1,92,7,96,4,5,49,46,0,0,100,91,9,95,5,100,0,89,11,100,0
+Natawa,0,0,100,1,53,46,1,98,1,92,8,4,52,44,0,0,100,97,3,95,5,99,0,89,11,99,1
+Nandana,0,0,100,1,61,38,1,94,5,90,10,3,47,50,0,0,99,75,25,93,7,100,0,89,11,100,0
+Baswar,0,0,100,1,68,31,3,91,6,93,7,4,43,53,0,0,100,98,2,95,5,99,0,86,14,99,1
+Sohanpur Urf Sonkatia,0,0,100,0,66,34,0,87,13,95,5,3,45,52,0,0,99,95,5,91,9,100,0,84,16,100,0
+Sohawal,0,0,100,0,61,39,1,97,2,93,7,9,56,35,0,0,95,85,15,94,6,100,0,91,9,100,0
+Sohasabanspar,0,0,100,0,63,37,2,98,0,89,11,8,42,50,1,0,99,100,0,96,4,100,0,85,15,99,1

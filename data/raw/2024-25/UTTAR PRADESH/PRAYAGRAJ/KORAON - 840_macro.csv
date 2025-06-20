@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Saji,0,0,100,55,45,0,46,54,0,93,7,0,19,81,5,0,95,95,5,84,16,91,9,99,1,99,1
+Belvaniya,0,0,100,55,44,1,51,49,0,93,7,0,12,88,2,0,98,93,7,79,21,99,1,100,0,100,0
+Tikar,0,0,100,56,44,0,48,52,0,95,5,0,3,97,5,0,95,96,4,66,34,99,1,100,0,100,0
+Bhavanipur,0,0,100,54,46,0,56,44,0,93,7,0,3,97,4,0,96,100,0,92,8,98,2,99,1,100,0
+Aruvari,0,0,100,58,42,0,54,46,0,94,6,0,13,87,6,0,94,99,1,83,17,87,13,100,0,100,0
+Chandi,0,0,100,56,43,1,48,52,0,93,7,0,13,87,5,0,95,98,2,69,31,92,8,100,0,100,0
+Bhagesar,0,0,100,57,43,0,49,51,0,91,9,0,21,79,2,0,98,97,3,86,14,92,8,100,0,100,0
+Semariya,0,0,100,56,44,0,48,52,0,88,12,0,6,94,6,0,94,99,1,64,36,96,4,100,0,100,0
+Barauhan,0,0,100,56,44,0,51,49,0,100,0,0,6,94,7,0,93,99,1,92,8,95,5,100,0,100,0
+Gheghasahi,0,0,100,50,50,0,53,47,0,90,10,0,4,96,7,0,93,99,1,62,38,93,7,100,0,100,0

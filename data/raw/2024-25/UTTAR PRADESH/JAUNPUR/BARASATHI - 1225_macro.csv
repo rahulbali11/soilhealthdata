@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Asawan,0,0,100,2,57,41,0,92,8,25,75,0,36,64,0,0,100,62,37,73,27,96,0,16,84,91,8
+Bhaisaha,0,0,100,0,72,28,1,97,2,29,71,0,31,69,0,0,98,71,29,65,35,100,0,18,82,95,5
+Bhadrawan,0,0,100,1,70,29,1,99,0,24,76,0,32,68,0,0,99,83,17,53,47,98,0,13,87,91,9
+Sahadatpur,0,0,100,0,69,31,1,98,1,21,79,1,29,70,2,0,98,84,16,59,41,100,0,14,86,93,7
+Sotipur,3,0,97,0,62,38,0,99,1,27,73,0,31,69,0,0,97,84,16,68,32,100,0,16,84,93,7
+Kanh Banshipur,1,0,99,0,63,37,0,99,1,35,65,0,32,68,0,0,99,76,24,66,34,99,1,11,89,95,5
+Bankat,0,0,100,0,67,33,0,99,1,21,79,1,33,66,0,0,100,79,21,61,39,99,0,15,84,96,4
+Mahuari,0,0,100,0,71,29,0,99,1,28,72,0,31,69,0,0,99,84,16,74,26,99,0,11,88,95,5
+Datanav,0,0,100,0,71,29,1,99,0,31,69,0,32,68,0,0,100,70,30,67,33,100,0,11,89,93,7
+Bhagawanpur,0,0,100,1,63,36,0,99,1,4,96,0,30,70,0,0,99,93,7,66,34,100,0,5,95,100,0

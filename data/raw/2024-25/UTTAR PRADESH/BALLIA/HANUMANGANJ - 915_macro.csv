@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Wadia,0,20,80,49,42,9,2,81,17,25,75,0,0,100,1,0,99,48,52,43,57,100,0,80,20,100,0
+Inderpur,0,10,89,43,42,15,0,95,5,26,74,0,0,100,0,0,98,67,33,42,58,98,2,89,11,99,1
+Thamhanpura,0,9,91,46,43,11,0,98,2,17,83,0,0,100,0,0,100,63,37,37,63,100,0,86,14,100,0
+Chhorhar,0,23,77,45,47,7,0,97,3,21,79,0,15,85,0,0,96,54,46,42,58,100,0,85,15,98,1
+Dharhara,0,9,91,43,47,10,0,93,7,38,62,0,3,97,0,0,100,95,5,44,56,97,3,78,22,99,1
+Banarhi,0,20,80,47,45,8,0,89,11,43,57,0,0,100,1,0,99,64,36,30,70,99,1,81,19,99,1
+Brahmaine,0,21,79,46,39,15,0,81,19,19,81,0,12,88,0,0,100,58,42,35,65,100,0,85,15,97,3
+Basantpur Mustahakam,0,19,81,47,44,9,0,92,8,13,87,0,0,100,0,0,100,62,38,31,69,96,4,83,17,96,4
+Cheruia,0,2,98,52,39,9,0,99,1,25,75,0,0,100,0,0,100,63,37,41,59,100,0,84,16,95,5
+Darampur,1,0,99,49,43,8,0,82,18,26,74,0,0,100,0,0,100,52,48,27,73,99,1,81,19,98,2

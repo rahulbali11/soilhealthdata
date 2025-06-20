@@ -1,0 +1,21 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Bhatkhawa Tea Garden,0,1,1,2,0,0,0,1,1,0,2,1,0,1,0,2,0,2,0,2,0,2,0,0,2,2,0
+Rajabhat Tea Garden,0,0,1,1,0,0,0,0,1,0,1,1,0,0,0,1,0,1,0,1,0,1,0,0,1,1,0
+Buxa Forest (Raja Bhatkhawa),0,87,203,283,5,2,50,62,178,52,238,88,106,96,1,195,94,289,1,272,18,289,0,124,165,290,0
+Dakshin Mandabari,0,2,0,2,0,0,0,0,2,0,2,2,0,0,0,2,0,2,0,1,1,2,0,0,2,2,0
+Bhatpara Tea Garden,0,64,94,138,14,6,23,51,84,99,59,63,48,47,0,43,115,158,0,117,41,158,0,47,111,157,1
+Purba Satali,0,67,125,166,15,11,17,69,106,128,64,67,56,69,0,48,144,192,0,133,59,192,0,42,150,191,1
+Madhya Satali,0,0,3,3,0,0,0,0,3,0,3,0,3,0,0,1,2,3,0,3,0,3,0,2,1,3,0
+Satali Nakadala,0,4,2,6,0,0,2,3,1,4,2,4,1,1,0,4,2,6,0,6,0,6,0,2,4,6,0
+Nimti Domohani,2,70,100,167,5,0,34,56,82,35,137,70,65,37,0,118,54,172,0,164,8,172,0,83,89,171,1
+Jaigaon,0,8,5,13,0,0,5,8,0,7,6,8,4,1,0,2,11,13,0,13,0,13,0,4,9,13,0
+Kalchini Tea Garden,0,0,2,2,0,0,0,1,1,1,1,0,1,1,0,0,2,2,0,2,0,2,0,1,1,2,0
+Uttar Mandabari,0,63,105,156,11,1,30,52,86,42,126,64,60,44,0,123,45,167,1,149,19,168,0,72,96,168,0
+Dakshin Latabari,0,51,129,174,5,1,30,63,87,52,128,52,78,50,0,149,31,180,0,172,8,180,0,107,73,180,0
+Paschim Satali,0,1,5,6,0,0,2,1,3,1,5,1,5,0,0,5,1,6,0,6,0,6,0,4,2,6,0
+Satali Tea Garden,0,19,13,32,0,0,9,14,9,5,27,19,6,7,0,15,17,32,0,30,2,32,0,20,12,32,0
+Satali Mandalpara,0,2,11,13,0,0,1,5,7,5,8,2,10,1,0,4,9,13,0,13,0,13,0,9,4,13,0
+Buxa Hill Forest,0,0,1,1,0,0,0,0,1,0,1,0,1,0,0,0,1,1,0,1,0,1,0,1,0,1,0
+Uttar Barajhar Forest,0,8,7,15,0,0,4,3,8,3,12,8,4,3,0,14,1,15,0,14,1,15,0,5,10,15,0
+Uttar Latabari (CT),0,23,26,48,0,1,18,16,15,16,33,23,15,11,0,25,24,49,0,46,3,49,0,22,27,49,0
+Chhota Jaygaon,0,6,4,10,0,0,2,6,2,4,6,6,2,2,0,1,9,10,0,9,1,10,0,5,4,10,0

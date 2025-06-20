@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Kokna Kalan,0,0,100,0,93,7,8,91,1,74,26,0,0,100,0,0,100,0,,8,92,59,41,92,7,88,12,77,23
+Mangroo,0,0,100,1,91,8,8,91,0,30,70,0,0,100,0,0,100,0,,5,95,47,53,94,6,93,7,95,5
+Sher Pur,0,0,100,0,97,3,4,96,0,40,60,2,0,98,0,0,100,0,,19,81,50,50,96,4,95,5,99,1
+Kukargawan,0,0,100,0,100,0,0,100,0,32,68,0,0,100,0,0,100,0,,16,84,67,33,92,8,92,8,78,22
+Madha Bhoj,0,0,100,0,90,10,0,100,0,26,74,0,0,100,0,0,99,0,,28,72,53,47,91,9,86,14,69,31
+Parsaura,0,0,100,0,99,1,0,100,0,17,83,0,0,100,0,0,99,0,,56,44,37,63,88,12,82,18,95,5
+Vir Nagar,0,0,100,1,99,0,85,14,1,10,90,0,0,100,0,0,100,0,,11,89,41,59,92,8,79,21,68,32
+Gutahara,0,0,100,1,96,3,1,99,0,27,73,0,0,100,1,0,99,0,,22,78,96,4,100,0,87,13,35,65
+Khonda,0,0,100,0,100,0,0,100,0,20,80,0,0,100,0,0,100,0,,22,78,54,46,92,8,87,13,76,24
+Madhapithu,0,0,100,0,93,7,12,88,0,27,73,0,0,100,0,0,97,0,,24,76,58,42,95,5,85,15,87,13

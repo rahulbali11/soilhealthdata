@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Varaya,0,0,100,0,53,47,5,95,0,98,2,0,25,75,0,0,100,0,,97,3,79,21,100,0,25,75,100,0
+Songarha,0,0,100,1,52,47,15,85,0,96,4,0,17,83,0,0,100,0,,67,33,60,40,100,0,50,50,98,2
+Babura Kalan,0,0,100,0,63,37,15,85,0,98,2,0,17,83,0,0,100,0,,65,35,69,31,100,0,0,100,100,0
+Bardeeha Kalan,0,0,100,2,55,43,20,80,0,99,1,0,27,73,0,0,100,0,,77,23,52,48,100,0,5,95,100,0
+Babura Raghunath Singh,0,0,100,5,56,39,21,79,0,97,3,0,15,85,0,0,100,0,,97,3,55,45,100,0,0,100,100,0
+Chandra Garh,0,0,100,2,58,40,21,79,0,97,3,0,19,81,0,0,100,0,,87,13,65,35,100,0,70,30,98,2
+Paiwari Kalan,0,0,100,2,55,43,32,68,0,94,6,0,18,82,0,2,98,0,,89,11,28,72,100,0,39,61,100,0
+Galriya,0,0,100,3,62,35,19,81,0,97,3,1,21,78,0,0,100,0,,86,14,91,9,100,0,86,14,100,0
+Banjari Kalan,0,0,100,0,60,40,37,63,0,86,14,0,27,73,0,0,100,0,,72,28,61,39,100,0,13,87,97,3
+Babura Bhairo Dayal,0,0,100,3,53,44,16,84,0,96,4,0,23,77,0,0,100,0,,51,49,58,42,100,0,70,30,99,1

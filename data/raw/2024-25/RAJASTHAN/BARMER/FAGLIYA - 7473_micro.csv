@@ -1,0 +1,18 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Sata,0,0,0,21,0,0,0,21,0,0,0,0,0,21,1,0,20,0,,0,21,0,21,21,0,0,1,21,0
+Mogawa,0,0,0,14,0,0,2,12,0,0,0,0,0,14,0,0,14,0,,0,14,0,14,14,0,0,0,14,0
+Manpura,0,0,0,2,0,0,0,2,0,0,0,0,0,2,0,0,2,0,,0,2,0,2,2,0,0,0,2,0
+Tarla,0,0,0,6,0,0,1,5,0,0,0,0,0,6,0,0,6,0,,0,6,0,6,6,0,0,0,6,0
+Sanwlasi,0,0,0,12,0,0,0,11,1,0,0,0,0,12,0,0,12,0,,0,12,0,12,12,0,0,0,12,0
+Pandarwali,0,0,0,7,0,0,1,6,0,0,0,0,0,7,0,0,7,0,,0,7,0,7,7,0,0,0,7,0
+Khari,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,,0,1,0,1,1,0,0,0,1,0
+Gira,0,0,0,4,1,0,4,1,0,0,0,0,0,5,0,0,5,0,,0,5,0,5,5,0,0,0,5,0
+Aambawa,0,0,0,3,0,0,0,3,0,0,0,0,0,3,0,0,3,0,,0,3,0,3,3,0,0,0,3,0
+Borla,0,0,0,4,0,0,0,4,0,0,0,0,0,4,0,0,4,0,,0,4,0,4,4,0,0,0,4,0
+Kharader,0,0,0,40,0,0,0,40,0,0,0,0,0,40,12,0,28,1,,0,40,0,39,39,0,0,0,37,3
+Borla Jatan,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,1,,0,1,0,1,1,0,0,0,1,0
+Gangasara,0,0,0,15,0,0,1,13,1,0,0,0,0,15,0,0,15,0,,0,15,0,15,15,0,0,0,15,0
+Badha,0,0,0,3,0,0,0,3,0,0,0,0,0,3,0,0,3,0,,0,3,0,3,3,0,0,0,3,0
+Phagliya,0,0,0,20,0,0,0,20,0,0,0,0,0,20,2,0,18,0,,0,20,0,20,20,0,0,0,20,0
+Nawapura,0,0,0,2,0,0,0,2,0,0,0,0,0,2,1,0,1,0,,0,2,0,2,2,0,0,0,2,0
+Meethri,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,,0,1,0,1,1,0,0,0,1,0

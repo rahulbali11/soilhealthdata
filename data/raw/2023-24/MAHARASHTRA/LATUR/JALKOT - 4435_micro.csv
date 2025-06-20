@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Viral,0,0,60,0,29,31,60,0,0,0,60,0,15,45,0,0,60,0,,2,58,9,51,60,0,0,60,60,0
+Dhorsangvi,0,0,60,0,17,43,60,0,0,0,60,1,16,43,0,0,60,0,,55,5,40,20,60,0,0,60,60,0
+Sheldara,0,0,60,0,30,30,60,0,0,0,60,0,4,56,0,0,60,0,,60,0,45,15,60,0,0,60,60,0
+Kekatsindagi,0,0,60,0,11,49,60,0,0,0,60,0,35,25,0,0,60,0,,60,0,41,19,60,0,0,60,60,0
+Yeori,0,0,1,0,1,0,1,0,0,0,1,0,0,1,0,0,1,0,,1,0,0,1,1,0,0,1,1,0
+Ghonsi,0,12,47,0,22,37,59,0,0,0,59,1,4,54,1,2,56,6,,59,0,40,19,59,0,0,59,59,0
+Jalkot,0,0,1,0,0,1,1,0,0,0,1,0,0,1,0,0,1,0,,1,0,1,0,1,0,0,1,1,0
+Sonwala,0,0,60,0,52,8,60,0,0,0,60,0,0,60,0,0,60,0,,60,0,43,17,60,0,0,60,60,0
+Belsangvi,0,0,60,0,46,14,60,0,0,1,59,0,1,59,0,0,60,0,,58,2,39,21,60,0,0,60,60,0
+Atnoor,0,0,60,0,24,36,60,0,0,0,60,0,3,57,0,0,60,0,,60,0,33,27,60,0,1,59,60,0

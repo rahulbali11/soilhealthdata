@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Pidaura,0,17,83,20,77,3,17,83,0,74,26,1,17,82,0,0,100,0,100,44,56,100,0,37,63,8,92
+Tilokpur,0,29,71,17,78,5,22,75,3,71,29,1,29,70,0,0,100,0,100,59,41,100,0,46,54,1,99
+Gokani,0,3,97,17,83,0,27,67,6,78,22,0,3,97,0,0,100,0,100,49,51,100,0,43,57,2,98
+Sarai Jarelia,0,2,98,19,78,3,22,77,1,77,23,0,2,98,0,0,100,1,99,67,33,100,0,46,54,1,99
+Datei,0,11,89,23,75,2,3,88,9,76,24,0,12,88,0,0,100,0,100,67,33,100,0,40,60,1,99
+Khakrai,0,16,84,16,78,6,4,86,10,74,26,1,15,84,0,0,100,0,100,47,53,100,0,40,60,35,65
+Samaspur,0,50,50,8,85,7,7,85,8,75,25,2,48,50,0,0,100,1,99,68,32,100,0,41,59,24,76
+Bhurigawan,0,13,87,12,81,7,27,71,2,76,24,0,13,87,0,0,100,0,100,52,48,100,0,41,59,32,68
+Khangarpur Daulatpur,0,14,86,10,86,4,9,87,4,71,29,3,11,86,0,0,100,2,98,64,36,100,0,46,54,24,76
+Bhojpur,0,14,86,18,81,1,7,85,8,75,25,0,14,86,0,0,100,0,100,48,52,100,0,38,62,27,73

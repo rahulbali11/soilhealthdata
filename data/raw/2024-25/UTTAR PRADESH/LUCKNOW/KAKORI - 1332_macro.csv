@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Puraina,0,33,67,0,41,59,63,37,0,100,0,85,15,0,0,0,100,45,55,100,0,100,0,100,0,79,21
+Tendava,0,17,83,5,73,22,61,39,0,98,2,78,17,5,0,0,100,95,5,100,0,100,0,99,1,98,2
+Dona,0,0,100,2,53,45,98,2,0,100,0,35,65,0,0,0,100,100,0,100,0,100,0,92,8,99,1
+Hardoiyalal Nagar,0,0,100,10,56,34,2,98,0,100,0,3,96,1,0,0,100,98,2,99,1,100,0,99,1,100,0
+Behru,0,1,99,8,65,27,11,89,0,100,0,71,29,0,0,0,100,49,51,100,0,100,0,100,0,51,49
+Ibrahim Ganj,0,2,98,0,61,39,35,65,0,100,0,36,38,26,0,0,100,100,0,100,0,100,0,100,0,94,6
+Saidpur Maheri,0,5,95,6,76,18,93,6,1,100,0,89,9,2,0,0,100,92,8,94,6,100,0,100,0,96,4
+Kusmi,0,2,98,12,72,16,0,43,57,100,0,45,55,0,0,0,100,62,38,100,0,100,0,89,11,100,0
+Basrela,0,1,99,7,64,29,1,72,27,100,0,26,73,1,0,0,100,78,22,100,0,100,0,100,0,100,0
+Fatehganj,0,0,100,8,68,24,0,53,47,100,0,0,2,98,0,0,100,78,22,100,0,100,0,92,8,100,0

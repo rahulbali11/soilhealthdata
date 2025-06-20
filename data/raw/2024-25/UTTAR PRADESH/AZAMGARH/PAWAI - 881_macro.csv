@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Nizampur,0,0,100,35,54,11,0,100,0,0,100,0,0,100,0,0,100,64,36,41,59,100,0,76,23,95,5
+Pura Ramji,0,0,100,34,54,12,1,94,5,0,100,0,0,100,0,0,100,64,36,40,60,100,0,80,20,98,2
+Makadunpur,0,0,100,25,46,29,0,94,6,0,100,0,0,100,0,0,100,64,36,30,70,99,0,82,18,99,1
+Mohammadpur,0,0,100,34,49,17,4,93,3,0,100,0,0,100,0,0,100,68,32,45,55,100,0,83,17,100,0
+Gondhana,0,0,100,31,37,32,0,99,1,1,99,0,17,83,0,0,100,40,60,22,78,98,2,59,41,93,7
+Sher Jahanpur,0,0,100,34,35,31,0,99,1,1,99,0,0,100,0,0,100,58,42,29,71,100,0,82,18,100,0
+Pach Rukhawa,0,0,100,30,38,32,3,93,4,2,98,0,1,99,0,0,97,59,41,34,66,99,1,77,23,97,3
+Nashopur,0,0,100,33,35,32,2,95,3,23,77,0,0,100,0,0,100,68,32,40,60,99,1,93,7,99,1
+Sultanpur,0,0,100,32,36,31,1,99,0,25,75,0,0,100,0,0,100,63,37,56,44,99,1,80,20,96,4
+Milkipur,0,1,99,29,41,30,0,95,5,1,99,0,0,100,0,0,98,58,42,46,54,100,0,81,19,99,1

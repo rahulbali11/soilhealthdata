@@ -1,0 +1,16 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Parsauna,0,0,24,17,7,0,0,24,0,24,0,0,11,13,0,0,24,0,,24,0,6,18,24,0,24,0,24,0
+Barhara,0,0,13,4,9,0,1,12,0,8,5,0,7,6,0,0,13,0,,12,1,0,13,13,0,13,0,13,0
+Moradih,0,0,14,11,3,0,0,14,0,14,0,0,8,6,0,0,14,0,,14,0,8,6,14,0,13,1,14,0
+Karhia Basauli,0,1,30,21,10,0,1,30,0,24,7,11,12,8,0,0,31,0,,31,0,1,30,31,0,25,6,31,0
+Manpur,0,0,14,11,3,0,0,13,1,13,1,4,4,6,0,0,14,0,,14,0,3,11,14,0,11,3,13,0
+Kaubar,0,0,7,4,3,0,0,7,0,7,0,3,2,2,0,0,7,0,,7,0,0,7,7,0,4,3,7,0
+Kanhaiyapur,0,0,8,4,4,0,0,7,1,8,0,3,3,2,0,0,8,0,,8,0,0,8,8,0,8,0,8,0
+Pakri,0,0,14,9,5,0,0,14,0,12,2,2,3,9,0,0,14,0,,13,1,2,12,14,0,11,3,14,0
+Charamraha,0,0,7,5,2,0,0,7,0,3,4,0,4,3,0,0,7,0,,7,0,0,7,7,0,7,0,7,0
+Semarbari,0,1,19,11,9,0,3,17,0,17,3,5,7,8,0,0,20,0,,20,0,0,20,20,0,12,8,20,0
+Bhuidharwa,0,0,62,23,39,0,1,61,0,48,14,7,16,39,0,0,62,0,,60,2,11,51,62,0,53,9,62,0
+Machhaha urf Dubaha,0,1,71,30,42,0,2,70,0,54,18,21,26,25,0,0,72,0,,69,3,17,55,70,2,56,16,70,0
+Tola Diho Pakri,0,1,50,34,17,0,1,49,1,42,9,9,15,27,0,0,51,0,,49,2,17,34,51,0,34,17,51,0
+Barariha,0,0,7,7,0,0,0,7,0,6,1,4,2,1,0,0,7,0,,7,0,2,5,7,0,7,0,7,0
+Khaira Tola,0,2,93,79,16,0,0,89,6,61,34,17,23,55,0,0,95,0,,81,14,65,30,95,0,83,12,93,2

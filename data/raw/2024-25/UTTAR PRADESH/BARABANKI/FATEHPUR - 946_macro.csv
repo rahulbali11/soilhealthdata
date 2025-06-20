@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Gauri Baniyani,1,0,99,25,39,36,12,68,19,67,33,4,11,85,5,0,95,92,8,61,38,96,4,87,13,98,2
+GANGAULA,0,0,100,6,66,28,14,82,4,89,11,1,13,86,0,1,99,67,33,50,50,99,1,50,50,82,18
+Gangchauli,0,1,99,21,52,27,4,84,12,94,6,7,21,72,6,0,94,64,36,72,28,100,0,87,13,98,2
+Naktauli,0,0,100,16,50,34,5,88,7,86,14,4,7,89,4,1,94,60,40,41,59,83,17,66,34,93,7
+Nandanakala,0,0,100,5,55,40,6,88,6,81,19,3,12,85,1,0,99,65,35,33,67,99,1,63,37,85,15
+Nandrasi,0,0,100,4,69,27,8,74,18,81,19,2,4,94,0,4,95,53,47,41,59,98,2,54,46,83,17
+Ghaghsi,0,0,100,9,60,31,8,69,23,83,17,6,21,73,2,0,98,74,26,63,37,96,4,97,3,93,7
+Bishunpur,0,0,100,22,59,19,14,67,19,97,3,3,13,84,5,0,95,74,26,66,34,100,0,96,4,89,11
+Behura,0,0,100,29,47,24,4,60,36,96,4,9,14,77,0,0,100,62,38,50,50,73,27,91,9,97,3
+Bhagoli,0,0,100,26,51,23,2,68,30,97,3,7,11,82,0,0,100,47,53,48,52,100,0,90,10,98,2

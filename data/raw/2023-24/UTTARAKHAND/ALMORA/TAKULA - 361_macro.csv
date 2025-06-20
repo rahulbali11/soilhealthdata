@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Bhat Gaon,0,0,0,0,5,9,5,9,0,10,4,14,0,0,0,0,14,14,0,14,0,4,10,11,3,14,0
+Churari,0,0,0,0,5,9,6,8,0,9,5,10,2,2,0,0,14,14,0,13,1,11,3,10,4,12,2
+Paner Gaon,0,0,0,2,4,9,5,9,1,10,5,15,0,0,0,0,15,15,0,15,0,6,9,9,6,15,0
+Kakrad,0,0,0,3,6,7,10,6,0,7,9,14,0,2,0,0,16,16,0,16,0,16,0,16,0,12,4
+Lachham Pur,0,0,1,2,6,10,3,14,1,8,10,11,2,5,0,0,18,18,0,18,0,7,11,16,2,18,0
+Balota,0,0,0,2,4,6,6,6,0,7,5,12,0,0,0,0,12,11,1,11,1,4,8,9,3,12,0
+Raulayana Gunth,0,0,0,3,5,7,7,8,0,10,5,15,0,0,0,0,15,15,0,15,0,9,6,15,0,15,0
+Kalet,0,0,0,3,5,7,8,7,0,7,8,13,2,0,0,0,15,15,0,15,0,15,0,15,0,9,6
+Chanoli,0,0,0,3,5,6,8,6,0,8,6,14,0,0,0,0,14,14,0,14,0,6,8,12,2,13,1
+Supa Kote,0,0,0,0,4,10,3,11,0,7,7,14,0,0,0,0,14,14,0,14,0,7,7,13,1,12,2

@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Jamurkha,0,0,100,1,23,76,1,99,0,0,100,0,4,96,1,0,99,0,,40,60,42,58,92,8,80,20,94,6
+Asavariya,0,0,100,0,12,88,1,87,12,0,100,0,0,100,0,0,100,0,,67,33,100,0,87,13,79,21,100,0
+Dabariya,0,0,100,0,19,81,2,90,8,1,99,0,0,100,1,1,98,1,,63,37,12,88,89,11,81,19,71,29
+Papraul,0,0,100,0,11,89,0,95,5,0,100,0,0,100,0,0,100,0,,93,7,1,99,100,0,81,19,99,1
+Kamalpur,0,0,100,0,19,81,3,87,10,1,99,0,0,100,0,0,100,0,,52,48,2,98,90,10,79,21,94,6
+Nonari,0,0,100,0,18,82,0,95,5,0,100,0,0,100,0,0,100,0,,46,54,100,0,56,44,86,14,0,100
+Gurehoo,0,0,100,1,18,81,1,96,3,0,100,0,0,100,0,1,99,0,,28,72,41,59,74,26,79,21,17,83
+Baheri,0,0,100,0,56,44,0,95,5,1,99,0,0,100,0,1,99,1,,1,99,100,0,70,30,74,26,100,0
+Prahaladpur,0,0,100,0,17,83,3,95,2,1,99,0,0,100,0,0,100,2,,97,3,99,1,100,0,69,31,100,0
+Manni Patti,0,0,100,0,59,41,1,94,5,0,100,0,0,100,0,0,100,0,,98,2,99,1,18,82,74,26,0,100

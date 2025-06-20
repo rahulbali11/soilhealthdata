@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Hafizpur,0,0,100,31,65,4,1,98,1,40,60,1,0,99,0,1,99,75,25,92,8,100,0,2,98,100,0
+Nagaripar,0,0,100,23,72,5,0,98,2,52,48,0,0,100,0,0,97,64,36,28,72,100,0,2,98,100,0
+Tulasipur Kodhwa,0,0,100,25,70,5,0,99,1,43,57,0,0,100,0,0,99,77,23,90,10,100,0,3,97,100,0
+Rampur Kadhi,1,0,99,37,50,13,0,100,0,50,50,1,0,99,0,0,100,71,29,26,74,100,0,0,100,100,0
+Saidpur,0,0,100,24,73,3,0,100,0,60,40,0,0,100,0,0,96,75,25,100,0,100,0,1,99,100,0
+Bardiha Mu. Halimabad,0,0,100,27,70,3,0,99,1,53,47,0,0,100,0,0,100,58,42,36,64,100,0,0,100,99,1
+Khushamadpur,0,0,100,24,73,3,0,100,0,33,67,0,0,100,0,2,98,74,26,29,71,100,0,4,96,100,0
+Dewariya Bujurg,0,0,100,23,75,2,0,100,0,41,59,0,0,100,0,0,100,73,27,100,0,100,0,10,90,99,1
+Bandi Kala,0,0,100,34,63,3,0,100,0,15,85,0,0,100,1,0,96,95,5,37,63,98,2,3,97,99,1
+Sahuwari,0,0,100,31,65,4,0,98,2,48,52,0,0,100,0,0,100,77,23,26,74,95,0,2,98,100,0

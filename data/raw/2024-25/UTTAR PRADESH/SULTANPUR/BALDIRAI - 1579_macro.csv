@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+PATELA,0,0,100,25,67,8,0,100,0,42,58,0,17,83,0,0,100,58,42,48,52,91,9,20,80,95,5
+ALAMAU,0,0,100,44,32,24,0,99,1,67,33,1,14,85,0,0,100,44,56,66,34,89,11,14,86,92,8
+NATAULI,0,1,99,35,50,15,0,98,2,81,19,3,2,95,2,1,97,41,59,65,35,90,10,13,87,97,3
+KAPA,1,0,99,44,37,19,0,98,2,85,15,1,6,93,6,1,92,47,53,65,35,92,8,13,87,93,7
+SORAW,0,0,100,17,51,32,3,90,7,75,25,0,0,100,3,1,96,60,40,55,45,89,11,9,91,95,5
+CAKMUSI,1,1,98,15,58,27,1,87,12,37,63,0,4,96,0,0,99,56,44,51,49,94,2,25,75,92,8
+UMRA,3,0,97,26,47,27,0,91,9,91,9,1,10,89,0,0,100,67,33,61,39,98,2,23,77,92,8
+TIRHUT,0,0,100,25,43,32,0,92,8,90,10,0,13,87,0,0,100,53,47,40,60,92,6,32,68,100,0
+Akhari,4,0,96,40,47,13,4,80,16,84,15,4,34,62,3,12,82,52,48,67,33,96,2,21,79,85,15
+GORABARAMAU,0,0,100,25,49,26,1,88,11,76,24,9,28,63,0,0,100,38,62,39,61,87,5,36,64,92,8

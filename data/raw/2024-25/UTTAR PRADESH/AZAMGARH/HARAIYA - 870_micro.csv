@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,EC Saline,EC Deficient,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Urdiha,0,0,100,18,55,27,0,99,1,0,100,0,0,100,0,0,100,0,,51,49,43,57,100,0,80,20,98,2
+Dewara Achal Singh,0,0,100,24,45,31,2,92,6,0,100,0,0,100,0,0,98,0,,35,65,42,58,99,0,74,26,97,3
+Khetapur,0,0,100,34,46,20,1,97,2,1,99,0,0,100,0,0,96,0,,61,39,34,66,100,0,69,31,100,0
+Hajipur,0,0,100,25,46,29,3,96,1,1,99,0,4,96,0,0,100,0,,64,36,33,67,100,0,79,21,95,5
+Surdahpar,0,0,100,29,54,17,0,97,3,25,75,0,0,100,0,0,100,0,,71,29,40,60,99,0,94,6,96,4
+Dewara Khasraja,0,0,100,21,59,20,0,97,3,15,85,0,0,100,0,0,99,0,,53,47,42,58,100,0,86,14,96,4
+Siwan,0,0,100,32,54,14,1,99,0,15,85,0,0,100,0,0,100,0,,67,33,49,51,100,0,93,7,98,2
+Bardiha,0,0,100,30,57,13,0,100,0,29,71,0,1,99,0,0,100,0,,48,52,45,55,100,0,79,21,100,0
+Rasulpur,0,0,100,31,55,14,1,95,4,0,100,0,0,100,0,0,100,0,,55,45,46,54,100,0,90,10,97,3
+Hasanpur,0,0,100,28,59,13,1,99,0,0,100,0,0,100,0,0,100,0,,57,43,41,59,100,0,84,16,99,1

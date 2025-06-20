@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Mathurapur,0,0,100,42,58,0,0,100,0,100,0,0,0,100,0,0,100,75,25,76,24,84,16,100,0,93,7
+Duvepur,0,0,100,43,57,0,0,100,0,100,0,0,0,100,1,0,99,74,26,75,25,78,22,99,1,92,8
+Dari Khurd,0,0,100,42,58,0,0,100,0,100,0,0,0,100,0,0,100,84,16,80,20,75,25,99,1,95,5
+Dewmai,0,0,100,46,54,0,1,99,0,96,4,0,0,100,0,0,100,83,17,67,33,78,22,100,0,93,7
+Gharaha,0,0,100,45,55,0,0,100,0,100,0,0,0,100,0,0,100,75,25,82,18,88,12,99,1,92,8
+Kansarahi,0,0,100,46,54,0,0,100,0,86,14,0,0,100,0,0,100,76,24,76,24,84,16,100,0,94,6
+Jogapur,0,0,100,44,56,0,0,100,0,99,1,0,0,100,0,0,100,77,23,78,22,86,14,100,0,94,6
+Tikara,0,0,100,46,54,0,0,100,0,83,17,0,0,100,0,0,100,75,25,77,23,80,20,100,0,93,7
+Alampur,0,0,100,45,55,0,0,100,0,100,0,0,0,100,0,0,100,81,19,83,17,90,10,100,0,93,7
+Paharipur,0,0,100,45,55,0,0,100,0,100,0,0,0,100,0,0,100,75,25,82,18,93,7,100,0,93,7

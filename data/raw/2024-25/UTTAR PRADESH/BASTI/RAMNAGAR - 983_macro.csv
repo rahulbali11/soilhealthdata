@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Narkatha,0,0,100,28,71,1,2,77,21,0,100,0,0,100,0,0,100,100,0,0,100,100,0,41,59,100,0
+Jamohana,0,0,100,23,77,0,0,79,21,0,100,0,0,100,0,0,100,100,0,1,99,100,0,53,47,99,1
+Tendua Asnahara,0,0,100,24,76,0,1,79,20,0,100,0,0,100,0,0,100,100,0,1,99,100,0,38,62,100,0
+Dhawai,0,0,100,18,82,0,1,81,18,0,100,0,0,100,0,0,100,100,0,0,100,100,0,57,43,100,0
+Tusail,0,0,100,32,68,0,0,82,18,0,100,0,0,100,1,0,99,97,3,0,100,100,0,48,52,100,0
+Barawngi,0,0,100,19,81,0,1,76,23,0,100,0,0,100,0,0,100,100,0,0,100,100,0,60,40,100,0
+Dhaorahara,0,0,100,24,76,0,1,82,17,1,99,0,0,100,0,0,100,98,2,0,100,100,0,42,58,100,0
+Beili,0,0,100,24,76,0,0,77,23,0,100,0,0,100,1,0,99,99,1,0,100,100,0,66,34,100,0
+Barahkoni,0,0,100,25,73,2,1,84,15,0,100,0,0,100,0,0,100,99,1,2,98,100,0,36,64,99,1
+Belgari,0,0,100,22,77,1,1,76,23,1,99,0,0,100,1,0,99,99,1,1,99,100,0,39,61,99,1

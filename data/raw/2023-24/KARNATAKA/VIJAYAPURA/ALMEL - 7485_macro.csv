@@ -1,0 +1,15 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Tarapur (Old),0,0,2,2,0,0,2,0,0,0,2,0,0,2,0,0,2,1,1,2,0,2,0,1,1,2,0
+Balaganur,0,0,33,31,2,0,32,1,0,0,33,0,0,33,0,0,33,13,20,16,17,33,0,18,15,24,9
+Kumashigi,0,0,18,17,1,0,17,1,0,0,18,0,0,18,2,0,16,12,6,6,12,18,0,11,7,17,1
+Gundgi,0,0,26,21,5,0,24,2,0,0,26,0,0,26,0,0,26,9,17,9,17,26,0,16,10,17,9
+Uchitnavadgi,0,0,2,1,1,0,2,0,0,0,2,0,0,2,0,0,2,1,1,0,2,2,0,2,0,1,1
+Somajal,0,0,25,21,4,0,25,0,0,0,25,0,0,25,5,0,20,1,24,2,23,25,0,21,4,11,14
+Huvinahalli,0,0,25,22,3,0,24,1,0,0,25,0,0,25,1,0,24,12,13,13,12,25,0,16,9,23,2
+Devaranavadgi,0,0,61,45,15,1,47,14,0,0,61,0,0,61,11,0,50,0,61,0,61,61,0,41,20,0,61
+Malaghan,0,0,3,2,1,0,3,0,0,0,3,0,0,3,0,0,3,2,1,1,2,3,0,2,1,3,0
+Asangihal,0,0,3,1,1,1,3,0,0,0,3,0,0,3,0,0,3,0,3,0,3,3,0,2,1,0,3
+Devangaon,0,0,20,19,1,0,19,1,0,0,20,0,0,20,0,0,20,8,12,11,9,20,0,12,8,20,0
+Hanchinal,0,0,24,22,2,0,23,1,0,0,24,0,0,24,1,0,23,1,23,15,9,24,0,14,10,22,2
+Kadani,0,0,85,68,17,0,85,0,0,0,85,0,0,85,0,0,85,4,81,12,73,83,2,53,32,15,70
+Kadlewad(P.A),0,0,12,9,3,0,11,1,0,0,12,0,0,12,0,0,12,1,11,8,4,12,0,6,6,11,1

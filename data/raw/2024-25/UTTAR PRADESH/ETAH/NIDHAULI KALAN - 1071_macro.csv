@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Margaya,0,2,98,13,75,12,13,87,0,92,8,0,2,98,1,0,99,0,100,32,68,100,0,43,57,8,92
+Gokulpur,0,1,99,28,67,5,12,88,0,92,8,0,1,99,0,0,100,0,100,37,63,100,0,26,74,9,91
+Mangrauli,0,26,74,22,68,10,12,88,0,76,24,4,22,74,0,0,100,0,100,43,57,100,0,38,62,8,92
+Manaura,0,1,99,18,74,8,19,81,0,91,9,0,1,99,0,0,100,0,100,54,46,100,0,33,67,7,93
+Jawara,0,29,71,2,95,3,15,85,0,75,25,0,30,70,0,0,100,0,100,67,33,100,0,42,58,0,100
+Lehra,0,1,99,14,82,4,36,64,0,81,19,0,1,99,1,0,99,0,100,48,52,100,0,44,56,5,95
+Nidhaulikalan,0,0,100,21,74,5,17,83,0,78,22,0,0,100,0,0,100,0,100,36,64,100,0,42,58,7,93
+Nagala Khilli,0,14,86,1,97,2,6,94,0,75,25,1,13,86,0,0,100,0,100,51,49,100,0,41,59,1,99
+Kamsan,0,9,91,3,95,2,22,77,1,74,26,0,9,91,0,0,100,0,100,74,26,100,0,48,52,2,98
+Gadanpur,0,2,98,4,92,4,21,66,13,76,24,0,2,98,0,0,100,0,100,53,47,100,0,39,61,8,92

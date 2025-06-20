@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Bagla,7,3,0,1,8,1,1,9,0,10,0,7,3,0,0,0,10,10,0,9,1,10,0,0,0,10,0
+Qila Darhal,6,3,0,1,8,0,1,8,0,9,0,8,1,0,0,0,9,9,0,8,1,9,0,0,0,9,0
+Lam,16,10,0,1,24,1,1,25,0,26,0,19,7,0,0,0,26,26,0,24,2,26,0,0,0,26,0
+Chak Sarkari,10,4,0,0,12,2,1,13,0,14,0,11,2,1,0,0,14,14,0,13,1,14,0,0,0,14,0
+Rajowa,5,2,0,0,7,0,0,7,0,7,0,5,2,0,0,0,7,7,0,7,0,7,0,0,0,7,0
+Anayatpur,6,1,0,0,7,0,0,7,0,7,0,7,0,0,0,0,7,7,0,7,0,7,0,0,0,7,0
+Mohra Kampla,13,8,0,0,20,1,1,20,0,21,0,16,5,0,0,0,21,21,0,20,1,21,0,0,0,21,0
+Rajpur Kamilla,7,6,0,1,11,1,0,13,0,13,0,8,5,0,0,0,13,13,0,12,1,13,0,0,0,13,0
+Laroka,10,8,0,1,16,1,1,17,0,18,0,13,5,0,0,0,18,18,0,17,1,18,0,0,0,18,0
+Pukharni,6,2,0,0,8,0,1,7,0,8,0,6,2,0,0,0,8,8,0,8,0,8,0,0,0,8,0

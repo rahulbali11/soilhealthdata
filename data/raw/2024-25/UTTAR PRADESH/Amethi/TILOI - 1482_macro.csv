@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Asni,0,1,99,4,30,65,1,34,65,34,65,3,12,85,0,27,59,18,80,30,67,88,2,32,67,46,53
+Koora,1,0,99,11,62,27,1,90,8,87,13,10,44,46,7,0,93,80,20,96,4,79,21,60,40,95,5
+Agauna,1,0,99,3,42,55,6,57,36,51,49,1,34,65,5,16,70,41,58,46,54,98,1,55,44,70,30
+Meera Mau,2,0,97,7,69,24,3,89,8,85,14,7,51,42,6,0,94,87,12,92,8,99,0,51,49,90,10
+Saimbasi,1,0,99,11,46,42,2,58,40,66,33,4,43,53,9,10,76,64,36,58,40,91,1,59,41,73,26
+Janapur,0,1,99,1,21,78,0,28,72,18,82,8,27,65,2,5,91,25,75,25,75,98,1,38,62,33,66
+Barkot,0,0,99,5,48,46,3,57,40,47,52,2,25,73,6,17,68,49,50,48,52,96,4,42,58,66,33
+Ahuri,0,0,100,9,53,38,4,81,15,84,16,4,40,56,4,1,88,58,41,73,27,88,11,58,42,95,5
+Kutmara,0,0,100,3,71,26,5,94,1,91,9,7,41,52,8,0,92,88,12,97,3,82,18,58,42,95,5
+Tama Mau,0,0,100,10,65,25,1,91,8,71,29,4,62,34,7,0,93,62,38,97,2,99,0,61,38,85,15

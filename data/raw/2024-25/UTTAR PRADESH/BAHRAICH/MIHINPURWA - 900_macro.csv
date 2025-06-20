@@ -1,0 +1,11 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Gaurariya,0,0,100,0,98,2,0,93,7,29,71,0,2,98,0,0,100,88,12,95,5,86,14,4,96,73,27
+Songawa,0,0,100,0,95,5,0,90,10,42,58,0,1,99,0,0,100,90,10,100,0,79,21,4,96,77,23
+Bojhiya,0,0,100,0,99,1,0,95,5,26,74,0,0,100,0,0,100,88,12,98,2,83,17,1,99,81,19
+Somaie Gauri,0,0,100,0,95,5,0,94,6,28,72,0,0,100,0,0,100,84,16,95,5,81,19,2,98,74,26
+Jalim Nagar,0,0,100,0,98,2,0,92,8,30,70,0,0,100,0,0,100,83,17,100,0,83,17,0,100,81,19
+Kanjarwa,0,0,100,3,88,9,0,93,7,30,70,0,0,100,0,0,100,87,13,81,19,83,17,2,98,70,30
+Dharmapur,0,0,100,2,89,9,0,97,3,29,71,0,0,100,1,0,99,84,16,83,17,80,20,0,100,79,21
+Mangauriya,0,0,100,0,89,11,0,96,4,27,73,0,3,97,0,0,100,96,4,78,22,68,32,6,94,72,28
+Lalbojhe,0,0,100,0,91,9,0,92,8,38,62,0,3,97,0,0,100,96,4,55,45,75,25,7,93,64,36
+Harkhapur,0,0,100,0,89,11,0,98,2,32,68,0,0,100,0,0,100,92,8,53,47,72,28,4,96,68,32

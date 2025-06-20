@@ -1,0 +1,15 @@
+village,Nitrogen High,Nitrogen Medium,Nitrogen Low,Phosphorus High,Phosphorus Medium,Phosphorus Low,Potassium High,Potassium Medium,Potassium Low,Sulphur Sufficient,Sulphur Deficient,None High,None Medium,None Low,pH Alkaline,pH Acidic,pH Neutral,Iron Sufficient,Iron Deficient,Zinc Sufficient,Zinc Deficient,Copper Sufficient,Copper Deficient,Boron Sufficient,Boron Deficient,Manganese Sufficient,Manganese Deficient
+Jilledubudakala,1,32,3,5,31,0,36,0,0,36,0,0,0,36,0,0,36,28,8,26,10,33,3,35,1,31,5
+Kappatralla,0,32,4,5,29,2,35,1,0,36,0,0,0,36,0,0,36,24,12,25,11,35,1,33,3,32,4
+Karivemula,0,31,5,5,31,0,32,4,0,36,0,0,0,36,3,0,33,28,8,27,9,36,0,35,1,35,1
+Chellelichelimala,0,27,9,5,31,0,35,1,0,36,0,0,0,36,0,0,36,22,14,26,10,34,2,33,3,31,5
+Gundlakonda,0,26,10,4,32,0,34,2,0,36,0,0,0,36,0,0,36,29,7,26,10,33,3,35,1,35,1
+P.Kotakonda,0,62,10,6,65,1,72,0,0,71,1,0,0,72,0,0,72,55,17,56,16,69,3,70,2,69,3
+Potlapadu,0,26,10,2,32,2,34,2,0,35,1,0,0,36,0,0,36,27,9,28,8,33,3,33,3,34,2
+Palakurthy,0,30,6,5,31,0,35,1,0,36,0,0,0,36,0,0,36,27,9,28,8,36,0,35,1,34,2
+Kunkanur,1,30,5,5,31,0,35,1,0,35,1,0,0,36,0,0,36,24,12,27,9,36,0,35,1,34,2
+Nallachelimal,0,58,14,9,63,0,72,0,0,72,0,0,0,72,0,0,72,56,16,58,14,71,1,70,2,69,3
+Devanakonda,0,56,15,7,64,0,63,8,0,70,2,0,0,69,0,0,69,54,18,52,20,68,4,70,2,66,6
+Velamakuru,1,57,15,4,65,4,66,6,1,73,0,0,0,73,3,0,70,47,26,57,16,71,2,71,2,68,5
+Ternekal,0,54,19,7,63,3,67,6,0,73,0,0,0,73,0,0,73,54,19,60,13,69,4,71,2,70,3
+Machapuram,0,28,8,6,29,1,35,1,0,35,1,0,0,36,0,0,36,25,11,25,11,36,0,29,7,34,2
