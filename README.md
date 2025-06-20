@@ -19,7 +19,7 @@ This project involves scraping, consolidating, and analyzing soil health data fr
 ## 📂 Folder Structure
 
 ```
-soil_project/
+soilhealthdata/
 ├── data/
 │   ├── raw/                  # Scraped CSVs (state/district/block/year-wise)
 │   └── processed/
